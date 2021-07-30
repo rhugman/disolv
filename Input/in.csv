@@ -8,5 +8,5 @@ Tracer concentration of water inflow [M/L^3],1.129
 Water temperature [Celsius] (only read if above is FEC),25
 AlphaMin,0.05
 AlphaMax,0.3
-FlowMin,0.0001
-FlowMax,6
+FlowMin,0.00001
+FlowMax,1e3
