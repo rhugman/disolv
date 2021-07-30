@@ -50,26 +50,28 @@ def run(InDir, OutDir, calibrate=False, convertFEC=True, method='SLSQP',**kwargs
 
     InDat = os.path.join(InDir, "in.csv")
 
-    Parameters = np.genfromtxt(InDat, delimiter=',', skip_footer=1)[:-1, 0]
-
+    #Parameters = np.genfromtxt(InDat, delimiter=',', skip_footer=1)[:-1, 0]
+    Parameters = pd.read_csv(InDat, header=None)
     if len(Parameters) < 8:
         raise Exception("There are variables missing from the input file.",
                         "Please check.")
 
-    GWlevel = Parameters[0]
-    BHdepth = Parameters[1]
-    z = Parameters[2]
-    A = Parameters[3]
-    alpha = Parameters[4]
-    Dd = Parameters[5]
-    Cc = Parameters[6]
-    Temp = Parameters[7]
+    GWlevel = Parameters.iloc[0, 1]
+    BHdepth = Parameters.iloc[1, 1]
+    z = Parameters.iloc[2, 1]
+    A = Parameters.iloc[3, 1]
+    alpha = Parameters.iloc[4, 1]
+    Dd = Parameters.iloc[5, 1]
+    Cc = Parameters.iloc[6, 1]
+    Temp = Parameters.iloc[7, 1]
 
     SatColumn = z * round((BHdepth - GWlevel)/z)
 
-    Bounds = np.genfromtxt(InDat, delimiter=',', skip_header=16,
-                           skip_footer=1)[:4]
-    t = np.genfromtxt(InDat, delimiter=',', skip_header=18)
+    Bounds = Parameters.iloc[8:, 1].values
+
+# ----------------------------Get output times-----------------------   
+    TimeDat = os.path.join(InDir, "output_times.csv")        
+    t = np.genfromtxt(TimeDat, delimiter=',', skip_header=1)
     t = t[np.isfinite(t)]
     t = np.concatenate((np.array([0]), t))
 
