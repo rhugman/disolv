@@ -1,0 +1,12 @@
+Depth to groundwater level,18.75
+Borehole depth,71.25
+Spatial discretization of grid,2.5
+Constant borehole cross-sectional area,0.031415927
+Dispersivity,1.3
+Diffusion coefficient,0.000000001
+Tracer concentration of water inflow,0
+Water temperature,28.5
+AlphaMin,0.2
+AlphaMax,1.5
+FlowMin,0
+FlowMax,2

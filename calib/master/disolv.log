@@ -1,0 +1,856 @@
+time,elapsed_seconds,message
+18:22:02,4.91e-05,PEST++ performance logger started
+18:22:02,0.0009606,starting to process control file
+18:22:02,0.0194019,finished processing control file
+18:22:02,0.0133394,loading parcov
+18:22:02,0.0077801,beginning iteration 1
+18:22:02,0.0002285,commencing to build jacobian parameter sets
+18:22:02,0.0688809,jacobian parameter sets built, commencing model runs
+18:35:01,779.313,jacobian runs complete, processing runs
+18:35:01,0.162153,processing jacobian runs complete
+18:35:01,5.66e-05,saving jacobian and sen files
+18:35:01,0.0934527,commencing calculation of upgrade vector
+18:35:01,0.0477276,forming JtQJ matrix
+18:35:01,0.0642724,commencing to scale JtQJ matrix- first SVD...
+18:35:01,0.0011585,starting REDSVD
+18:35:02,0.181668,retrieving REDSVD components
+18:35:02,0.0025104,triming REDSVD components to 20elements
+18:35:02,0.0002208,done REDSVD
+18:35:02,0.0127677,S info: rows = 531: cols = 531: size = 281961: nonzeros = 530
+18:35:02,3.01e-05,JS
+18:35:02,0.0019242,JS.transpose() * q_mat * JS + lambda * S.transpose() * S
+18:35:02,0.0579898,S info: rows = 531: cols = 531: size = 281961: nonzeros = 530
+18:35:02,3.31e-05,commencing SVD factorization of lambda-scaled JtQJ
+18:35:02,1.36e-05,starting REDSVD
+18:35:02,0.171535,retrieving REDSVD components
+18:35:02,0.0025601,triming REDSVD components to 20elements
+18:35:02,0.0001708,done REDSVD
+18:35:02,0.0003388,SVD factorization complete
+18:35:02,0.011094,commencing linear algebra multiplication to compute ugrade
+18:35:02,2.04e-05,S info: rows = 531: cols = 531: size = 281961: nonzeros = 530Vt info: rows = 20: cols = 531: size = 10620: nonzeros = 10600
+18:35:02,1.02e-05,U info: rows = 531: cols = 20: size = 10620: nonzeros = 10600
+18:35:02,1.18e-05,jac info: rows = 160: cols = 531: size = 84960: nonzeros = 76049
+18:35:02,0.0030723,linear algebra multiplication to compute ugrade complete
+18:35:02,0.001637,commencing check of parameter bounds and gradients
+18:35:02,0.0031591,beginning upgrade vector calculations, lambda = 0.1
+18:35:02,7.58e-05,commencing calculation of upgrade vector
+18:35:02,0.0511546,forming JtQJ matrix
+18:35:02,0.0560939,commencing to scale JtQJ matrix- first SVD...
+18:35:02,3.73e-05,starting REDSVD
+18:35:02,0.177533,retrieving REDSVD components
+18:35:02,0.0024431,triming REDSVD components to 20elements
+18:35:02,0.0001967,done REDSVD
+18:35:02,0.0130895,S info: rows = 531: cols = 531: size = 281961: nonzeros = 530
+18:35:02,3.01e-05,JS
+18:35:02,0.001833,JS.transpose() * q_mat * JS + lambda * S.transpose() * S
+18:35:02,0.0574115,S info: rows = 531: cols = 531: size = 281961: nonzeros = 530
+18:35:02,3.16e-05,commencing SVD factorization of lambda-scaled JtQJ
+18:35:02,1.03e-05,starting REDSVD
+18:35:02,0.17231,retrieving REDSVD components
+18:35:02,0.0023915,triming REDSVD components to 21elements
+18:35:02,0.0001441,done REDSVD
+18:35:02,0.0003355,SVD factorization complete
+18:35:02,0.0092171,commencing linear algebra multiplication to compute ugrade
+18:35:02,1.41e-05,S info: rows = 531: cols = 531: size = 281961: nonzeros = 530Vt info: rows = 21: cols = 531: size = 11151: nonzeros = 11130
+18:35:02,9.8e-06,U info: rows = 531: cols = 21: size = 11151: nonzeros = 11130
+18:35:02,9.2e-06,jac info: rows = 160: cols = 531: size = 84960: nonzeros = 76049
+18:35:02,0.0030299,linear algebra multiplication to compute ugrade complete
+18:35:02,0.0016144,commencing check of parameter bounds and gradients
+18:35:02,0.0002371,commencing calculation of upgrade vector
+18:35:02,0.0478445,forming JtQJ matrix
+18:35:03,0.0538588,commencing to scale JtQJ matrix- first SVD...
+18:35:03,3.27e-05,starting REDSVD
+18:35:03,0.172264,retrieving REDSVD components
+18:35:03,0.0026271,triming REDSVD components to 20elements
+18:35:03,0.0002011,done REDSVD
+18:35:03,0.0130988,S info: rows = 531: cols = 531: size = 281961: nonzeros = 530
+18:35:03,2.86e-05,JS
+18:35:03,0.0018297,JS.transpose() * q_mat * JS + lambda * S.transpose() * S
+18:35:03,0.0573832,S info: rows = 531: cols = 531: size = 281961: nonzeros = 530
+18:35:03,7.33e-05,commencing SVD factorization of lambda-scaled JtQJ
+18:35:03,1.34e-05,starting REDSVD
+18:35:03,0.176159,retrieving REDSVD components
+18:35:03,0.0028236,triming REDSVD components to 21elements
+18:35:03,0.0001591,done REDSVD
+18:35:03,0.0004098,SVD factorization complete
+18:35:03,0.0091472,commencing linear algebra multiplication to compute ugrade
+18:35:03,1.61e-05,S info: rows = 531: cols = 531: size = 281961: nonzeros = 530Vt info: rows = 21: cols = 531: size = 11151: nonzeros = 11130
+18:35:03,1.15e-05,U info: rows = 531: cols = 21: size = 11151: nonzeros = 11130
+18:35:03,9.4e-06,jac info: rows = 160: cols = 531: size = 84960: nonzeros = 76049
+18:35:03,0.0030427,linear algebra multiplication to compute ugrade complete
+18:35:03,0.0016486,commencing check of parameter bounds
+18:35:03,0.0001816,limiting out of bounds pars
+18:35:03,0.0005815,checking for denormal floating point values
+18:35:03,0.0001084,transforming upgrade pars to model pars
+18:35:03,0.0001011,writing upgrade vector to csv file
+18:35:03,0.0034282,beginning upgrade vector calculations, lambda = 1
+18:35:03,0.00013,commencing calculation of upgrade vector
+18:35:03,0.0475693,forming JtQJ matrix
+18:35:03,0.0537812,commencing to scale JtQJ matrix- first SVD...
+18:35:03,3.49e-05,starting REDSVD
+18:35:03,0.173023,retrieving REDSVD components
+18:35:03,0.0023736,triming REDSVD components to 20elements
+18:35:03,0.0001716,done REDSVD
+18:35:03,0.0130698,S info: rows = 531: cols = 531: size = 281961: nonzeros = 530
+18:35:03,2.75e-05,JS
+18:35:03,0.001807,JS.transpose() * q_mat * JS + lambda * S.transpose() * S
+18:35:03,0.0576351,S info: rows = 531: cols = 531: size = 281961: nonzeros = 530
+18:35:03,3.17e-05,commencing SVD factorization of lambda-scaled JtQJ
+18:35:03,8.6e-06,starting REDSVD
+18:35:03,0.176934,retrieving REDSVD components
+18:35:03,0.0024522,triming REDSVD components to 21elements
+18:35:03,0.0001649,done REDSVD
+18:35:03,0.0003261,SVD factorization complete
+18:35:04,0.0090864,commencing linear algebra multiplication to compute ugrade
+18:35:04,1.41e-05,S info: rows = 531: cols = 531: size = 281961: nonzeros = 530Vt info: rows = 21: cols = 531: size = 11151: nonzeros = 11130
+18:35:04,1e-05,U info: rows = 531: cols = 21: size = 11151: nonzeros = 11130
+18:35:04,9.5e-06,jac info: rows = 160: cols = 531: size = 84960: nonzeros = 76049
+18:35:04,0.0029517,linear algebra multiplication to compute ugrade complete
+18:35:04,0.0015367,commencing check of parameter bounds and gradients
+18:35:04,0.0002373,commencing calculation of upgrade vector
+18:35:04,0.0483405,forming JtQJ matrix
+18:35:04,0.0541455,commencing to scale JtQJ matrix- first SVD...
+18:35:04,3.03e-05,starting REDSVD
+18:35:04,0.172517,retrieving REDSVD components
+18:35:04,0.0023359,triming REDSVD components to 20elements
+18:35:04,0.0001923,done REDSVD
+18:35:04,0.0130026,S info: rows = 531: cols = 531: size = 281961: nonzeros = 530
+18:35:04,3.04e-05,JS
+18:35:04,0.0018349,JS.transpose() * q_mat * JS + lambda * S.transpose() * S
+18:35:04,0.0573177,S info: rows = 531: cols = 531: size = 281961: nonzeros = 530
+18:35:04,3.13e-05,commencing SVD factorization of lambda-scaled JtQJ
+18:35:04,8.5e-06,starting REDSVD
+18:35:04,0.175986,retrieving REDSVD components
+18:35:04,0.0024513,triming REDSVD components to 21elements
+18:35:04,0.0001405,done REDSVD
+18:35:04,0.0003263,SVD factorization complete
+18:35:04,0.0091301,commencing linear algebra multiplication to compute ugrade
+18:35:04,1.59e-05,S info: rows = 531: cols = 531: size = 281961: nonzeros = 530Vt info: rows = 21: cols = 531: size = 11151: nonzeros = 11130
+18:35:04,9.7e-06,U info: rows = 531: cols = 21: size = 11151: nonzeros = 11130
+18:35:04,9e-06,jac info: rows = 160: cols = 531: size = 84960: nonzeros = 76049
+18:35:04,0.0028068,linear algebra multiplication to compute ugrade complete
+18:35:04,0.0015874,commencing check of parameter bounds
+18:35:04,0.0001914,limiting out of bounds pars
+18:35:04,0.0005991,checking for denormal floating point values
+18:35:04,0.0002813,transforming upgrade pars to model pars
+18:35:04,0.0001936,writing upgrade vector to csv file
+18:35:04,0.0042953,beginning upgrade vector calculations, lambda = 10
+18:35:04,7.79e-05,commencing calculation of upgrade vector
+18:35:04,0.0475314,forming JtQJ matrix
+18:35:04,0.0534944,commencing to scale JtQJ matrix- first SVD...
+18:35:04,3.55e-05,starting REDSVD
+18:35:04,0.171822,retrieving REDSVD components
+18:35:04,0.0024743,triming REDSVD components to 20elements
+18:35:04,0.0002249,done REDSVD
+18:35:04,0.0129341,S info: rows = 531: cols = 531: size = 281961: nonzeros = 530
+18:35:04,3.04e-05,JS
+18:35:04,0.0018859,JS.transpose() * q_mat * JS + lambda * S.transpose() * S
+18:35:04,0.0573149,S info: rows = 531: cols = 531: size = 281961: nonzeros = 530
+18:35:04,3.57e-05,commencing SVD factorization of lambda-scaled JtQJ
+18:35:04,8.8e-06,starting REDSVD
+18:35:05,0.172665,retrieving REDSVD components
+18:35:05,0.0024517,triming REDSVD components to 21elements
+18:35:05,0.0001423,done REDSVD
+18:35:05,0.0003227,SVD factorization complete
+18:35:05,0.0091526,commencing linear algebra multiplication to compute ugrade
+18:35:05,1.32e-05,S info: rows = 531: cols = 531: size = 281961: nonzeros = 530Vt info: rows = 21: cols = 531: size = 11151: nonzeros = 11130
+18:35:05,9.6e-06,U info: rows = 531: cols = 21: size = 11151: nonzeros = 11130
+18:35:05,9.3e-06,jac info: rows = 160: cols = 531: size = 84960: nonzeros = 76049
+18:35:05,0.0030943,linear algebra multiplication to compute ugrade complete
+18:35:05,0.0015865,commencing check of parameter bounds and gradients
+18:35:05,0.0002326,commencing calculation of upgrade vector
+18:35:05,0.0478463,forming JtQJ matrix
+18:35:05,0.054235,commencing to scale JtQJ matrix- first SVD...
+18:35:05,3.24e-05,starting REDSVD
+18:35:05,0.172198,retrieving REDSVD components
+18:35:05,0.0026006,triming REDSVD components to 20elements
+18:35:05,0.0002016,done REDSVD
+18:35:05,0.0128681,S info: rows = 531: cols = 531: size = 281961: nonzeros = 530
+18:35:05,2.85e-05,JS
+18:35:05,0.0019352,JS.transpose() * q_mat * JS + lambda * S.transpose() * S
+18:35:05,0.0606088,S info: rows = 531: cols = 531: size = 281961: nonzeros = 530
+18:35:05,3.53e-05,commencing SVD factorization of lambda-scaled JtQJ
+18:35:05,9.4e-06,starting REDSVD
+18:35:05,0.176334,retrieving REDSVD components
+18:35:05,0.0024014,triming REDSVD components to 21elements
+18:35:05,0.0001831,done REDSVD
+18:35:05,0.0003235,SVD factorization complete
+18:35:05,0.0091094,commencing linear algebra multiplication to compute ugrade
+18:35:05,1.42e-05,S info: rows = 531: cols = 531: size = 281961: nonzeros = 530Vt info: rows = 21: cols = 531: size = 11151: nonzeros = 11130
+18:35:05,1.14e-05,U info: rows = 531: cols = 21: size = 11151: nonzeros = 11130
+18:35:05,9.2e-06,jac info: rows = 160: cols = 531: size = 84960: nonzeros = 76049
+18:35:05,0.0030167,linear algebra multiplication to compute ugrade complete
+18:35:05,0.0016725,commencing check of parameter bounds
+18:35:05,0.0001869,limiting out of bounds pars
+18:35:05,0.0006154,checking for denormal floating point values
+18:35:05,9.75e-05,transforming upgrade pars to model pars
+18:35:05,0.0001024,writing upgrade vector to csv file
+18:35:05,0.003368,beginning upgrade vector calculations, lambda = 100
+18:35:05,5.37e-05,commencing calculation of upgrade vector
+18:35:05,0.0487359,forming JtQJ matrix
+18:35:05,0.0538971,commencing to scale JtQJ matrix- first SVD...
+18:35:05,3.19e-05,starting REDSVD
+18:35:05,0.171759,retrieving REDSVD components
+18:35:05,0.0024588,triming REDSVD components to 20elements
+18:35:05,0.000183,done REDSVD
+18:35:05,0.0129126,S info: rows = 531: cols = 531: size = 281961: nonzeros = 530
+18:35:05,3.08e-05,JS
+18:35:05,0.0018889,JS.transpose() * q_mat * JS + lambda * S.transpose() * S
+18:35:05,0.0577105,S info: rows = 531: cols = 531: size = 281961: nonzeros = 530
+18:35:05,3.06e-05,commencing SVD factorization of lambda-scaled JtQJ
+18:35:05,8.7e-06,starting REDSVD
+18:35:06,0.172708,retrieving REDSVD components
+18:35:06,0.0024739,triming REDSVD components to 21elements
+18:35:06,0.0001494,done REDSVD
+18:35:06,0.0003244,SVD factorization complete
+18:35:06,0.0091428,commencing linear algebra multiplication to compute ugrade
+18:35:06,1.25e-05,S info: rows = 531: cols = 531: size = 281961: nonzeros = 530Vt info: rows = 21: cols = 531: size = 11151: nonzeros = 11130
+18:35:06,9.7e-06,U info: rows = 531: cols = 21: size = 11151: nonzeros = 11130
+18:35:06,9.1e-06,jac info: rows = 160: cols = 531: size = 84960: nonzeros = 76049
+18:35:06,0.0029128,linear algebra multiplication to compute ugrade complete
+18:35:06,0.0016339,commencing check of parameter bounds and gradients
+18:35:06,0.0002362,commencing calculation of upgrade vector
+18:35:06,0.047454,forming JtQJ matrix
+18:35:06,0.0537094,commencing to scale JtQJ matrix- first SVD...
+18:35:06,3.32e-05,starting REDSVD
+18:35:06,0.175959,retrieving REDSVD components
+18:35:06,0.0025988,triming REDSVD components to 20elements
+18:35:06,0.0001678,done REDSVD
+18:35:06,0.0131461,S info: rows = 531: cols = 531: size = 281961: nonzeros = 530
+18:35:06,3.23e-05,JS
+18:35:06,0.0017691,JS.transpose() * q_mat * JS + lambda * S.transpose() * S
+18:35:06,0.0570317,S info: rows = 531: cols = 531: size = 281961: nonzeros = 530
+18:35:06,3.25e-05,commencing SVD factorization of lambda-scaled JtQJ
+18:35:06,8.6e-06,starting REDSVD
+18:35:06,0.173369,retrieving REDSVD components
+18:35:06,0.0024446,triming REDSVD components to 21elements
+18:35:06,0.0001444,done REDSVD
+18:35:06,0.0003269,SVD factorization complete
+18:35:06,0.009116,commencing linear algebra multiplication to compute ugrade
+18:35:06,1.26e-05,S info: rows = 531: cols = 531: size = 281961: nonzeros = 530Vt info: rows = 21: cols = 531: size = 11151: nonzeros = 11130
+18:35:06,9.5e-06,U info: rows = 531: cols = 21: size = 11151: nonzeros = 11130
+18:35:06,9.3e-06,jac info: rows = 160: cols = 531: size = 84960: nonzeros = 76049
+18:35:06,0.0030093,linear algebra multiplication to compute ugrade complete
+18:35:06,0.0016558,commencing check of parameter bounds
+18:35:06,0.0001772,limiting out of bounds pars
+18:35:06,0.00057,checking for denormal floating point values
+18:35:06,8.87e-05,transforming upgrade pars to model pars
+18:35:06,0.0001027,writing upgrade vector to csv file
+18:35:06,0.0033916,beginning upgrade vector calculations, lambda = 1000
+18:35:06,5.8e-05,commencing calculation of upgrade vector
+18:35:06,0.0484877,forming JtQJ matrix
+18:35:06,0.0540915,commencing to scale JtQJ matrix- first SVD...
+18:35:06,3.05e-05,starting REDSVD
+18:35:07,0.173246,retrieving REDSVD components
+18:35:07,0.0027056,triming REDSVD components to 20elements
+18:35:07,0.0001928,done REDSVD
+18:35:07,0.0129021,S info: rows = 531: cols = 531: size = 281961: nonzeros = 530
+18:35:07,2.96e-05,JS
+18:35:07,0.0019486,JS.transpose() * q_mat * JS + lambda * S.transpose() * S
+18:35:07,0.0577972,S info: rows = 531: cols = 531: size = 281961: nonzeros = 530
+18:35:07,3.72e-05,commencing SVD factorization of lambda-scaled JtQJ
+18:35:07,1.01e-05,starting REDSVD
+18:35:07,0.17714,retrieving REDSVD components
+18:35:07,0.00255,triming REDSVD components to 21elements
+18:35:07,0.0001477,done REDSVD
+18:35:07,0.0003255,SVD factorization complete
+18:35:07,0.009095,commencing linear algebra multiplication to compute ugrade
+18:35:07,1.21e-05,S info: rows = 531: cols = 531: size = 281961: nonzeros = 530Vt info: rows = 21: cols = 531: size = 11151: nonzeros = 11130
+18:35:07,1.11e-05,U info: rows = 531: cols = 21: size = 11151: nonzeros = 11130
+18:35:07,9.3e-06,jac info: rows = 160: cols = 531: size = 84960: nonzeros = 76049
+18:35:07,0.0029133,linear algebra multiplication to compute ugrade complete
+18:35:07,0.0015846,commencing check of parameter bounds and gradients
+18:35:07,0.0002387,commencing calculation of upgrade vector
+18:35:07,0.0472952,forming JtQJ matrix
+18:35:07,0.0533454,commencing to scale JtQJ matrix- first SVD...
+18:35:07,3.18e-05,starting REDSVD
+18:35:07,0.174587,retrieving REDSVD components
+18:35:07,0.0025175,triming REDSVD components to 20elements
+18:35:07,0.0001621,done REDSVD
+18:35:07,0.0129706,S info: rows = 531: cols = 531: size = 281961: nonzeros = 530
+18:35:07,3.21e-05,JS
+18:35:07,0.0018161,JS.transpose() * q_mat * JS + lambda * S.transpose() * S
+18:35:07,0.0581174,S info: rows = 531: cols = 531: size = 281961: nonzeros = 530
+18:35:07,3.39e-05,commencing SVD factorization of lambda-scaled JtQJ
+18:35:07,9.6e-06,starting REDSVD
+18:35:07,0.174747,retrieving REDSVD components
+18:35:07,0.0025163,triming REDSVD components to 21elements
+18:35:07,0.0002114,done REDSVD
+18:35:07,0.0003278,SVD factorization complete
+18:35:07,0.009345,commencing linear algebra multiplication to compute ugrade
+18:35:07,1.39e-05,S info: rows = 531: cols = 531: size = 281961: nonzeros = 530Vt info: rows = 21: cols = 531: size = 11151: nonzeros = 11130
+18:35:07,9.5e-06,U info: rows = 531: cols = 21: size = 11151: nonzeros = 11130
+18:35:07,9.2e-06,jac info: rows = 160: cols = 531: size = 84960: nonzeros = 76049
+18:35:07,0.0030658,linear algebra multiplication to compute ugrade complete
+18:35:07,0.0015872,commencing check of parameter bounds
+18:35:07,0.0001737,limiting out of bounds pars
+18:35:07,0.0005066,checking for denormal floating point values
+18:35:07,0.0001261,transforming upgrade pars to model pars
+18:35:07,0.0001033,writing upgrade vector to csv file
+18:35:07,0.0051407,LinearAnalysis::glm_iter_fosm
+18:35:07,2.93e-05,starting FOSM uncertainty analyses for iteration 0
+18:35:07,0.0068819,loading obscov
+18:35:07,0.0003586,loading parcov
+18:35:07,0.0004827,setting predictions
+18:35:07,3.94e-05,set_predictions
+18:35:07,0.0002075,extracting prediction FLOW__USECOL:1_IDX0:18.75 from jacobian
+18:35:07,0.0399274,extracting prediction FLOW__USECOL:1_IDX0:18.95 from jacobian
+18:35:07,0.0397924,extracting prediction FLOW__USECOL:1_IDX0:19.15 from jacobian
+18:35:07,0.0404436,extracting prediction FLOW__USECOL:1_IDX0:19.35 from jacobian
+18:35:07,0.0403425,extracting prediction FLOW__USECOL:1_IDX0:19.55 from jacobian
+18:35:08,0.0399583,extracting prediction FLOW__USECOL:1_IDX0:19.75 from jacobian
+18:35:08,0.0398679,extracting prediction FLOW__USECOL:1_IDX0:19.95 from jacobian
+18:35:08,0.0397373,extracting prediction FLOW__USECOL:1_IDX0:20.15 from jacobian
+18:35:08,0.039928,extracting prediction FLOW__USECOL:1_IDX0:20.35 from jacobian
+18:35:08,0.0400677,extracting prediction FLOW__USECOL:1_IDX0:20.55 from jacobian
+18:35:08,0.03945,extracting prediction FLOW__USECOL:1_IDX0:20.75 from jacobian
+18:35:08,0.0396201,extracting prediction FLOW__USECOL:1_IDX0:20.95 from jacobian
+18:35:08,0.0401149,extracting prediction FLOW__USECOL:1_IDX0:21.15 from jacobian
+18:35:08,0.0401547,extracting prediction FLOW__USECOL:1_IDX0:21.35 from jacobian
+18:35:08,0.0397551,extracting prediction FLOW__USECOL:1_IDX0:21.55 from jacobian
+18:35:08,0.0403821,extracting prediction FLOW__USECOL:1_IDX0:21.75 from jacobian
+18:35:08,0.0435905,extracting prediction FLOW__USECOL:1_IDX0:21.95 from jacobian
+18:35:08,0.0407978,extracting prediction FLOW__USECOL:1_IDX0:22.15 from jacobian
+18:35:08,0.0403438,extracting prediction FLOW__USECOL:1_IDX0:22.35 from jacobian
+18:35:08,0.0404743,extracting prediction FLOW__USECOL:1_IDX0:22.55 from jacobian
+18:35:08,0.0392481,extracting prediction FLOW__USECOL:1_IDX0:22.75 from jacobian
+18:35:08,0.0399253,extracting prediction FLOW__USECOL:1_IDX0:22.95 from jacobian
+18:35:08,0.0395103,extracting prediction FLOW__USECOL:1_IDX0:23.15 from jacobian
+18:35:08,0.0395427,extracting prediction FLOW__USECOL:1_IDX0:23.35 from jacobian
+18:35:08,0.0394067,extracting prediction FLOW__USECOL:1_IDX0:23.55 from jacobian
+18:35:08,0.0387699,extracting prediction FLOW__USECOL:1_IDX0:23.75 from jacobian
+18:35:08,0.0387825,extracting prediction FLOW__USECOL:1_IDX0:23.95 from jacobian
+18:35:08,0.0390148,extracting prediction FLOW__USECOL:1_IDX0:24.15 from jacobian
+18:35:08,0.0386288,extracting prediction FLOW__USECOL:1_IDX0:24.35 from jacobian
+18:35:08,0.0391831,extracting prediction FLOW__USECOL:1_IDX0:24.55 from jacobian
+18:35:09,0.0381989,extracting prediction FLOW__USECOL:1_IDX0:24.75 from jacobian
+18:35:09,0.0387752,extracting prediction FLOW__USECOL:1_IDX0:24.95 from jacobian
+18:35:09,0.0387748,extracting prediction FLOW__USECOL:1_IDX0:25.15 from jacobian
+18:35:09,0.0386782,extracting prediction FLOW__USECOL:1_IDX0:25.35 from jacobian
+18:35:09,0.0387381,extracting prediction FLOW__USECOL:1_IDX0:25.55 from jacobian
+18:35:09,0.0395449,extracting prediction FLOW__USECOL:1_IDX0:25.75 from jacobian
+18:35:09,0.038471,extracting prediction FLOW__USECOL:1_IDX0:25.95 from jacobian
+18:35:09,0.0395249,extracting prediction FLOW__USECOL:1_IDX0:26.15 from jacobian
+18:35:09,0.0384839,extracting prediction FLOW__USECOL:1_IDX0:26.35 from jacobian
+18:35:09,0.0384998,extracting prediction FLOW__USECOL:1_IDX0:26.55 from jacobian
+18:35:09,0.0377705,extracting prediction FLOW__USECOL:1_IDX0:26.75 from jacobian
+18:35:09,0.0430243,extracting prediction FLOW__USECOL:1_IDX0:26.95 from jacobian
+18:35:09,0.0388097,extracting prediction FLOW__USECOL:1_IDX0:27.15 from jacobian
+18:35:09,0.037637,extracting prediction FLOW__USECOL:1_IDX0:27.35 from jacobian
+18:35:09,0.0391526,extracting prediction FLOW__USECOL:1_IDX0:27.55 from jacobian
+18:35:09,0.037567,extracting prediction FLOW__USECOL:1_IDX0:27.75 from jacobian
+18:35:09,0.037781,extracting prediction FLOW__USECOL:1_IDX0:27.95 from jacobian
+18:35:09,0.0378346,extracting prediction FLOW__USECOL:1_IDX0:28.15 from jacobian
+18:35:09,0.0374933,extracting prediction FLOW__USECOL:1_IDX0:28.35 from jacobian
+18:35:09,0.0376624,extracting prediction FLOW__USECOL:1_IDX0:28.55 from jacobian
+18:35:09,0.0379448,extracting prediction FLOW__USECOL:1_IDX0:28.75 from jacobian
+18:35:09,0.0395171,extracting prediction FLOW__USECOL:1_IDX0:28.95 from jacobian
+18:35:09,0.037678,extracting prediction FLOW__USECOL:1_IDX0:29.15 from jacobian
+18:35:09,0.036277,extracting prediction FLOW__USECOL:1_IDX0:29.35 from jacobian
+18:35:09,0.0363197,extracting prediction FLOW__USECOL:1_IDX0:29.55 from jacobian
+18:35:09,0.0398321,extracting prediction FLOW__USECOL:1_IDX0:29.75 from jacobian
+18:35:10,0.0385339,extracting prediction FLOW__USECOL:1_IDX0:29.95 from jacobian
+18:35:10,0.0374598,extracting prediction FLOW__USECOL:1_IDX0:30.15 from jacobian
+18:35:10,0.036836,extracting prediction FLOW__USECOL:1_IDX0:30.35 from jacobian
+18:35:10,0.037446,extracting prediction FLOW__USECOL:1_IDX0:30.55 from jacobian
+18:35:10,0.0370607,extracting prediction FLOW__USECOL:1_IDX0:30.75 from jacobian
+18:35:10,0.036556,extracting prediction FLOW__USECOL:1_IDX0:30.95 from jacobian
+18:35:10,0.0369506,extracting prediction FLOW__USECOL:1_IDX0:31.15 from jacobian
+18:35:10,0.0368132,extracting prediction FLOW__USECOL:1_IDX0:31.35 from jacobian
+18:35:10,0.0371513,extracting prediction FLOW__USECOL:1_IDX0:31.55 from jacobian
+18:35:10,0.0354855,extracting prediction FLOW__USECOL:1_IDX0:31.75 from jacobian
+18:35:10,0.0357714,extracting prediction FLOW__USECOL:1_IDX0:31.95 from jacobian
+18:35:10,0.037934,extracting prediction FLOW__USECOL:1_IDX0:32.15 from jacobian
+18:35:10,0.0386482,extracting prediction FLOW__USECOL:1_IDX0:32.35 from jacobian
+18:35:10,0.0360299,extracting prediction FLOW__USECOL:1_IDX0:32.55 from jacobian
+18:35:10,0.0364628,extracting prediction FLOW__USECOL:1_IDX0:32.75 from jacobian
+18:35:10,0.0361837,extracting prediction FLOW__USECOL:1_IDX0:32.95 from jacobian
+18:35:10,0.0360562,extracting prediction FLOW__USECOL:1_IDX0:33.15 from jacobian
+18:35:10,0.0361936,extracting prediction FLOW__USECOL:1_IDX0:33.35 from jacobian
+18:35:10,0.0359872,extracting prediction FLOW__USECOL:1_IDX0:33.55 from jacobian
+18:35:10,0.0354524,extracting prediction FLOW__USECOL:1_IDX0:33.75 from jacobian
+18:35:10,0.035589,extracting prediction FLOW__USECOL:1_IDX0:33.95 from jacobian
+18:35:10,0.0347518,extracting prediction FLOW__USECOL:1_IDX0:34.15 from jacobian
+18:35:10,0.0350432,extracting prediction FLOW__USECOL:1_IDX0:34.35 from jacobian
+18:35:10,0.0352122,extracting prediction FLOW__USECOL:1_IDX0:34.55 from jacobian
+18:35:10,0.0354124,extracting prediction FLOW__USECOL:1_IDX0:34.75 from jacobian
+18:35:10,0.0345585,extracting prediction FLOW__USECOL:1_IDX0:34.95 from jacobian
+18:35:10,0.0346066,extracting prediction FLOW__USECOL:1_IDX0:35.15 from jacobian
+18:35:11,0.0337465,extracting prediction FLOW__USECOL:1_IDX0:35.35 from jacobian
+18:35:11,0.035291,extracting prediction FLOW__USECOL:1_IDX0:35.55 from jacobian
+18:35:11,0.0342539,extracting prediction FLOW__USECOL:1_IDX0:35.75 from jacobian
+18:35:11,0.0346929,extracting prediction FLOW__USECOL:1_IDX0:35.95 from jacobian
+18:35:11,0.0345429,extracting prediction FLOW__USECOL:1_IDX0:36.15 from jacobian
+18:35:11,0.0350879,extracting prediction FLOW__USECOL:1_IDX0:36.35 from jacobian
+18:35:11,0.034047,extracting prediction FLOW__USECOL:1_IDX0:36.55 from jacobian
+18:35:11,0.0351213,extracting prediction FLOW__USECOL:1_IDX0:36.75 from jacobian
+18:35:11,0.0344139,extracting prediction FLOW__USECOL:1_IDX0:36.95 from jacobian
+18:35:11,0.0348588,extracting prediction FLOW__USECOL:1_IDX0:37.15 from jacobian
+18:35:11,0.0343238,extracting prediction FLOW__USECOL:1_IDX0:37.35 from jacobian
+18:35:11,0.0342962,extracting prediction FLOW__USECOL:1_IDX0:37.55 from jacobian
+18:35:11,0.0348044,extracting prediction FLOW__USECOL:1_IDX0:37.75 from jacobian
+18:35:11,0.0375067,extracting prediction FLOW__USECOL:1_IDX0:37.95 from jacobian
+18:35:11,0.0339358,extracting prediction FLOW__USECOL:1_IDX0:38.15 from jacobian
+18:35:11,0.0338649,extracting prediction FLOW__USECOL:1_IDX0:38.35 from jacobian
+18:35:11,0.0337194,extracting prediction FLOW__USECOL:1_IDX0:38.55 from jacobian
+18:35:11,0.0341402,extracting prediction FLOW__USECOL:1_IDX0:38.75 from jacobian
+18:35:11,0.0338566,extracting prediction FLOW__USECOL:1_IDX0:38.95 from jacobian
+18:35:11,0.0336431,extracting prediction FLOW__USECOL:1_IDX0:39.15 from jacobian
+18:35:11,0.0329289,extracting prediction FLOW__USECOL:1_IDX0:39.35 from jacobian
+18:35:11,0.0327837,extracting prediction FLOW__USECOL:1_IDX0:39.55 from jacobian
+18:35:11,0.0340292,extracting prediction FLOW__USECOL:1_IDX0:39.75 from jacobian
+18:35:11,0.0341847,extracting prediction FLOW__USECOL:1_IDX0:39.95 from jacobian
+18:35:11,0.0339881,extracting prediction FLOW__USECOL:1_IDX0:40.15 from jacobian
+18:35:11,0.0331819,extracting prediction FLOW__USECOL:1_IDX0:40.35 from jacobian
+18:35:11,0.0338623,extracting prediction FLOW__USECOL:1_IDX0:40.55 from jacobian
+18:35:11,0.034348,extracting prediction FLOW__USECOL:1_IDX0:40.75 from jacobian
+18:35:11,0.0349624,extracting prediction FLOW__USECOL:1_IDX0:40.95 from jacobian
+18:35:11,0.0347805,extracting prediction FLOW__USECOL:1_IDX0:41.15 from jacobian
+18:35:12,0.0353479,extracting prediction FLOW__USECOL:1_IDX0:41.35 from jacobian
+18:35:12,0.0338199,extracting prediction FLOW__USECOL:1_IDX0:41.55 from jacobian
+18:35:12,0.0335401,extracting prediction FLOW__USECOL:1_IDX0:41.75 from jacobian
+18:35:12,0.0324866,extracting prediction FLOW__USECOL:1_IDX0:41.95 from jacobian
+18:35:12,0.0342331,extracting prediction FLOW__USECOL:1_IDX0:42.15 from jacobian
+18:35:12,0.0339373,extracting prediction FLOW__USECOL:1_IDX0:42.35 from jacobian
+18:35:12,0.0333652,extracting prediction FLOW__USECOL:1_IDX0:42.55 from jacobian
+18:35:12,0.0328773,extracting prediction FLOW__USECOL:1_IDX0:42.75 from jacobian
+18:35:12,0.03152,extracting prediction FLOW__USECOL:1_IDX0:42.95 from jacobian
+18:35:12,0.0314491,extracting prediction FLOW__USECOL:1_IDX0:43.15 from jacobian
+18:35:12,0.032137,extracting prediction FLOW__USECOL:1_IDX0:43.35 from jacobian
+18:35:12,0.0324746,extracting prediction FLOW__USECOL:1_IDX0:43.55 from jacobian
+18:35:12,0.0341936,extracting prediction FLOW__USECOL:1_IDX0:43.75 from jacobian
+18:35:12,0.0332305,extracting prediction FLOW__USECOL:1_IDX0:43.95 from jacobian
+18:35:12,0.0333754,extracting prediction FLOW__USECOL:1_IDX0:44.15 from jacobian
+18:35:12,0.0326148,extracting prediction FLOW__USECOL:1_IDX0:44.35 from jacobian
+18:35:12,0.0324069,extracting prediction FLOW__USECOL:1_IDX0:44.55 from jacobian
+18:35:12,0.0324539,extracting prediction FLOW__USECOL:1_IDX0:44.75 from jacobian
+18:35:12,0.0322805,extracting prediction FLOW__USECOL:1_IDX0:44.95 from jacobian
+18:35:12,0.0310459,extracting prediction FLOW__USECOL:1_IDX0:45.15 from jacobian
+18:35:12,0.0310498,extracting prediction FLOW__USECOL:1_IDX0:45.35 from jacobian
+18:35:12,0.03126,extracting prediction FLOW__USECOL:1_IDX0:45.55 from jacobian
+18:35:12,0.0317745,extracting prediction FLOW__USECOL:1_IDX0:45.75 from jacobian
+18:35:12,0.0326333,extracting prediction FLOW__USECOL:1_IDX0:45.95 from jacobian
+18:35:12,0.0323759,extracting prediction FLOW__USECOL:1_IDX0:46.15 from jacobian
+18:35:12,0.031659,extracting prediction FLOW__USECOL:1_IDX0:46.35 from jacobian
+18:35:12,0.032955,extracting prediction FLOW__USECOL:1_IDX0:46.55 from jacobian
+18:35:12,0.0322136,extracting prediction FLOW__USECOL:1_IDX0:46.75 from jacobian
+18:35:12,0.0323512,extracting prediction FLOW__USECOL:1_IDX0:46.95 from jacobian
+18:35:12,0.0312611,extracting prediction FLOW__USECOL:1_IDX0:47.15 from jacobian
+18:35:13,0.0308031,extracting prediction FLOW__USECOL:1_IDX0:47.35 from jacobian
+18:35:13,0.0309712,extracting prediction FLOW__USECOL:1_IDX0:47.55 from jacobian
+18:35:13,0.0310665,extracting prediction FLOW__USECOL:1_IDX0:47.75 from jacobian
+18:35:13,0.0307919,extracting prediction FLOW__USECOL:1_IDX0:47.95 from jacobian
+18:35:13,0.0322943,extracting prediction FLOW__USECOL:1_IDX0:48.15 from jacobian
+18:35:13,0.0347774,extracting prediction FLOW__USECOL:1_IDX0:48.35 from jacobian
+18:35:13,0.0321111,extracting prediction FLOW__USECOL:1_IDX0:48.55 from jacobian
+18:35:13,0.0307889,extracting prediction FLOW__USECOL:1_IDX0:48.75 from jacobian
+18:35:13,0.0322655,extracting prediction FLOW__USECOL:1_IDX0:48.95 from jacobian
+18:35:13,0.0336417,extracting prediction FLOW__USECOL:1_IDX0:49.15 from jacobian
+18:35:13,0.0312906,extracting prediction FLOW__USECOL:1_IDX0:49.35 from jacobian
+18:35:13,0.0308782,extracting prediction FLOW__USECOL:1_IDX0:49.55 from jacobian
+18:35:13,0.0303778,extracting prediction FLOW__USECOL:1_IDX0:49.75 from jacobian
+18:35:13,0.0316174,extracting prediction FLOW__USECOL:1_IDX0:49.95 from jacobian
+18:35:13,0.0330815,extracting prediction FLOW__USECOL:1_IDX0:50.15 from jacobian
+18:35:13,0.0318799,extracting prediction FLOW__USECOL:1_IDX0:50.35 from jacobian
+18:35:13,0.0309625,extracting prediction FLOW__USECOL:1_IDX0:50.55 from jacobian
+18:35:13,0.0309222,extracting prediction FLOW__USECOL:1_IDX0:50.75 from jacobian
+18:35:13,0.0307526,extracting prediction FLOW__USECOL:1_IDX0:50.95 from jacobian
+18:35:13,0.0318579,extracting prediction FLOW__USECOL:1_IDX0:51.15 from jacobian
+18:35:13,0.034306,extracting prediction FLOW__USECOL:1_IDX0:51.35 from jacobian
+18:35:13,0.031342,extracting prediction FLOW__USECOL:1_IDX0:51.55 from jacobian
+18:35:13,0.0316757,extracting prediction FLOW__USECOL:1_IDX0:51.75 from jacobian
+18:35:13,0.0311383,extracting prediction FLOW__USECOL:1_IDX0:51.95 from jacobian
+18:35:13,0.0302533,extracting prediction FLOW__USECOL:1_IDX0:52.15 from jacobian
+18:35:13,0.0309275,extracting prediction FLOW__USECOL:1_IDX0:52.35 from jacobian
+18:35:13,0.030805,extracting prediction FLOW__USECOL:1_IDX0:52.55 from jacobian
+18:35:13,0.0305862,extracting prediction FLOW__USECOL:1_IDX0:52.75 from jacobian
+18:35:13,0.0303395,extracting prediction FLOW__USECOL:1_IDX0:52.95 from jacobian
+18:35:13,0.030481,extracting prediction FLOW__USECOL:1_IDX0:53.15 from jacobian
+18:35:13,0.0303658,extracting prediction FLOW__USECOL:1_IDX0:53.35 from jacobian
+18:35:13,0.0301562,extracting prediction FLOW__USECOL:1_IDX0:53.55 from jacobian
+18:35:14,0.0319954,extracting prediction FLOW__USECOL:1_IDX0:53.75 from jacobian
+18:35:14,0.0314765,extracting prediction FLOW__USECOL:1_IDX0:53.95 from jacobian
+18:35:14,0.0301664,extracting prediction FLOW__USECOL:1_IDX0:54.15 from jacobian
+18:35:14,0.0304246,extracting prediction FLOW__USECOL:1_IDX0:54.35 from jacobian
+18:35:14,0.0301111,extracting prediction FLOW__USECOL:1_IDX0:54.55 from jacobian
+18:35:14,0.0303343,extracting prediction FLOW__USECOL:1_IDX0:54.75 from jacobian
+18:35:14,0.0304336,extracting prediction FLOW__USECOL:1_IDX0:54.95 from jacobian
+18:35:14,0.0301335,extracting prediction FLOW__USECOL:1_IDX0:55.15 from jacobian
+18:35:14,0.0299165,extracting prediction FLOW__USECOL:1_IDX0:55.35 from jacobian
+18:35:14,0.0303401,extracting prediction FLOW__USECOL:1_IDX0:55.55 from jacobian
+18:35:14,0.0300365,extracting prediction FLOW__USECOL:1_IDX0:55.75 from jacobian
+18:35:14,0.0300749,extracting prediction FLOW__USECOL:1_IDX0:55.95 from jacobian
+18:35:14,0.029694,extracting prediction FLOW__USECOL:1_IDX0:56.15 from jacobian
+18:35:14,0.0295813,extracting prediction FLOW__USECOL:1_IDX0:56.35 from jacobian
+18:35:14,0.0377523,extracting prediction FLOW__USECOL:1_IDX0:56.55 from jacobian
+18:35:14,0.0316606,extracting prediction FLOW__USECOL:1_IDX0:56.75 from jacobian
+18:35:14,0.0310671,extracting prediction FLOW__USECOL:1_IDX0:56.95 from jacobian
+18:35:14,0.0301401,extracting prediction FLOW__USECOL:1_IDX0:57.15 from jacobian
+18:35:14,0.0304964,extracting prediction FLOW__USECOL:1_IDX0:57.35 from jacobian
+18:35:14,0.0293656,extracting prediction FLOW__USECOL:1_IDX0:57.55 from jacobian
+18:35:14,0.0301728,extracting prediction FLOW__USECOL:1_IDX0:57.75 from jacobian
+18:35:14,0.0300112,extracting prediction FLOW__USECOL:1_IDX0:57.95 from jacobian
+18:35:14,0.0297779,extracting prediction FLOW__USECOL:1_IDX0:58.15 from jacobian
+18:35:14,0.029655,extracting prediction FLOW__USECOL:1_IDX0:58.35 from jacobian
+18:35:14,0.0296253,extracting prediction FLOW__USECOL:1_IDX0:58.55 from jacobian
+18:35:14,0.0295302,extracting prediction FLOW__USECOL:1_IDX0:58.75 from jacobian
+18:35:14,0.0301788,extracting prediction FLOW__USECOL:1_IDX0:58.95 from jacobian
+18:35:14,0.0317528,extracting prediction FLOW__USECOL:1_IDX0:59.15 from jacobian
+18:35:14,0.0325049,extracting prediction FLOW__USECOL:1_IDX0:59.35 from jacobian
+18:35:14,0.0316589,extracting prediction FLOW__USECOL:1_IDX0:59.55 from jacobian
+18:35:14,0.0301455,extracting prediction FLOW__USECOL:1_IDX0:59.75 from jacobian
+18:35:14,0.029768,extracting prediction FLOW__USECOL:1_IDX0:59.95 from jacobian
+18:35:14,0.0294762,extracting prediction FLOW__USECOL:1_IDX0:60.15 from jacobian
+18:35:15,0.0292186,extracting prediction FLOW__USECOL:1_IDX0:60.35 from jacobian
+18:35:15,0.0292042,extracting prediction FLOW__USECOL:1_IDX0:60.55 from jacobian
+18:35:15,0.0299731,extracting prediction FLOW__USECOL:1_IDX0:60.75 from jacobian
+18:35:15,0.0296395,extracting prediction FLOW__USECOL:1_IDX0:60.95 from jacobian
+18:35:15,0.0289325,extracting prediction FLOW__USECOL:1_IDX0:61.15 from jacobian
+18:35:15,0.0299038,extracting prediction FLOW__USECOL:1_IDX0:61.35 from jacobian
+18:35:15,0.030917,extracting prediction FLOW__USECOL:1_IDX0:61.55 from jacobian
+18:35:15,0.0312843,extracting prediction FLOW__USECOL:1_IDX0:61.75 from jacobian
+18:35:15,0.0294403,extracting prediction FLOW__USECOL:1_IDX0:61.95 from jacobian
+18:35:15,0.0293185,extracting prediction FLOW__USECOL:1_IDX0:62.15 from jacobian
+18:35:15,0.0292652,extracting prediction FLOW__USECOL:1_IDX0:62.35 from jacobian
+18:35:15,0.0303725,extracting prediction FLOW__USECOL:1_IDX0:62.55 from jacobian
+18:35:15,0.0284809,extracting prediction FLOW__USECOL:1_IDX0:62.75 from jacobian
+18:35:15,0.0289155,extracting prediction FLOW__USECOL:1_IDX0:62.95 from jacobian
+18:35:15,0.0302524,extracting prediction FLOW__USECOL:1_IDX0:63.15 from jacobian
+18:35:15,0.0299708,extracting prediction FLOW__USECOL:1_IDX0:63.35 from jacobian
+18:35:15,0.032799,extracting prediction FLOW__USECOL:1_IDX0:63.55 from jacobian
+18:35:15,0.0323734,extracting prediction FLOW__USECOL:1_IDX0:63.75 from jacobian
+18:35:15,0.0288196,extracting prediction FLOW__USECOL:1_IDX0:63.95 from jacobian
+18:35:15,0.0292279,extracting prediction FLOW__USECOL:1_IDX0:64.15 from jacobian
+18:35:15,0.0283616,extracting prediction FLOW__USECOL:1_IDX0:64.35 from jacobian
+18:35:15,0.0281933,extracting prediction FLOW__USECOL:1_IDX0:64.55 from jacobian
+18:35:15,0.0281157,extracting prediction FLOW__USECOL:1_IDX0:64.75 from jacobian
+18:35:15,0.0281155,extracting prediction FLOW__USECOL:1_IDX0:64.95 from jacobian
+18:35:15,0.0279739,extracting prediction FLOW__USECOL:1_IDX0:65.15 from jacobian
+18:35:15,0.0274035,extracting prediction FLOW__USECOL:1_IDX0:65.35 from jacobian
+18:35:15,0.0276192,extracting prediction FLOW__USECOL:1_IDX0:65.55 from jacobian
+18:35:15,0.0278966,extracting prediction FLOW__USECOL:1_IDX0:65.75 from jacobian
+18:35:15,0.0292797,extracting prediction FLOW__USECOL:1_IDX0:65.95 from jacobian
+18:35:15,0.0282766,extracting prediction FLOW__USECOL:1_IDX0:66.15 from jacobian
+18:35:15,0.0274863,extracting prediction FLOW__USECOL:1_IDX0:66.35 from jacobian
+18:35:15,0.0278752,extracting prediction FLOW__USECOL:1_IDX0:66.55 from jacobian
+18:35:15,0.0283795,extracting prediction FLOW__USECOL:1_IDX0:66.75 from jacobian
+18:35:15,0.0284579,extracting prediction FLOW__USECOL:1_IDX0:66.95 from jacobian
+18:35:16,0.0303846,extracting prediction FLOW__USECOL:1_IDX0:67.15 from jacobian
+18:35:16,0.0270884,extracting prediction FLOW__USECOL:1_IDX0:67.35 from jacobian
+18:35:16,0.027166,extracting prediction FLOW__USECOL:1_IDX0:67.55 from jacobian
+18:35:16,0.0270802,extracting prediction FLOW__USECOL:1_IDX0:67.75 from jacobian
+18:35:16,0.0270591,extracting prediction FLOW__USECOL:1_IDX0:67.95 from jacobian
+18:35:16,0.0269628,extracting prediction FLOW__USECOL:1_IDX0:68.15 from jacobian
+18:35:16,0.0275578,extracting prediction FLOW__USECOL:1_IDX0:68.35 from jacobian
+18:35:16,0.0268817,extracting prediction FLOW__USECOL:1_IDX0:68.55 from jacobian
+18:35:16,0.0271228,extracting prediction FLOW__USECOL:1_IDX0:68.75 from jacobian
+18:35:16,0.0274053,extracting prediction FLOW__USECOL:1_IDX0:68.95 from jacobian
+18:35:16,0.0267438,extracting prediction FLOW__USECOL:1_IDX0:69.15 from jacobian
+18:35:16,0.0274138,extracting prediction FLOW__USECOL:1_IDX0:69.35 from jacobian
+18:35:16,0.0274537,extracting prediction FLOW__USECOL:1_IDX0:69.55 from jacobian
+18:35:16,0.0270544,extracting prediction FLOW__USECOL:1_IDX0:69.75 from jacobian
+18:35:16,0.0314627,extracting prediction FLOW__USECOL:1_IDX0:69.95 from jacobian
+18:35:16,0.0280023,extracting prediction FLOW__USECOL:1_IDX0:70.15 from jacobian
+18:35:16,0.030317,extracting prediction FLOW__USECOL:1_IDX0:70.35 from jacobian
+18:35:16,0.0323936,extracting prediction FLOW__USECOL:1_IDX0:70.55 from jacobian
+18:35:16,0.0263478,extracting prediction FLOW__USECOL:1_IDX0:70.75 from jacobian
+18:35:16,0.0264444,extracting prediction FLOW__USECOL:1_IDX0:70.95 from jacobian
+18:35:16,0.0265811,extracting prediction FLOW__USECOL:1_IDX0:71.15 from jacobian
+18:35:16,0.0272178,extracting prediction FLOW__USECOL:1_IDX0:71.35 from jacobian
+18:35:16,0.026609,extracting prediction FLOW__USECOL:2_IDX0:18.75 from jacobian
+18:35:16,0.0271149,extracting prediction FLOW__USECOL:2_IDX0:18.95 from jacobian
+18:35:16,0.0275719,extracting prediction FLOW__USECOL:2_IDX0:19.15 from jacobian
+18:35:16,0.0277914,extracting prediction FLOW__USECOL:2_IDX0:19.35 from jacobian
+18:35:16,0.0283706,extracting prediction FLOW__USECOL:2_IDX0:19.55 from jacobian
+18:35:16,0.027366,extracting prediction FLOW__USECOL:2_IDX0:19.75 from jacobian
+18:35:16,0.0265115,extracting prediction FLOW__USECOL:2_IDX0:19.95 from jacobian
+18:35:16,0.0267128,extracting prediction FLOW__USECOL:2_IDX0:20.15 from jacobian
+18:35:16,0.0260754,extracting prediction FLOW__USECOL:2_IDX0:20.35 from jacobian
+18:35:16,0.0257938,extracting prediction FLOW__USECOL:2_IDX0:20.55 from jacobian
+18:35:16,0.0259513,extracting prediction FLOW__USECOL:2_IDX0:20.75 from jacobian
+18:35:16,0.0259189,extracting prediction FLOW__USECOL:2_IDX0:20.95 from jacobian
+18:35:16,0.0260929,extracting prediction FLOW__USECOL:2_IDX0:21.15 from jacobian
+18:35:16,0.026082,extracting prediction FLOW__USECOL:2_IDX0:21.35 from jacobian
+18:35:16,0.025859,extracting prediction FLOW__USECOL:2_IDX0:21.55 from jacobian
+18:35:17,0.0261572,extracting prediction FLOW__USECOL:2_IDX0:21.75 from jacobian
+18:35:17,0.0273068,extracting prediction FLOW__USECOL:2_IDX0:21.95 from jacobian
+18:35:17,0.0284048,extracting prediction FLOW__USECOL:2_IDX0:22.15 from jacobian
+18:35:17,0.0257777,extracting prediction FLOW__USECOL:2_IDX0:22.35 from jacobian
+18:35:17,0.0254745,extracting prediction FLOW__USECOL:2_IDX0:22.55 from jacobian
+18:35:17,0.0257175,extracting prediction FLOW__USECOL:2_IDX0:22.75 from jacobian
+18:35:17,0.0254125,extracting prediction FLOW__USECOL:2_IDX0:22.95 from jacobian
+18:35:17,0.0254195,extracting prediction FLOW__USECOL:2_IDX0:23.15 from jacobian
+18:35:17,0.0252208,extracting prediction FLOW__USECOL:2_IDX0:23.35 from jacobian
+18:35:17,0.0252275,extracting prediction FLOW__USECOL:2_IDX0:23.55 from jacobian
+18:35:17,0.0258353,extracting prediction FLOW__USECOL:2_IDX0:23.75 from jacobian
+18:35:17,0.025861,extracting prediction FLOW__USECOL:2_IDX0:23.95 from jacobian
+18:35:17,0.0262218,extracting prediction FLOW__USECOL:2_IDX0:24.15 from jacobian
+18:35:17,0.0254854,extracting prediction FLOW__USECOL:2_IDX0:24.35 from jacobian
+18:35:17,0.0248235,extracting prediction FLOW__USECOL:2_IDX0:24.55 from jacobian
+18:35:17,0.0247687,extracting prediction FLOW__USECOL:2_IDX0:24.75 from jacobian
+18:35:17,0.0278147,extracting prediction FLOW__USECOL:2_IDX0:24.95 from jacobian
+18:35:17,0.0262976,extracting prediction FLOW__USECOL:2_IDX0:25.15 from jacobian
+18:35:17,0.0256134,extracting prediction FLOW__USECOL:2_IDX0:25.35 from jacobian
+18:35:17,0.0253154,extracting prediction FLOW__USECOL:2_IDX0:25.55 from jacobian
+18:35:17,0.0250314,extracting prediction FLOW__USECOL:2_IDX0:25.75 from jacobian
+18:35:17,0.0250395,extracting prediction FLOW__USECOL:2_IDX0:25.95 from jacobian
+18:35:17,0.0252008,extracting prediction FLOW__USECOL:2_IDX0:26.15 from jacobian
+18:35:17,0.0256486,extracting prediction FLOW__USECOL:2_IDX0:26.35 from jacobian
+18:35:17,0.0262275,extracting prediction FLOW__USECOL:2_IDX0:26.55 from jacobian
+18:35:17,0.0273249,extracting prediction FLOW__USECOL:2_IDX0:26.75 from jacobian
+18:35:17,0.026143,extracting prediction FLOW__USECOL:2_IDX0:26.95 from jacobian
+18:35:17,0.0252221,extracting prediction FLOW__USECOL:2_IDX0:27.15 from jacobian
+18:35:17,0.0250013,extracting prediction FLOW__USECOL:2_IDX0:27.35 from jacobian
+18:35:17,0.0247258,extracting prediction FLOW__USECOL:2_IDX0:27.55 from jacobian
+18:35:17,0.0247477,extracting prediction FLOW__USECOL:2_IDX0:27.75 from jacobian
+18:35:17,0.0245516,extracting prediction FLOW__USECOL:2_IDX0:27.95 from jacobian
+18:35:17,0.0251657,extracting prediction FLOW__USECOL:2_IDX0:28.15 from jacobian
+18:35:17,0.0244714,extracting prediction FLOW__USECOL:2_IDX0:28.35 from jacobian
+18:35:17,0.0243265,extracting prediction FLOW__USECOL:2_IDX0:28.55 from jacobian
+18:35:17,0.0247696,extracting prediction FLOW__USECOL:2_IDX0:28.75 from jacobian
+18:35:17,0.0249668,extracting prediction FLOW__USECOL:2_IDX0:28.95 from jacobian
+18:35:17,0.0248193,extracting prediction FLOW__USECOL:2_IDX0:29.15 from jacobian
+18:35:17,0.0252357,extracting prediction FLOW__USECOL:2_IDX0:29.35 from jacobian
+18:35:18,0.0260506,extracting prediction FLOW__USECOL:2_IDX0:29.55 from jacobian
+18:35:18,0.0251423,extracting prediction FLOW__USECOL:2_IDX0:29.75 from jacobian
+18:35:18,0.025302,extracting prediction FLOW__USECOL:2_IDX0:29.95 from jacobian
+18:35:18,0.0243489,extracting prediction FLOW__USECOL:2_IDX0:30.15 from jacobian
+18:35:18,0.0240516,extracting prediction FLOW__USECOL:2_IDX0:30.35 from jacobian
+18:35:18,0.0242544,extracting prediction FLOW__USECOL:2_IDX0:30.55 from jacobian
+18:35:18,0.0240171,extracting prediction FLOW__USECOL:2_IDX0:30.75 from jacobian
+18:35:18,0.0243567,extracting prediction FLOW__USECOL:2_IDX0:30.95 from jacobian
+18:35:18,0.0236297,extracting prediction FLOW__USECOL:2_IDX0:31.15 from jacobian
+18:35:18,0.0237439,extracting prediction FLOW__USECOL:2_IDX0:31.35 from jacobian
+18:35:18,0.0237907,extracting prediction FLOW__USECOL:2_IDX0:31.55 from jacobian
+18:35:18,0.024278,extracting prediction FLOW__USECOL:2_IDX0:31.75 from jacobian
+18:35:18,0.023949,extracting prediction FLOW__USECOL:2_IDX0:31.95 from jacobian
+18:35:18,0.0239814,extracting prediction FLOW__USECOL:2_IDX0:32.15 from jacobian
+18:35:18,0.0234044,extracting prediction FLOW__USECOL:2_IDX0:32.35 from jacobian
+18:35:18,0.0235453,extracting prediction FLOW__USECOL:2_IDX0:32.55 from jacobian
+18:35:18,0.0230116,extracting prediction FLOW__USECOL:2_IDX0:32.75 from jacobian
+18:35:18,0.0282884,extracting prediction FLOW__USECOL:2_IDX0:32.95 from jacobian
+18:35:18,0.0339218,extracting prediction FLOW__USECOL:2_IDX0:33.15 from jacobian
+18:35:18,0.024683,extracting prediction FLOW__USECOL:2_IDX0:33.35 from jacobian
+18:35:18,0.0234095,extracting prediction FLOW__USECOL:2_IDX0:33.55 from jacobian
+18:35:18,0.0233426,extracting prediction FLOW__USECOL:2_IDX0:33.75 from jacobian
+18:35:18,0.0226287,extracting prediction FLOW__USECOL:2_IDX0:33.95 from jacobian
+18:35:18,0.0224238,extracting prediction FLOW__USECOL:2_IDX0:34.15 from jacobian
+18:35:18,0.0223654,extracting prediction FLOW__USECOL:2_IDX0:34.35 from jacobian
+18:35:18,0.0225443,extracting prediction FLOW__USECOL:2_IDX0:34.55 from jacobian
+18:35:18,0.0221379,extracting prediction FLOW__USECOL:2_IDX0:34.75 from jacobian
+18:35:18,0.0224702,extracting prediction FLOW__USECOL:2_IDX0:34.95 from jacobian
+18:35:18,0.0223889,extracting prediction FLOW__USECOL:2_IDX0:35.15 from jacobian
+18:35:18,0.0224894,extracting prediction FLOW__USECOL:2_IDX0:35.35 from jacobian
+18:35:18,0.0223974,extracting prediction FLOW__USECOL:2_IDX0:35.55 from jacobian
+18:35:18,0.0224026,extracting prediction FLOW__USECOL:2_IDX0:35.75 from jacobian
+18:35:18,0.022504,extracting prediction FLOW__USECOL:2_IDX0:35.95 from jacobian
+18:35:18,0.0234918,extracting prediction FLOW__USECOL:2_IDX0:36.15 from jacobian
+18:35:18,0.0230094,extracting prediction FLOW__USECOL:2_IDX0:36.35 from jacobian
+18:35:18,0.0226181,extracting prediction FLOW__USECOL:2_IDX0:36.55 from jacobian
+18:35:18,0.0221192,extracting prediction FLOW__USECOL:2_IDX0:36.75 from jacobian
+18:35:18,0.0225795,extracting prediction FLOW__USECOL:2_IDX0:36.95 from jacobian
+18:35:18,0.0220172,extracting prediction FLOW__USECOL:2_IDX0:37.15 from jacobian
+18:35:18,0.022386,extracting prediction FLOW__USECOL:2_IDX0:37.35 from jacobian
+18:35:18,0.0214086,extracting prediction FLOW__USECOL:2_IDX0:37.55 from jacobian
+18:35:18,0.0221458,extracting prediction FLOW__USECOL:2_IDX0:37.75 from jacobian
+18:35:19,0.021907,extracting prediction FLOW__USECOL:2_IDX0:37.95 from jacobian
+18:35:19,0.022473,extracting prediction FLOW__USECOL:2_IDX0:38.15 from jacobian
+18:35:19,0.021951,extracting prediction FLOW__USECOL:2_IDX0:38.35 from jacobian
+18:35:19,0.0213376,extracting prediction FLOW__USECOL:2_IDX0:38.55 from jacobian
+18:35:19,0.0214391,extracting prediction FLOW__USECOL:2_IDX0:38.75 from jacobian
+18:35:19,0.0205261,extracting prediction FLOW__USECOL:2_IDX0:38.95 from jacobian
+18:35:19,0.0224512,extracting prediction FLOW__USECOL:2_IDX0:39.15 from jacobian
+18:35:19,0.0220793,extracting prediction FLOW__USECOL:2_IDX0:39.35 from jacobian
+18:35:19,0.020739,extracting prediction FLOW__USECOL:2_IDX0:39.55 from jacobian
+18:35:19,0.0216915,extracting prediction FLOW__USECOL:2_IDX0:39.75 from jacobian
+18:35:19,0.022199,extracting prediction FLOW__USECOL:2_IDX0:39.95 from jacobian
+18:35:19,0.0207168,extracting prediction FLOW__USECOL:2_IDX0:40.15 from jacobian
+18:35:19,0.0213326,extracting prediction FLOW__USECOL:2_IDX0:40.35 from jacobian
+18:35:19,0.0213378,extracting prediction FLOW__USECOL:2_IDX0:40.55 from jacobian
+18:35:19,0.0203709,extracting prediction FLOW__USECOL:2_IDX0:40.75 from jacobian
+18:35:19,0.0211569,extracting prediction FLOW__USECOL:2_IDX0:40.95 from jacobian
+18:35:19,0.0211242,extracting prediction FLOW__USECOL:2_IDX0:41.15 from jacobian
+18:35:19,0.0202836,extracting prediction FLOW__USECOL:2_IDX0:41.35 from jacobian
+18:35:19,0.0202454,extracting prediction FLOW__USECOL:2_IDX0:41.55 from jacobian
+18:35:19,0.0200992,extracting prediction FLOW__USECOL:2_IDX0:41.75 from jacobian
+18:35:19,0.0220386,extracting prediction FLOW__USECOL:2_IDX0:41.95 from jacobian
+18:35:19,0.0211879,extracting prediction FLOW__USECOL:2_IDX0:42.15 from jacobian
+18:35:19,0.0201105,extracting prediction FLOW__USECOL:2_IDX0:42.35 from jacobian
+18:35:19,0.0198709,extracting prediction FLOW__USECOL:2_IDX0:42.55 from jacobian
+18:35:19,0.0196718,extracting prediction FLOW__USECOL:2_IDX0:42.75 from jacobian
+18:35:19,0.0210611,extracting prediction FLOW__USECOL:2_IDX0:42.95 from jacobian
+18:35:19,0.021238,extracting prediction FLOW__USECOL:2_IDX0:43.15 from jacobian
+18:35:19,0.0211228,extracting prediction FLOW__USECOL:2_IDX0:43.35 from jacobian
+18:35:19,0.021932,extracting prediction FLOW__USECOL:2_IDX0:43.55 from jacobian
+18:35:19,0.022069,extracting prediction FLOW__USECOL:2_IDX0:43.75 from jacobian
+18:35:19,0.0220917,extracting prediction FLOW__USECOL:2_IDX0:43.95 from jacobian
+18:35:19,0.0203695,extracting prediction FLOW__USECOL:2_IDX0:44.15 from jacobian
+18:35:19,0.0198876,extracting prediction FLOW__USECOL:2_IDX0:44.35 from jacobian
+18:35:19,0.0200537,extracting prediction FLOW__USECOL:2_IDX0:44.55 from jacobian
+18:35:19,0.0192571,extracting prediction FLOW__USECOL:2_IDX0:44.75 from jacobian
+18:35:19,0.0194565,extracting prediction FLOW__USECOL:2_IDX0:44.95 from jacobian
+18:35:19,0.0191325,extracting prediction FLOW__USECOL:2_IDX0:45.15 from jacobian
+18:35:19,0.0190826,extracting prediction FLOW__USECOL:2_IDX0:45.35 from jacobian
+18:35:19,0.019437,extracting prediction FLOW__USECOL:2_IDX0:45.55 from jacobian
+18:35:19,0.0191799,extracting prediction FLOW__USECOL:2_IDX0:45.75 from jacobian
+18:35:19,0.0188897,extracting prediction FLOW__USECOL:2_IDX0:45.95 from jacobian
+18:35:19,0.019446,extracting prediction FLOW__USECOL:2_IDX0:46.15 from jacobian
+18:35:19,0.0200253,extracting prediction FLOW__USECOL:2_IDX0:46.35 from jacobian
+18:35:19,0.0188731,extracting prediction FLOW__USECOL:2_IDX0:46.55 from jacobian
+18:35:19,0.0189767,extracting prediction FLOW__USECOL:2_IDX0:46.75 from jacobian
+18:35:19,0.0204503,extracting prediction FLOW__USECOL:2_IDX0:46.95 from jacobian
+18:35:19,0.0194653,extracting prediction FLOW__USECOL:2_IDX0:47.15 from jacobian
+18:35:19,0.019511,extracting prediction FLOW__USECOL:2_IDX0:47.35 from jacobian
+18:35:19,0.0199914,extracting prediction FLOW__USECOL:2_IDX0:47.55 from jacobian
+18:35:20,0.0193734,extracting prediction FLOW__USECOL:2_IDX0:47.75 from jacobian
+18:35:20,0.0195622,extracting prediction FLOW__USECOL:2_IDX0:47.95 from jacobian
+18:35:20,0.0186814,extracting prediction FLOW__USECOL:2_IDX0:48.15 from jacobian
+18:35:20,0.0185668,extracting prediction FLOW__USECOL:2_IDX0:48.35 from jacobian
+18:35:20,0.0192628,extracting prediction FLOW__USECOL:2_IDX0:48.55 from jacobian
+18:35:20,0.0182683,extracting prediction FLOW__USECOL:2_IDX0:48.75 from jacobian
+18:35:20,0.0184322,extracting prediction FLOW__USECOL:2_IDX0:48.95 from jacobian
+18:35:20,0.0181832,extracting prediction FLOW__USECOL:2_IDX0:49.15 from jacobian
+18:35:20,0.0182885,extracting prediction FLOW__USECOL:2_IDX0:49.35 from jacobian
+18:35:20,0.0182007,extracting prediction FLOW__USECOL:2_IDX0:49.55 from jacobian
+18:35:20,0.018867,extracting prediction FLOW__USECOL:2_IDX0:49.75 from jacobian
+18:35:20,0.0179341,extracting prediction FLOW__USECOL:2_IDX0:49.95 from jacobian
+18:35:20,0.0183461,extracting prediction FLOW__USECOL:2_IDX0:50.15 from jacobian
+18:35:20,0.018867,extracting prediction FLOW__USECOL:2_IDX0:50.35 from jacobian
+18:35:20,0.0179197,extracting prediction FLOW__USECOL:2_IDX0:50.55 from jacobian
+18:35:20,0.0183845,extracting prediction FLOW__USECOL:2_IDX0:50.75 from jacobian
+18:35:20,0.0185779,extracting prediction FLOW__USECOL:2_IDX0:50.95 from jacobian
+18:35:20,0.0184321,extracting prediction FLOW__USECOL:2_IDX0:51.15 from jacobian
+18:35:20,0.0192305,extracting prediction FLOW__USECOL:2_IDX0:51.35 from jacobian
+18:35:20,0.020846,extracting prediction FLOW__USECOL:2_IDX0:51.55 from jacobian
+18:35:20,0.0197943,extracting prediction FLOW__USECOL:2_IDX0:51.75 from jacobian
+18:35:20,0.018905,extracting prediction FLOW__USECOL:2_IDX0:51.95 from jacobian
+18:35:20,0.0197182,extracting prediction FLOW__USECOL:2_IDX0:52.15 from jacobian
+18:35:20,0.0208513,extracting prediction FLOW__USECOL:2_IDX0:52.35 from jacobian
+18:35:20,0.0194857,extracting prediction FLOW__USECOL:2_IDX0:52.55 from jacobian
+18:35:20,0.0187637,extracting prediction FLOW__USECOL:2_IDX0:52.75 from jacobian
+18:35:20,0.0181633,extracting prediction FLOW__USECOL:2_IDX0:52.95 from jacobian
+18:35:20,0.0183159,extracting prediction FLOW__USECOL:2_IDX0:53.15 from jacobian
+18:35:20,0.0174494,extracting prediction FLOW__USECOL:2_IDX0:53.35 from jacobian
+18:35:20,0.0175869,extracting prediction FLOW__USECOL:2_IDX0:53.55 from jacobian
+18:35:20,0.0178295,extracting prediction FLOW__USECOL:2_IDX0:53.75 from jacobian
+18:35:20,0.0174737,extracting prediction FLOW__USECOL:2_IDX0:53.95 from jacobian
+18:35:20,0.0169773,extracting prediction FLOW__USECOL:2_IDX0:54.15 from jacobian
+18:35:20,0.017163,extracting prediction FLOW__USECOL:2_IDX0:54.35 from jacobian
+18:35:20,0.0173846,extracting prediction FLOW__USECOL:2_IDX0:54.55 from jacobian
+18:35:20,0.0181963,extracting prediction FLOW__USECOL:2_IDX0:54.75 from jacobian
+18:35:20,0.017032,extracting prediction FLOW__USECOL:2_IDX0:54.95 from jacobian
+18:35:20,0.0179663,extracting prediction FLOW__USECOL:2_IDX0:55.15 from jacobian
+18:35:20,0.0192078,extracting prediction FLOW__USECOL:2_IDX0:55.35 from jacobian
+18:35:20,0.0178266,extracting prediction FLOW__USECOL:2_IDX0:55.55 from jacobian
+18:35:20,0.0191797,extracting prediction FLOW__USECOL:2_IDX0:55.75 from jacobian
+18:35:20,0.0176398,extracting prediction FLOW__USECOL:2_IDX0:55.95 from jacobian
+18:35:20,0.0180418,extracting prediction FLOW__USECOL:2_IDX0:56.15 from jacobian
+18:35:20,0.0173247,extracting prediction FLOW__USECOL:2_IDX0:56.35 from jacobian
+18:35:20,0.0168819,extracting prediction FLOW__USECOL:2_IDX0:56.55 from jacobian
+18:35:20,0.0166925,extracting prediction FLOW__USECOL:2_IDX0:56.75 from jacobian
+18:35:20,0.0163415,extracting prediction FLOW__USECOL:2_IDX0:56.95 from jacobian
+18:35:20,0.0158424,extracting prediction FLOW__USECOL:2_IDX0:57.15 from jacobian
+18:35:20,0.0157791,extracting prediction FLOW__USECOL:2_IDX0:57.35 from jacobian
+18:35:20,0.0158387,extracting prediction FLOW__USECOL:2_IDX0:57.55 from jacobian
+18:35:20,0.0156675,extracting prediction FLOW__USECOL:2_IDX0:57.75 from jacobian
+18:35:20,0.0158953,extracting prediction FLOW__USECOL:2_IDX0:57.95 from jacobian
+18:35:20,0.0163324,extracting prediction FLOW__USECOL:2_IDX0:58.15 from jacobian
+18:35:20,0.0172482,extracting prediction FLOW__USECOL:2_IDX0:58.35 from jacobian
+18:35:20,0.0160585,extracting prediction FLOW__USECOL:2_IDX0:58.55 from jacobian
+18:35:21,0.0161376,extracting prediction FLOW__USECOL:2_IDX0:58.75 from jacobian
+18:35:21,0.016762,extracting prediction FLOW__USECOL:2_IDX0:58.95 from jacobian
+18:35:21,0.0157409,extracting prediction FLOW__USECOL:2_IDX0:59.15 from jacobian
+18:35:21,0.0164442,extracting prediction FLOW__USECOL:2_IDX0:59.35 from jacobian
+18:35:21,0.0162641,extracting prediction FLOW__USECOL:2_IDX0:59.55 from jacobian
+18:35:21,0.0158234,extracting prediction FLOW__USECOL:2_IDX0:59.75 from jacobian
+18:35:21,0.0165193,extracting prediction FLOW__USECOL:2_IDX0:59.95 from jacobian
+18:35:21,0.0165649,extracting prediction FLOW__USECOL:2_IDX0:60.15 from jacobian
+18:35:21,0.0154016,extracting prediction FLOW__USECOL:2_IDX0:60.35 from jacobian
+18:35:21,0.01548,extracting prediction FLOW__USECOL:2_IDX0:60.55 from jacobian
+18:35:21,0.0165456,extracting prediction FLOW__USECOL:2_IDX0:60.75 from jacobian
+18:35:21,0.0152894,extracting prediction FLOW__USECOL:2_IDX0:60.95 from jacobian
+18:35:21,0.0152058,extracting prediction FLOW__USECOL:2_IDX0:61.15 from jacobian
+18:35:21,0.0151368,extracting prediction FLOW__USECOL:2_IDX0:61.35 from jacobian
+18:35:21,0.0152088,extracting prediction FLOW__USECOL:2_IDX0:61.55 from jacobian
+18:35:21,0.015248,extracting prediction FLOW__USECOL:2_IDX0:61.75 from jacobian
+18:35:21,0.0151475,extracting prediction FLOW__USECOL:2_IDX0:61.95 from jacobian
+18:35:21,0.0161996,extracting prediction FLOW__USECOL:2_IDX0:62.15 from jacobian
+18:35:21,0.015393,extracting prediction FLOW__USECOL:2_IDX0:62.35 from jacobian
+18:35:21,0.0149663,extracting prediction FLOW__USECOL:2_IDX0:62.55 from jacobian
+18:35:21,0.0158194,extracting prediction FLOW__USECOL:2_IDX0:62.75 from jacobian
+18:35:21,0.0145253,extracting prediction FLOW__USECOL:2_IDX0:62.95 from jacobian
+18:35:21,0.0144495,extracting prediction FLOW__USECOL:2_IDX0:63.15 from jacobian
+18:35:21,0.0143707,extracting prediction FLOW__USECOL:2_IDX0:63.35 from jacobian
+18:35:21,0.0144419,extracting prediction FLOW__USECOL:2_IDX0:63.55 from jacobian
+18:35:21,0.0144962,extracting prediction FLOW__USECOL:2_IDX0:63.75 from jacobian
+18:35:21,0.0147486,extracting prediction FLOW__USECOL:2_IDX0:63.95 from jacobian
+18:35:21,0.015893,extracting prediction FLOW__USECOL:2_IDX0:64.15 from jacobian
+18:35:21,0.020051,extracting prediction FLOW__USECOL:2_IDX0:64.35 from jacobian
+18:35:21,0.0171357,extracting prediction FLOW__USECOL:2_IDX0:64.55 from jacobian
+18:35:21,0.0148042,extracting prediction FLOW__USECOL:2_IDX0:64.75 from jacobian
+18:35:21,0.0154325,extracting prediction FLOW__USECOL:2_IDX0:64.95 from jacobian
+18:35:21,0.0145492,extracting prediction FLOW__USECOL:2_IDX0:65.15 from jacobian
+18:35:21,0.0147731,extracting prediction FLOW__USECOL:2_IDX0:65.35 from jacobian
+18:35:21,0.0144575,extracting prediction FLOW__USECOL:2_IDX0:65.55 from jacobian
+18:35:21,0.0135194,extracting prediction FLOW__USECOL:2_IDX0:65.75 from jacobian
+18:35:21,0.0134991,extracting prediction FLOW__USECOL:2_IDX0:65.95 from jacobian
+18:35:21,0.0136741,extracting prediction FLOW__USECOL:2_IDX0:66.15 from jacobian
+18:35:21,0.0138295,extracting prediction FLOW__USECOL:2_IDX0:66.35 from jacobian
+18:35:21,0.0140656,extracting prediction FLOW__USECOL:2_IDX0:66.55 from jacobian
+18:35:21,0.0135934,extracting prediction FLOW__USECOL:2_IDX0:66.75 from jacobian
+18:35:21,0.0138824,extracting prediction FLOW__USECOL:2_IDX0:66.95 from jacobian
+18:35:21,0.0143432,extracting prediction FLOW__USECOL:2_IDX0:67.15 from jacobian
+18:35:21,0.0135992,extracting prediction FLOW__USECOL:2_IDX0:67.35 from jacobian
+18:35:21,0.0137387,extracting prediction FLOW__USECOL:2_IDX0:67.55 from jacobian
+18:35:21,0.0135986,extracting prediction FLOW__USECOL:2_IDX0:67.75 from jacobian
+18:35:21,0.0134644,extracting prediction FLOW__USECOL:2_IDX0:67.95 from jacobian
+18:35:21,0.0134187,extracting prediction FLOW__USECOL:2_IDX0:68.15 from jacobian
+18:35:21,0.0128882,extracting prediction FLOW__USECOL:2_IDX0:68.35 from jacobian
+18:35:21,0.0130049,extracting prediction FLOW__USECOL:2_IDX0:68.55 from jacobian
+18:35:21,0.0132818,extracting prediction FLOW__USECOL:2_IDX0:68.75 from jacobian
+18:35:21,0.013347,extracting prediction FLOW__USECOL:2_IDX0:68.95 from jacobian
+18:35:21,0.0135705,extracting prediction FLOW__USECOL:2_IDX0:69.15 from jacobian
+18:35:21,0.0134608,extracting prediction FLOW__USECOL:2_IDX0:69.35 from jacobian
+18:35:21,0.0134487,extracting prediction FLOW__USECOL:2_IDX0:69.55 from jacobian
+18:35:21,0.0133289,extracting prediction FLOW__USECOL:2_IDX0:69.75 from jacobian
+18:35:21,0.0131296,extracting prediction FLOW__USECOL:2_IDX0:69.95 from jacobian
+18:35:21,0.0131697,extracting prediction FLOW__USECOL:2_IDX0:70.15 from jacobian
+18:35:21,0.0138543,extracting prediction FLOW__USECOL:2_IDX0:70.35 from jacobian
+18:35:21,0.0131423,extracting prediction FLOW__USECOL:2_IDX0:70.55 from jacobian
+18:35:21,0.0131914,extracting prediction FLOW__USECOL:2_IDX0:70.75 from jacobian
+18:35:21,0.0131629,extracting prediction FLOW__USECOL:2_IDX0:70.95 from jacobian
+18:35:21,0.0131407,extracting prediction FLOW__USECOL:2_IDX0:71.15 from jacobian
+18:35:21,0.0130659,extracting prediction FLOW__USECOL:2_IDX0:71.35 from jacobian
+18:35:21,0.0131048,extracting prediction USECOL:1_IDX0:18.75 from jacobian
+18:35:21,0.0131007,extracting prediction USECOL:1_IDX0:71.25 from jacobian
+18:35:21,0.0132454,extracting prediction USECOL:2_IDX0:18.75 from jacobian
+18:35:21,0.0135206,extracting prediction USECOL:2_IDX0:71.25 from jacobian
+18:35:21,0.0134732,extracting prediction USECOL:3_IDX0:18.75 from jacobian
+18:35:22,0.0140851,extracting prediction USECOL:3_IDX0:71.25 from jacobian
+18:35:22,0.0131494,extracting prediction USECOL:4_IDX0:18.75 from jacobian
+18:35:22,0.0129372,extracting prediction USECOL:4_IDX0:71.25 from jacobian
+18:35:22,0.0130002,extracting prediction USECOL:5_IDX0:18.75 from jacobian
+18:35:22,0.0137046,extracting prediction USECOL:5_IDX0:71.25 from jacobian
+18:35:22,0.0127718,extracting prediction USECOL:6_IDX0:18.75 from jacobian
+18:35:22,0.0120656,extracting prediction USECOL:6_IDX0:71.25 from jacobian
+18:35:22,0.0120258,extracting prediction USECOL:7_IDX0:18.75 from jacobian
+18:35:22,0.011923,extracting prediction USECOL:7_IDX0:71.25 from jacobian
+18:35:22,0.0115584,extracting prediction USECOL:8_IDX0:18.75 from jacobian
+18:35:22,0.0115319,extracting prediction USECOL:8_IDX0:71.25 from jacobian
+18:35:22,0.011446,parameter fosm calcs
+18:35:22,3.26e-05,LinearAnalysis::calc_posterior
+18:35:22,8.8e-06,LinearAnalysis::align
+18:35:22,0.005236,LinearAnalysis::prior_prediction_variance()::invert obscov
+18:35:22,3.86e-05,inverting diagonal matrix in place
+18:35:22,2.6e-05,LinearAnalysis::calc_posterior() form JtQJ
+18:35:22,0.0554492,LinearAnalysis::calc_posterior() invert prior parcov
+18:35:22,0.0003822,LinearAnalysis::calc_posterior() form posterior parcov
+18:35:22,0.0059046,LinearAnalysis::calc_posterior() invert posterior parcov
+18:35:22,3.07e-05,inverting non-diagonal matrix in place
+18:35:22,0.68939,forecast FOSM calcs
+18:35:22,0.0017529,LinearAnalysis::prior_prediction_variance
+18:35:22,0.0526792,LinearAnalysis::prior_prediction_variance
+18:35:37,15.0416,completed iteration 1
+18:35:38,0.0991128,beginning iteration 2
+18:35:38,0.0002436,commencing to build jacobian parameter sets
+18:35:38,0.213653,jacobian parameter sets built, commencing model runs

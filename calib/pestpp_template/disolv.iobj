@@ -1,0 +1,2 @@
+iteration,model_runs_completed,total_phi,measurement_phi,regularization_phi,flow_in,flow_out,prof_0.02,prof_0.2,prof_0.5,prof_1.0,prof_1.5,prof_2.0,prof_3.0,prof_6.0
+0,1,8.93881e+06,8.93881e+06,0,0,0,1177.7,66600.5,257830,694663,1.18302e+06,1.63157e+06,2.29281e+06,2.81114e+06

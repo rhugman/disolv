@@ -1,0 +1,4 @@
+,org_file,model_file,use_cols,index_cols,fmt,sep,head_rows,upper_bound,lower_bound,zero_based
+0,org\flows_frac.csv,flows_frac.csv,"[1, 2]",[0],free,",",1,"[1e+30, None]","[-1e+30, None]",True
+1,org\total_flow.csv,total_flow.csv,[1],[0],free,",",1,[1e+30],[-1e+30],True
+2,org\in.csv,in.csv,[1],[0],free,",",1,[1e+30],[-1e+30],True

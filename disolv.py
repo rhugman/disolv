@@ -144,24 +144,15 @@ def run(InDir, OutDir, calibrate=False, convertFEC=True, method='SLSQP',**kwargs
     Nflows = np.shape(indata)[0]
 
     indata[:, 0] = indata[:, 0] - GWlevel
-    indata[:, 2:] = indata[:, 2:] - GWlevel
+    indata[:, 3:] = indata[:, 3:] - GWlevel
+    #indata[:, 2:] = indata[:, 2:] - GWlevel
 
-    for i in range(Nflows):
+    #for i in range(Nflows):
 
-        indata[i, 0] = round(indata[i, 0], 1)
+        #indata[i, 0] = round(indata[i, 0], 1)
 
-    inflows = np.zeros([Nflows, 2])
-    outflows = np.zeros([Nflows, 2])
-
-    for i in range(Nflows):
-
-        if indata[i, 1] < 0:
-            outflows[i, 0] = indata[i, 0]
-            outflows[i, 1] = -indata[i, 1]
-
-        if indata[i, 1] > 0:
-            inflows[i, 0] = indata[i, 0]
-            inflows[i, 1] = indata[i, 1]
+    inflows = indata[:, [0,1]]#np.zeros([Nflows, 2])
+    outflows = abs(indata[:, [0,2]])# np.zeros([Nflows, 2])
 
 # -------------------Call function that solves equation----------------
 
