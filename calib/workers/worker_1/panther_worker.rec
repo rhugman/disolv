@@ -2977,3 +2977,978 @@ PEST SVD Information
 07/31/21 18:48:06->sending ready signal to master
 07/31/21 18:48:06->received parameters (group id = 4, run id = 516), starting model run...
 
+07/31/21 18:48:13->received finished signal from run thread 
+
+07/31/21 18:48:14->run complete, sending results to master (group id = 4, run id = 516)...run took: 8.149 seconds
+07/31/21 18:48:14->results of run_id 516sent successfully
+07/31/21 18:48:14->sending ready signal to master
+07/31/21 18:48:14->received parameters (group id = 4, run id = 521), starting model run...
+
+07/31/21 18:48:21->received finished signal from run thread 
+
+07/31/21 18:48:22->run complete, sending results to master (group id = 4, run id = 521)...run took: 8.148 seconds
+07/31/21 18:48:22->results of run_id 521sent successfully
+07/31/21 18:48:22->sending ready signal to master
+07/31/21 18:48:22->received parameters (group id = 4, run id = 526), starting model run...
+
+07/31/21 18:48:29->received finished signal from run thread 
+
+07/31/21 18:48:30->run complete, sending results to master (group id = 4, run id = 526)...run took: 7.141 seconds
+07/31/21 18:48:30->results of run_id 526sent successfully
+07/31/21 18:48:30->sending ready signal to master
+07/31/21 18:48:30->received parameters (group id = 4, run id = 531), starting model run...
+
+07/31/21 18:48:35->received finished signal from run thread 
+
+07/31/21 18:48:36->run complete, sending results to master (group id = 4, run id = 531)...run took: 6.131 seconds
+07/31/21 18:48:36->results of run_id 531sent successfully
+07/31/21 18:48:36->sending ready signal to master
+07/31/21 18:49:29->received parameters (group id = 5, run id = 2), starting model run...
+
+07/31/21 18:49:35->received finished signal from run thread 
+
+07/31/21 18:49:36->run complete, sending results to master (group id = 5, run id = 2)...run took: 7.139 seconds
+07/31/21 18:49:36->results of run_id 2sent successfully
+07/31/21 18:49:36->sending ready signal to master
+07/31/21 18:49:36->received parameters (group id = 5, run id = 7), starting model run...
+
+07/31/21 18:49:43->received finished signal from run thread 
+
+07/31/21 18:49:44->run complete, sending results to master (group id = 5, run id = 7)...run took: 8.147 seconds
+07/31/21 18:49:44->results of run_id 7sent successfully
+07/31/21 18:49:44->sending ready signal to master
+07/31/21 18:49:44->received parameters (group id = 6, run id = 1), starting model run...
+
+07/31/21 18:49:51->received finished signal from run thread 
+
+07/31/21 18:49:53->run complete, sending results to master (group id = 6, run id = 1)...run took: 8.148 seconds
+07/31/21 18:49:53->results of run_id 1sent successfully
+07/31/21 18:49:53->sending ready signal to master
+07/31/21 18:49:53->received parameters (group id = 6, run id = 8), starting model run...
+
+07/31/21 18:50:00->received finished signal from run thread 
+
+07/31/21 18:50:01->run complete, sending results to master (group id = 6, run id = 8)...run took: 8.147 seconds
+07/31/21 18:50:01->results of run_id 8sent successfully
+07/31/21 18:50:01->sending ready signal to master
+07/31/21 18:50:01->received parameters (group id = 6, run id = 12), starting model run...
+
+07/31/21 18:50:07->received finished signal from run thread 
+
+07/31/21 18:50:08->run complete, sending results to master (group id = 6, run id = 12)...run took: 7.139 seconds
+07/31/21 18:50:08->results of run_id 12sent successfully
+07/31/21 18:50:08->sending ready signal to master
+07/31/21 18:50:08->received parameters (group id = 6, run id = 17), starting model run...
+
+07/31/21 18:50:15->received finished signal from run thread 
+
+07/31/21 18:50:16->run complete, sending results to master (group id = 6, run id = 17)...run took: 8.149 seconds
+07/31/21 18:50:16->results of run_id 17sent successfully
+07/31/21 18:50:16->sending ready signal to master
+07/31/21 18:50:16->received parameters (group id = 6, run id = 24), starting model run...
+
+07/31/21 18:50:22->received finished signal from run thread 
+
+07/31/21 18:50:24->run complete, sending results to master (group id = 6, run id = 24)...run took: 7.141 seconds
+07/31/21 18:50:24->results of run_id 24sent successfully
+07/31/21 18:50:24->sending ready signal to master
+07/31/21 18:50:24->received parameters (group id = 6, run id = 27), starting model run...
+
+07/31/21 18:50:30->received finished signal from run thread 
+
+07/31/21 18:50:31->run complete, sending results to master (group id = 6, run id = 27)...run took: 7.139 seconds
+07/31/21 18:50:31->results of run_id 27sent successfully
+07/31/21 18:50:31->sending ready signal to master
+07/31/21 18:50:31->received parameters (group id = 6, run id = 32), starting model run...
+
+07/31/21 18:50:38->received finished signal from run thread 
+
+07/31/21 18:50:39->run complete, sending results to master (group id = 6, run id = 32)...run took: 8.146 seconds
+07/31/21 18:50:39->results of run_id 32sent successfully
+07/31/21 18:50:39->sending ready signal to master
+07/31/21 18:50:39->received parameters (group id = 6, run id = 37), starting model run...
+
+07/31/21 18:50:45->received finished signal from run thread 
+
+07/31/21 18:50:46->run complete, sending results to master (group id = 6, run id = 37)...run took: 7.14 seconds
+07/31/21 18:50:46->results of run_id 37sent successfully
+07/31/21 18:50:46->sending ready signal to master
+07/31/21 18:50:46->received parameters (group id = 6, run id = 42), starting model run...
+
+07/31/21 18:50:52->received finished signal from run thread 
+
+07/31/21 18:50:54->run complete, sending results to master (group id = 6, run id = 42)...run took: 7.141 seconds
+07/31/21 18:50:54->results of run_id 42sent successfully
+07/31/21 18:50:54->sending ready signal to master
+07/31/21 18:50:54->received parameters (group id = 6, run id = 47), starting model run...
+
+07/31/21 18:51:01->received finished signal from run thread 
+
+07/31/21 18:51:02->run complete, sending results to master (group id = 6, run id = 47)...run took: 8.148 seconds
+07/31/21 18:51:02->results of run_id 47sent successfully
+07/31/21 18:51:02->sending ready signal to master
+07/31/21 18:51:02->received parameters (group id = 6, run id = 52), starting model run...
+
+07/31/21 18:51:08->received finished signal from run thread 
+
+07/31/21 18:51:09->run complete, sending results to master (group id = 6, run id = 52)...run took: 7.138 seconds
+07/31/21 18:51:09->results of run_id 52sent successfully
+07/31/21 18:51:09->sending ready signal to master
+07/31/21 18:51:09->received parameters (group id = 6, run id = 56), starting model run...
+
+07/31/21 18:51:15->received finished signal from run thread 
+
+07/31/21 18:51:16->run complete, sending results to master (group id = 6, run id = 56)...run took: 7.139 seconds
+07/31/21 18:51:16->results of run_id 56sent successfully
+07/31/21 18:51:16->sending ready signal to master
+07/31/21 18:51:16->received parameters (group id = 6, run id = 61), starting model run...
+
+07/31/21 18:51:22->received finished signal from run thread 
+
+07/31/21 18:51:24->run complete, sending results to master (group id = 6, run id = 61)...run took: 7.14 seconds
+07/31/21 18:51:24->results of run_id 61sent successfully
+07/31/21 18:51:24->sending ready signal to master
+07/31/21 18:51:24->received parameters (group id = 6, run id = 66), starting model run...
+
+07/31/21 18:51:30->received finished signal from run thread 
+
+07/31/21 18:51:31->run complete, sending results to master (group id = 6, run id = 66)...run took: 7.142 seconds
+07/31/21 18:51:31->results of run_id 66sent successfully
+07/31/21 18:51:31->sending ready signal to master
+07/31/21 18:51:31->received parameters (group id = 6, run id = 71), starting model run...
+
+07/31/21 18:51:37->received finished signal from run thread 
+
+07/31/21 18:51:38->run complete, sending results to master (group id = 6, run id = 71)...run took: 7.138 seconds
+07/31/21 18:51:38->results of run_id 71sent successfully
+07/31/21 18:51:38->sending ready signal to master
+07/31/21 18:51:38->received parameters (group id = 6, run id = 76), starting model run...
+
+07/31/21 18:51:44->received finished signal from run thread 
+
+07/31/21 18:51:45->run complete, sending results to master (group id = 6, run id = 76)...run took: 7.137 seconds
+07/31/21 18:51:45->results of run_id 76sent successfully
+07/31/21 18:51:45->sending ready signal to master
+07/31/21 18:51:45->received parameters (group id = 6, run id = 79), starting model run...
+
+07/31/21 18:51:52->received finished signal from run thread 
+
+07/31/21 18:51:53->run complete, sending results to master (group id = 6, run id = 79)...run took: 8.146 seconds
+07/31/21 18:51:53->results of run_id 79sent successfully
+07/31/21 18:51:53->sending ready signal to master
+07/31/21 18:51:54->received parameters (group id = 6, run id = 84), starting model run...
+
+07/31/21 18:52:01->received finished signal from run thread 
+
+07/31/21 18:52:02->run complete, sending results to master (group id = 6, run id = 84)...run took: 8.148 seconds
+07/31/21 18:52:02->results of run_id 84sent successfully
+07/31/21 18:52:02->sending ready signal to master
+07/31/21 18:52:02->received parameters (group id = 6, run id = 89), starting model run...
+
+07/31/21 18:52:09->received finished signal from run thread 
+
+07/31/21 18:52:10->run complete, sending results to master (group id = 6, run id = 89)...run took: 8.146 seconds
+07/31/21 18:52:10->results of run_id 89sent successfully
+07/31/21 18:52:10->sending ready signal to master
+07/31/21 18:52:10->received parameters (group id = 6, run id = 95), starting model run...
+
+07/31/21 18:52:17->received finished signal from run thread 
+
+07/31/21 18:52:18->run complete, sending results to master (group id = 6, run id = 95)...run took: 8.148 seconds
+07/31/21 18:52:18->results of run_id 95sent successfully
+07/31/21 18:52:18->sending ready signal to master
+07/31/21 18:52:18->received parameters (group id = 6, run id = 100), starting model run...
+
+07/31/21 18:52:25->received finished signal from run thread 
+
+07/31/21 18:52:26->run complete, sending results to master (group id = 6, run id = 100)...run took: 8.146 seconds
+07/31/21 18:52:26->results of run_id 100sent successfully
+07/31/21 18:52:26->sending ready signal to master
+07/31/21 18:52:27->received parameters (group id = 6, run id = 105), starting model run...
+
+07/31/21 18:52:33->received finished signal from run thread 
+
+07/31/21 18:52:34->run complete, sending results to master (group id = 6, run id = 105)...run took: 7.14 seconds
+07/31/21 18:52:34->results of run_id 105sent successfully
+07/31/21 18:52:34->sending ready signal to master
+07/31/21 18:52:34->received parameters (group id = 6, run id = 110), starting model run...
+
+07/31/21 18:52:40->received finished signal from run thread 
+
+07/31/21 18:52:41->run complete, sending results to master (group id = 6, run id = 110)...run took: 7.141 seconds
+07/31/21 18:52:41->results of run_id 110sent successfully
+07/31/21 18:52:41->sending ready signal to master
+07/31/21 18:52:41->received parameters (group id = 6, run id = 115), starting model run...
+
+07/31/21 18:52:47->received finished signal from run thread 
+
+07/31/21 18:52:48->run complete, sending results to master (group id = 6, run id = 115)...run took: 7.141 seconds
+07/31/21 18:52:48->results of run_id 115sent successfully
+07/31/21 18:52:48->sending ready signal to master
+07/31/21 18:52:48->received parameters (group id = 6, run id = 120), starting model run...
+
+07/31/21 18:52:55->received finished signal from run thread 
+
+07/31/21 18:52:56->run complete, sending results to master (group id = 6, run id = 120)...run took: 8.146 seconds
+07/31/21 18:52:56->results of run_id 120sent successfully
+07/31/21 18:52:56->sending ready signal to master
+07/31/21 18:52:57->received parameters (group id = 6, run id = 125), starting model run...
+
+07/31/21 18:53:04->received finished signal from run thread 
+
+07/31/21 18:53:05->run complete, sending results to master (group id = 6, run id = 125)...run took: 8.143 seconds
+07/31/21 18:53:05->results of run_id 125sent successfully
+07/31/21 18:53:05->sending ready signal to master
+07/31/21 18:53:05->received parameters (group id = 6, run id = 130), starting model run...
+
+07/31/21 18:53:12->received finished signal from run thread 
+
+07/31/21 18:53:13->run complete, sending results to master (group id = 6, run id = 130)...run took: 8.143 seconds
+07/31/21 18:53:13->results of run_id 130sent successfully
+07/31/21 18:53:13->sending ready signal to master
+07/31/21 18:53:13->received parameters (group id = 6, run id = 135), starting model run...
+
+07/31/21 18:53:19->received finished signal from run thread 
+
+07/31/21 18:53:20->run complete, sending results to master (group id = 6, run id = 135)...run took: 7.14 seconds
+07/31/21 18:53:20->results of run_id 135sent successfully
+07/31/21 18:53:20->sending ready signal to master
+07/31/21 18:53:20->received parameters (group id = 6, run id = 139), starting model run...
+
+07/31/21 18:53:26->received finished signal from run thread 
+
+07/31/21 18:53:27->run complete, sending results to master (group id = 6, run id = 139)...run took: 7.141 seconds
+07/31/21 18:53:27->results of run_id 139sent successfully
+07/31/21 18:53:27->sending ready signal to master
+07/31/21 18:53:28->received parameters (group id = 6, run id = 144), starting model run...
+
+07/31/21 18:53:34->received finished signal from run thread 
+
+07/31/21 18:53:35->run complete, sending results to master (group id = 6, run id = 144)...run took: 7.142 seconds
+07/31/21 18:53:35->results of run_id 144sent successfully
+07/31/21 18:53:35->sending ready signal to master
+07/31/21 18:53:35->received parameters (group id = 6, run id = 149), starting model run...
+
+07/31/21 18:53:41->received finished signal from run thread 
+
+07/31/21 18:53:42->run complete, sending results to master (group id = 6, run id = 149)...run took: 7.139 seconds
+07/31/21 18:53:42->results of run_id 149sent successfully
+07/31/21 18:53:42->sending ready signal to master
+07/31/21 18:53:42->received parameters (group id = 6, run id = 154), starting model run...
+
+07/31/21 18:53:48->received finished signal from run thread 
+
+07/31/21 18:53:49->run complete, sending results to master (group id = 6, run id = 154)...run took: 7.14 seconds
+07/31/21 18:53:49->results of run_id 154sent successfully
+07/31/21 18:53:49->sending ready signal to master
+07/31/21 18:53:49->received parameters (group id = 6, run id = 159), starting model run...
+
+07/31/21 18:53:55->received finished signal from run thread 
+
+07/31/21 18:53:56->run complete, sending results to master (group id = 6, run id = 159)...run took: 7.139 seconds
+07/31/21 18:53:56->results of run_id 159sent successfully
+07/31/21 18:53:56->sending ready signal to master
+07/31/21 18:53:57->received parameters (group id = 6, run id = 164), starting model run...
+
+07/31/21 18:54:03->received finished signal from run thread 
+
+07/31/21 18:54:04->run complete, sending results to master (group id = 6, run id = 164)...run took: 7.143 seconds
+07/31/21 18:54:04->results of run_id 164sent successfully
+07/31/21 18:54:04->sending ready signal to master
+07/31/21 18:54:04->received parameters (group id = 6, run id = 170), starting model run...
+
+07/31/21 18:54:10->received finished signal from run thread 
+
+07/31/21 18:54:11->run complete, sending results to master (group id = 6, run id = 170)...run took: 7.14 seconds
+07/31/21 18:54:11->results of run_id 170sent successfully
+07/31/21 18:54:11->sending ready signal to master
+07/31/21 18:54:11->received parameters (group id = 6, run id = 175), starting model run...
+
+07/31/21 18:54:17->received finished signal from run thread 
+
+07/31/21 18:54:18->run complete, sending results to master (group id = 6, run id = 175)...run took: 7.141 seconds
+07/31/21 18:54:18->results of run_id 175sent successfully
+07/31/21 18:54:18->sending ready signal to master
+07/31/21 18:54:18->received parameters (group id = 6, run id = 180), starting model run...
+
+07/31/21 18:54:24->received finished signal from run thread 
+
+07/31/21 18:54:25->run complete, sending results to master (group id = 6, run id = 180)...run took: 7.142 seconds
+07/31/21 18:54:25->results of run_id 180sent successfully
+07/31/21 18:54:25->sending ready signal to master
+07/31/21 18:54:25->received parameters (group id = 6, run id = 185), starting model run...
+
+07/31/21 18:54:32->received finished signal from run thread 
+
+07/31/21 18:54:33->run complete, sending results to master (group id = 6, run id = 185)...run took: 7.141 seconds
+07/31/21 18:54:33->results of run_id 185sent successfully
+07/31/21 18:54:33->sending ready signal to master
+07/31/21 18:54:33->received parameters (group id = 6, run id = 190), starting model run...
+
+07/31/21 18:54:39->received finished signal from run thread 
+
+07/31/21 18:54:40->run complete, sending results to master (group id = 6, run id = 190)...run took: 7.137 seconds
+07/31/21 18:54:40->results of run_id 190sent successfully
+07/31/21 18:54:40->sending ready signal to master
+07/31/21 18:54:40->received parameters (group id = 6, run id = 194), starting model run...
+
+07/31/21 18:54:46->received finished signal from run thread 
+
+07/31/21 18:54:47->run complete, sending results to master (group id = 6, run id = 194)...run took: 7.14 seconds
+07/31/21 18:54:47->results of run_id 194sent successfully
+07/31/21 18:54:47->sending ready signal to master
+07/31/21 18:54:47->received parameters (group id = 6, run id = 199), starting model run...
+
+07/31/21 18:54:54->received finished signal from run thread 
+
+07/31/21 18:54:55->run complete, sending results to master (group id = 6, run id = 199)...run took: 8.147 seconds
+07/31/21 18:54:55->results of run_id 199sent successfully
+07/31/21 18:54:55->sending ready signal to master
+07/31/21 18:54:55->received parameters (group id = 6, run id = 205), starting model run...
+
+07/31/21 18:55:01->received finished signal from run thread 
+
+07/31/21 18:55:03->run complete, sending results to master (group id = 6, run id = 205)...run took: 7.14 seconds
+07/31/21 18:55:03->results of run_id 205sent successfully
+07/31/21 18:55:03->sending ready signal to master
+07/31/21 18:55:03->received parameters (group id = 6, run id = 209), starting model run...
+
+07/31/21 18:55:10->received finished signal from run thread 
+
+07/31/21 18:55:11->run complete, sending results to master (group id = 6, run id = 209)...run took: 8.147 seconds
+07/31/21 18:55:11->results of run_id 209sent successfully
+07/31/21 18:55:11->sending ready signal to master
+07/31/21 18:55:11->received parameters (group id = 6, run id = 214), starting model run...
+
+07/31/21 18:55:18->received finished signal from run thread 
+
+07/31/21 18:55:19->run complete, sending results to master (group id = 6, run id = 214)...run took: 8.147 seconds
+07/31/21 18:55:19->results of run_id 214sent successfully
+07/31/21 18:55:19->sending ready signal to master
+07/31/21 18:55:19->received parameters (group id = 6, run id = 220), starting model run...
+
+07/31/21 18:55:25->received finished signal from run thread 
+
+07/31/21 18:55:26->run complete, sending results to master (group id = 6, run id = 220)...run took: 7.142 seconds
+07/31/21 18:55:26->results of run_id 220sent successfully
+07/31/21 18:55:26->sending ready signal to master
+07/31/21 18:55:26->received parameters (group id = 6, run id = 225), starting model run...
+
+07/31/21 18:55:33->received finished signal from run thread 
+
+07/31/21 18:55:35->run complete, sending results to master (group id = 6, run id = 225)...run took: 8.147 seconds
+07/31/21 18:55:35->results of run_id 225sent successfully
+07/31/21 18:55:35->sending ready signal to master
+07/31/21 18:55:35->received parameters (group id = 6, run id = 231), starting model run...
+
+07/31/21 18:55:41->received finished signal from run thread 
+
+07/31/21 18:55:42->run complete, sending results to master (group id = 6, run id = 231)...run took: 7.142 seconds
+07/31/21 18:55:42->results of run_id 231sent successfully
+07/31/21 18:55:42->sending ready signal to master
+07/31/21 18:55:42->received parameters (group id = 6, run id = 236), starting model run...
+
+07/31/21 18:55:49->received finished signal from run thread 
+
+07/31/21 18:55:50->run complete, sending results to master (group id = 6, run id = 236)...run took: 8.15 seconds
+07/31/21 18:55:50->results of run_id 236sent successfully
+07/31/21 18:55:50->sending ready signal to master
+07/31/21 18:55:50->received parameters (group id = 6, run id = 241), starting model run...
+
+07/31/21 18:55:57->received finished signal from run thread 
+
+07/31/21 18:55:58->run complete, sending results to master (group id = 6, run id = 241)...run took: 8.146 seconds
+07/31/21 18:55:58->results of run_id 241sent successfully
+07/31/21 18:55:58->sending ready signal to master
+07/31/21 18:55:58->received parameters (group id = 6, run id = 246), starting model run...
+
+07/31/21 18:56:05->received finished signal from run thread 
+
+07/31/21 18:56:07->run complete, sending results to master (group id = 6, run id = 246)...run took: 8.15 seconds
+07/31/21 18:56:07->results of run_id 246sent successfully
+07/31/21 18:56:07->sending ready signal to master
+07/31/21 18:56:07->received parameters (group id = 6, run id = 251), starting model run...
+
+07/31/21 18:56:14->received finished signal from run thread 
+
+07/31/21 18:56:15->run complete, sending results to master (group id = 6, run id = 251)...run took: 8.148 seconds
+07/31/21 18:56:15->results of run_id 251sent successfully
+07/31/21 18:56:15->sending ready signal to master
+07/31/21 18:56:15->received parameters (group id = 6, run id = 256), starting model run...
+
+07/31/21 18:56:22->received finished signal from run thread 
+
+07/31/21 18:56:23->run complete, sending results to master (group id = 6, run id = 256)...run took: 8.146 seconds
+07/31/21 18:56:23->results of run_id 256sent successfully
+07/31/21 18:56:23->sending ready signal to master
+07/31/21 18:56:23->received parameters (group id = 6, run id = 261), starting model run...
+
+07/31/21 18:56:30->received finished signal from run thread 
+
+07/31/21 18:56:31->run complete, sending results to master (group id = 6, run id = 261)...run took: 8.146 seconds
+07/31/21 18:56:31->results of run_id 261sent successfully
+07/31/21 18:56:31->sending ready signal to master
+07/31/21 18:56:31->received parameters (group id = 6, run id = 266), starting model run...
+
+07/31/21 18:56:38->received finished signal from run thread 
+
+07/31/21 18:56:40->run complete, sending results to master (group id = 6, run id = 266)...run took: 8.148 seconds
+07/31/21 18:56:40->results of run_id 266sent successfully
+07/31/21 18:56:40->sending ready signal to master
+07/31/21 18:56:40->received parameters (group id = 6, run id = 271), starting model run...
+
+07/31/21 18:56:47->received finished signal from run thread 
+
+07/31/21 18:56:48->run complete, sending results to master (group id = 6, run id = 271)...run took: 8.149 seconds
+07/31/21 18:56:48->results of run_id 271sent successfully
+07/31/21 18:56:48->sending ready signal to master
+07/31/21 18:56:48->received parameters (group id = 6, run id = 276), starting model run...
+
+07/31/21 18:56:55->received finished signal from run thread 
+
+07/31/21 18:56:56->run complete, sending results to master (group id = 6, run id = 276)...run took: 8.146 seconds
+07/31/21 18:56:56->results of run_id 276sent successfully
+07/31/21 18:56:56->sending ready signal to master
+07/31/21 18:56:56->received parameters (group id = 6, run id = 281), starting model run...
+
+07/31/21 18:57:03->received finished signal from run thread 
+
+07/31/21 18:57:04->run complete, sending results to master (group id = 6, run id = 281)...run took: 8.145 seconds
+07/31/21 18:57:04->results of run_id 281sent successfully
+07/31/21 18:57:04->sending ready signal to master
+07/31/21 18:57:04->received parameters (group id = 6, run id = 286), starting model run...
+
+07/31/21 18:57:11->received finished signal from run thread 
+
+07/31/21 18:57:13->run complete, sending results to master (group id = 6, run id = 286)...run took: 8.146 seconds
+07/31/21 18:57:13->results of run_id 286sent successfully
+07/31/21 18:57:13->sending ready signal to master
+07/31/21 18:57:13->received parameters (group id = 6, run id = 291), starting model run...
+
+07/31/21 18:57:19->received finished signal from run thread 
+
+07/31/21 18:57:20->run complete, sending results to master (group id = 6, run id = 291)...run took: 7.141 seconds
+07/31/21 18:57:20->results of run_id 291sent successfully
+07/31/21 18:57:20->sending ready signal to master
+07/31/21 18:57:20->received parameters (group id = 6, run id = 296), starting model run...
+
+07/31/21 18:57:27->received finished signal from run thread 
+
+07/31/21 18:57:28->run complete, sending results to master (group id = 6, run id = 296)...run took: 8.148 seconds
+07/31/21 18:57:28->results of run_id 296sent successfully
+07/31/21 18:57:28->sending ready signal to master
+07/31/21 18:57:28->received parameters (group id = 6, run id = 301), starting model run...
+
+07/31/21 18:57:35->received finished signal from run thread 
+
+07/31/21 18:57:36->run complete, sending results to master (group id = 6, run id = 301)...run took: 8.148 seconds
+07/31/21 18:57:36->results of run_id 301sent successfully
+07/31/21 18:57:36->sending ready signal to master
+07/31/21 18:57:36->received parameters (group id = 6, run id = 306), starting model run...
+
+07/31/21 18:57:42->received finished signal from run thread 
+
+07/31/21 18:57:44->run complete, sending results to master (group id = 6, run id = 306)...run took: 7.141 seconds
+07/31/21 18:57:44->results of run_id 306sent successfully
+07/31/21 18:57:44->sending ready signal to master
+07/31/21 18:57:44->received parameters (group id = 6, run id = 311), starting model run...
+
+07/31/21 18:57:51->received finished signal from run thread 
+
+07/31/21 18:57:52->run complete, sending results to master (group id = 6, run id = 311)...run took: 8.147 seconds
+07/31/21 18:57:52->results of run_id 311sent successfully
+07/31/21 18:57:52->sending ready signal to master
+07/31/21 18:57:52->received parameters (group id = 6, run id = 316), starting model run...
+
+07/31/21 18:57:58->received finished signal from run thread 
+
+07/31/21 18:57:59->run complete, sending results to master (group id = 6, run id = 316)...run took: 7.141 seconds
+07/31/21 18:57:59->results of run_id 316sent successfully
+07/31/21 18:57:59->sending ready signal to master
+07/31/21 18:57:59->received parameters (group id = 6, run id = 321), starting model run...
+
+07/31/21 18:58:05->received finished signal from run thread 
+
+07/31/21 18:58:06->run complete, sending results to master (group id = 6, run id = 321)...run took: 7.139 seconds
+07/31/21 18:58:06->results of run_id 321sent successfully
+07/31/21 18:58:06->sending ready signal to master
+07/31/21 18:58:06->received parameters (group id = 6, run id = 326), starting model run...
+
+07/31/21 18:58:13->received finished signal from run thread 
+
+07/31/21 18:58:15->run complete, sending results to master (group id = 6, run id = 326)...run took: 8.147 seconds
+07/31/21 18:58:15->results of run_id 326sent successfully
+07/31/21 18:58:15->sending ready signal to master
+07/31/21 18:58:15->received parameters (group id = 6, run id = 331), starting model run...
+
+07/31/21 18:58:21->received finished signal from run thread 
+
+07/31/21 18:58:22->run complete, sending results to master (group id = 6, run id = 331)...run took: 7.142 seconds
+07/31/21 18:58:22->results of run_id 331sent successfully
+07/31/21 18:58:22->sending ready signal to master
+07/31/21 18:58:22->received parameters (group id = 6, run id = 336), starting model run...
+
+07/31/21 18:58:28->received finished signal from run thread 
+
+07/31/21 18:58:29->run complete, sending results to master (group id = 6, run id = 336)...run took: 7.14 seconds
+07/31/21 18:58:29->results of run_id 336sent successfully
+07/31/21 18:58:29->sending ready signal to master
+07/31/21 18:58:29->received parameters (group id = 6, run id = 341), starting model run...
+
+07/31/21 18:58:35->received finished signal from run thread 
+
+07/31/21 18:58:36->run complete, sending results to master (group id = 6, run id = 341)...run took: 7.141 seconds
+07/31/21 18:58:36->results of run_id 341sent successfully
+07/31/21 18:58:36->sending ready signal to master
+07/31/21 18:58:36->received parameters (group id = 6, run id = 346), starting model run...
+
+07/31/21 18:58:42->received finished signal from run thread 
+
+07/31/21 18:58:44->run complete, sending results to master (group id = 6, run id = 346)...run took: 7.141 seconds
+07/31/21 18:58:44->results of run_id 346sent successfully
+07/31/21 18:58:44->sending ready signal to master
+07/31/21 18:58:44->received parameters (group id = 6, run id = 351), starting model run...
+
+07/31/21 18:58:50->received finished signal from run thread 
+
+07/31/21 18:58:51->run complete, sending results to master (group id = 6, run id = 351)...run took: 7.24 seconds
+07/31/21 18:58:51->results of run_id 351sent successfully
+07/31/21 18:58:51->sending ready signal to master
+07/31/21 18:58:51->received parameters (group id = 6, run id = 356), starting model run...
+
+07/31/21 18:58:58->received finished signal from run thread 
+
+07/31/21 18:58:59->run complete, sending results to master (group id = 6, run id = 356)...run took: 8.15 seconds
+07/31/21 18:58:59->results of run_id 356sent successfully
+07/31/21 18:58:59->sending ready signal to master
+07/31/21 18:58:59->received parameters (group id = 6, run id = 361), starting model run...
+
+07/31/21 18:59:06->received finished signal from run thread 
+
+07/31/21 18:59:07->run complete, sending results to master (group id = 6, run id = 361)...run took: 8.146 seconds
+07/31/21 18:59:07->results of run_id 361sent successfully
+07/31/21 18:59:07->sending ready signal to master
+07/31/21 18:59:07->received parameters (group id = 6, run id = 366), starting model run...
+
+07/31/21 18:59:15->received finished signal from run thread 
+
+07/31/21 18:59:16->run complete, sending results to master (group id = 6, run id = 366)...run took: 8.148 seconds
+07/31/21 18:59:16->results of run_id 366sent successfully
+07/31/21 18:59:16->sending ready signal to master
+07/31/21 18:59:16->received parameters (group id = 6, run id = 371), starting model run...
+
+07/31/21 18:59:22->received finished signal from run thread 
+
+07/31/21 18:59:23->run complete, sending results to master (group id = 6, run id = 371)...run took: 7.14 seconds
+07/31/21 18:59:23->results of run_id 371sent successfully
+07/31/21 18:59:23->sending ready signal to master
+07/31/21 18:59:23->received parameters (group id = 6, run id = 376), starting model run...
+
+07/31/21 18:59:30->received finished signal from run thread 
+
+07/31/21 18:59:31->run complete, sending results to master (group id = 6, run id = 376)...run took: 8.148 seconds
+07/31/21 18:59:31->results of run_id 376sent successfully
+07/31/21 18:59:31->sending ready signal to master
+07/31/21 18:59:31->received parameters (group id = 6, run id = 381), starting model run...
+
+07/31/21 18:59:37->received finished signal from run thread 
+
+07/31/21 18:59:38->run complete, sending results to master (group id = 6, run id = 381)...run took: 7.139 seconds
+07/31/21 18:59:38->results of run_id 381sent successfully
+07/31/21 18:59:38->sending ready signal to master
+07/31/21 18:59:38->received parameters (group id = 6, run id = 386), starting model run...
+
+07/31/21 18:59:44->received finished signal from run thread 
+
+07/31/21 18:59:46->run complete, sending results to master (group id = 6, run id = 386)...run took: 7.142 seconds
+07/31/21 18:59:46->results of run_id 386sent successfully
+07/31/21 18:59:46->sending ready signal to master
+07/31/21 18:59:46->received parameters (group id = 6, run id = 391), starting model run...
+
+07/31/21 18:59:53->received finished signal from run thread 
+
+07/31/21 18:59:54->run complete, sending results to master (group id = 6, run id = 391)...run took: 8.148 seconds
+07/31/21 18:59:54->results of run_id 391sent successfully
+07/31/21 18:59:54->sending ready signal to master
+07/31/21 18:59:54->received parameters (group id = 6, run id = 396), starting model run...
+
+07/31/21 19:00:00->received finished signal from run thread 
+
+07/31/21 19:00:01->run complete, sending results to master (group id = 6, run id = 396)...run took: 7.243 seconds
+07/31/21 19:00:01->results of run_id 396sent successfully
+07/31/21 19:00:01->sending ready signal to master
+07/31/21 19:00:01->received parameters (group id = 6, run id = 401), starting model run...
+
+07/31/21 19:00:07->received finished signal from run thread 
+
+07/31/21 19:00:08->run complete, sending results to master (group id = 6, run id = 401)...run took: 7.142 seconds
+07/31/21 19:00:08->results of run_id 401sent successfully
+07/31/21 19:00:08->sending ready signal to master
+07/31/21 19:00:09->received parameters (group id = 6, run id = 406), starting model run...
+
+07/31/21 19:00:16->received finished signal from run thread 
+
+07/31/21 19:00:17->run complete, sending results to master (group id = 6, run id = 406)...run took: 8.148 seconds
+07/31/21 19:00:17->results of run_id 406sent successfully
+07/31/21 19:00:17->sending ready signal to master
+07/31/21 19:00:17->received parameters (group id = 6, run id = 411), starting model run...
+
+07/31/21 19:00:23->received finished signal from run thread 
+
+07/31/21 19:00:24->run complete, sending results to master (group id = 6, run id = 411)...run took: 7.241 seconds
+07/31/21 19:00:24->results of run_id 411sent successfully
+07/31/21 19:00:24->sending ready signal to master
+07/31/21 19:00:24->received parameters (group id = 6, run id = 417), starting model run...
+
+07/31/21 19:00:30->received finished signal from run thread 
+
+07/31/21 19:00:31->run complete, sending results to master (group id = 6, run id = 417)...run took: 7.242 seconds
+07/31/21 19:00:31->results of run_id 417sent successfully
+07/31/21 19:00:31->sending ready signal to master
+07/31/21 19:00:31->received parameters (group id = 6, run id = 422), starting model run...
+
+07/31/21 19:00:39->received finished signal from run thread 
+
+07/31/21 19:00:40->run complete, sending results to master (group id = 6, run id = 422)...run took: 8.149 seconds
+07/31/21 19:00:40->results of run_id 422sent successfully
+07/31/21 19:00:40->sending ready signal to master
+07/31/21 19:00:40->received parameters (group id = 6, run id = 427), starting model run...
+
+07/31/21 19:00:47->received finished signal from run thread 
+
+07/31/21 19:00:48->run complete, sending results to master (group id = 6, run id = 427)...run took: 8.149 seconds
+07/31/21 19:00:48->results of run_id 427sent successfully
+07/31/21 19:00:48->sending ready signal to master
+07/31/21 19:00:48->received parameters (group id = 6, run id = 432), starting model run...
+
+07/31/21 19:00:54->received finished signal from run thread 
+
+07/31/21 19:00:55->run complete, sending results to master (group id = 6, run id = 432)...run took: 7.142 seconds
+07/31/21 19:00:55->results of run_id 432sent successfully
+07/31/21 19:00:55->sending ready signal to master
+07/31/21 19:00:55->received parameters (group id = 6, run id = 437), starting model run...
+
+07/31/21 19:01:02->received finished signal from run thread 
+
+07/31/21 19:01:03->run complete, sending results to master (group id = 6, run id = 437)...run took: 8.145 seconds
+07/31/21 19:01:03->results of run_id 437sent successfully
+07/31/21 19:01:03->sending ready signal to master
+07/31/21 19:01:03->received parameters (group id = 6, run id = 442), starting model run...
+
+07/31/21 19:01:10->received finished signal from run thread 
+
+07/31/21 19:01:11->run complete, sending results to master (group id = 6, run id = 442)...run took: 7.143 seconds
+07/31/21 19:01:11->results of run_id 442sent successfully
+07/31/21 19:01:11->sending ready signal to master
+07/31/21 19:01:11->received parameters (group id = 6, run id = 445), starting model run...
+
+07/31/21 19:01:19->received finished signal from run thread 
+
+07/31/21 19:01:20->run complete, sending results to master (group id = 6, run id = 445)...run took: 9.154 seconds
+07/31/21 19:01:20->results of run_id 445sent successfully
+07/31/21 19:01:20->sending ready signal to master
+07/31/21 19:01:20->received parameters (group id = 6, run id = 450), starting model run...
+
+07/31/21 19:01:27->received finished signal from run thread 
+
+07/31/21 19:01:28->run complete, sending results to master (group id = 6, run id = 450)...run took: 8.147 seconds
+07/31/21 19:01:28->results of run_id 450sent successfully
+07/31/21 19:01:28->sending ready signal to master
+07/31/21 19:01:28->received parameters (group id = 6, run id = 455), starting model run...
+
+07/31/21 19:01:35->received finished signal from run thread 
+
+07/31/21 19:01:36->run complete, sending results to master (group id = 6, run id = 455)...run took: 8.148 seconds
+07/31/21 19:01:36->results of run_id 455sent successfully
+07/31/21 19:01:36->sending ready signal to master
+07/31/21 19:01:36->received parameters (group id = 6, run id = 460), starting model run...
+
+07/31/21 19:01:44->received finished signal from run thread 
+
+07/31/21 19:01:45->run complete, sending results to master (group id = 6, run id = 460)...run took: 8.149 seconds
+07/31/21 19:01:45->results of run_id 460sent successfully
+07/31/21 19:01:45->sending ready signal to master
+07/31/21 19:01:45->received parameters (group id = 6, run id = 465), starting model run...
+
+07/31/21 19:01:52->received finished signal from run thread 
+
+07/31/21 19:01:53->run complete, sending results to master (group id = 6, run id = 465)...run took: 8.148 seconds
+07/31/21 19:01:53->results of run_id 465sent successfully
+07/31/21 19:01:53->sending ready signal to master
+07/31/21 19:01:53->received parameters (group id = 6, run id = 470), starting model run...
+
+07/31/21 19:01:59->received finished signal from run thread 
+
+07/31/21 19:02:00->run complete, sending results to master (group id = 6, run id = 470)...run took: 7.144 seconds
+07/31/21 19:02:00->results of run_id 470sent successfully
+07/31/21 19:02:00->sending ready signal to master
+07/31/21 19:02:00->received parameters (group id = 6, run id = 475), starting model run...
+
+07/31/21 19:02:06->received finished signal from run thread 
+
+07/31/21 19:02:07->run complete, sending results to master (group id = 6, run id = 475)...run took: 7.141 seconds
+07/31/21 19:02:07->results of run_id 475sent successfully
+07/31/21 19:02:07->sending ready signal to master
+07/31/21 19:02:07->received parameters (group id = 6, run id = 480), starting model run...
+
+07/31/21 19:02:13->received finished signal from run thread 
+
+07/31/21 19:02:15->run complete, sending results to master (group id = 6, run id = 480)...run took: 7.145 seconds
+07/31/21 19:02:15->results of run_id 480sent successfully
+07/31/21 19:02:15->sending ready signal to master
+07/31/21 19:02:15->received parameters (group id = 6, run id = 485), starting model run...
+
+07/31/21 19:02:21->received finished signal from run thread 
+
+07/31/21 19:02:22->run complete, sending results to master (group id = 6, run id = 485)...run took: 7.143 seconds
+07/31/21 19:02:22->results of run_id 485sent successfully
+07/31/21 19:02:22->sending ready signal to master
+07/31/21 19:02:22->received parameters (group id = 6, run id = 490), starting model run...
+
+07/31/21 19:02:28->received finished signal from run thread 
+
+07/31/21 19:02:29->run complete, sending results to master (group id = 6, run id = 490)...run took: 7.141 seconds
+07/31/21 19:02:29->results of run_id 490sent successfully
+07/31/21 19:02:29->sending ready signal to master
+07/31/21 19:02:29->received parameters (group id = 6, run id = 495), starting model run...
+
+07/31/21 19:02:36->received finished signal from run thread 
+
+07/31/21 19:02:37->run complete, sending results to master (group id = 6, run id = 495)...run took: 8.147 seconds
+07/31/21 19:02:37->results of run_id 495sent successfully
+07/31/21 19:02:37->sending ready signal to master
+07/31/21 19:02:37->received parameters (group id = 6, run id = 500), starting model run...
+
+07/31/21 19:02:44->received finished signal from run thread 
+
+07/31/21 19:02:46->run complete, sending results to master (group id = 6, run id = 500)...run took: 8.144 seconds
+07/31/21 19:02:46->results of run_id 500sent successfully
+07/31/21 19:02:46->sending ready signal to master
+07/31/21 19:02:46->received parameters (group id = 6, run id = 505), starting model run...
+
+07/31/21 19:02:52->received finished signal from run thread 
+
+07/31/21 19:02:53->run complete, sending results to master (group id = 6, run id = 505)...run took: 7.142 seconds
+07/31/21 19:02:53->results of run_id 505sent successfully
+07/31/21 19:02:53->sending ready signal to master
+07/31/21 19:02:53->received parameters (group id = 6, run id = 509), starting model run...
+
+07/31/21 19:02:59->received finished signal from run thread 
+
+07/31/21 19:03:00->run complete, sending results to master (group id = 6, run id = 509)...run took: 7.144 seconds
+07/31/21 19:03:00->results of run_id 509sent successfully
+07/31/21 19:03:00->sending ready signal to master
+07/31/21 19:03:00->received parameters (group id = 6, run id = 514), starting model run...
+
+07/31/21 19:03:07->received finished signal from run thread 
+
+07/31/21 19:03:08->run complete, sending results to master (group id = 6, run id = 514)...run took: 8.148 seconds
+07/31/21 19:03:08->results of run_id 514sent successfully
+07/31/21 19:03:08->sending ready signal to master
+07/31/21 19:03:08->received parameters (group id = 6, run id = 519), starting model run...
+
+07/31/21 19:03:14->received finished signal from run thread 
+
+07/31/21 19:03:16->run complete, sending results to master (group id = 6, run id = 519)...run took: 7.141 seconds
+07/31/21 19:03:16->results of run_id 519sent successfully
+07/31/21 19:03:16->sending ready signal to master
+07/31/21 19:03:16->received parameters (group id = 6, run id = 523), starting model run...
+
+07/31/21 19:03:23->received finished signal from run thread 
+
+07/31/21 19:03:24->run complete, sending results to master (group id = 6, run id = 523)...run took: 8.147 seconds
+07/31/21 19:03:24->results of run_id 523sent successfully
+07/31/21 19:03:24->sending ready signal to master
+07/31/21 19:03:24->received parameters (group id = 6, run id = 528), starting model run...
+
+07/31/21 19:03:31->received finished signal from run thread 
+
+07/31/21 19:03:32->run complete, sending results to master (group id = 6, run id = 528)...run took: 8.147 seconds
+07/31/21 19:03:32->results of run_id 528sent successfully
+07/31/21 19:03:32->sending ready signal to master
+07/31/21 19:04:15->received parameters (group id = 7, run id = 2), starting model run...
+
+07/31/21 19:04:22->received finished signal from run thread 
+
+07/31/21 19:04:23->run complete, sending results to master (group id = 7, run id = 2)...run took: 8.148 seconds
+07/31/21 19:04:23->results of run_id 2sent successfully
+07/31/21 19:04:23->sending ready signal to master
+07/31/21 19:04:23->received parameters (group id = 7, run id = 8), starting model run...
+
+07/31/21 19:04:29->received finished signal from run thread 
+
+07/31/21 19:04:30->run complete, sending results to master (group id = 7, run id = 8)...run took: 7.141 seconds
+07/31/21 19:04:30->results of run_id 8sent successfully
+07/31/21 19:04:30->sending ready signal to master
+07/31/21 19:04:31->received parameters (group id = 8, run id = 1), starting model run...
+
+07/31/21 19:04:37->received finished signal from run thread 
+
+07/31/21 19:04:38->run complete, sending results to master (group id = 8, run id = 1)...run took: 7.143 seconds
+07/31/21 19:04:38->results of run_id 1sent successfully
+07/31/21 19:04:38->sending ready signal to master
+07/31/21 19:04:38->received parameters (group id = 8, run id = 6), starting model run...
+
+07/31/21 19:04:44->received finished signal from run thread 
+
+07/31/21 19:04:45->run complete, sending results to master (group id = 8, run id = 6)...run took: 7.141 seconds
+07/31/21 19:04:45->results of run_id 6sent successfully
+07/31/21 19:04:45->sending ready signal to master
+07/31/21 19:04:45->received parameters (group id = 8, run id = 11), starting model run...
+
+07/31/21 19:04:52->received finished signal from run thread 
+
+07/31/21 19:04:53->run complete, sending results to master (group id = 8, run id = 11)...run took: 7.142 seconds
+07/31/21 19:04:53->results of run_id 11sent successfully
+07/31/21 19:04:53->sending ready signal to master
+07/31/21 19:04:53->received parameters (group id = 8, run id = 18), starting model run...
+
+07/31/21 19:04:59->received finished signal from run thread 
+
+07/31/21 19:05:00->run complete, sending results to master (group id = 8, run id = 18)...run took: 7.141 seconds
+07/31/21 19:05:00->results of run_id 18sent successfully
+07/31/21 19:05:00->sending ready signal to master
+07/31/21 19:05:00->received parameters (group id = 8, run id = 22), starting model run...
+
+07/31/21 19:05:06->received finished signal from run thread 
+
+07/31/21 19:05:07->run complete, sending results to master (group id = 8, run id = 22)...run took: 7.139 seconds
+07/31/21 19:05:07->results of run_id 22sent successfully
+07/31/21 19:05:07->sending ready signal to master
+07/31/21 19:05:07->received parameters (group id = 8, run id = 27), starting model run...
+
+07/31/21 19:05:13->received finished signal from run thread 
+
+07/31/21 19:05:14->run complete, sending results to master (group id = 8, run id = 27)...run took: 7.145 seconds
+07/31/21 19:05:14->results of run_id 27sent successfully
+07/31/21 19:05:14->sending ready signal to master
+07/31/21 19:05:14->received parameters (group id = 8, run id = 33), starting model run...
+
+07/31/21 19:05:20->received finished signal from run thread 
+
+07/31/21 19:05:22->run complete, sending results to master (group id = 8, run id = 33)...run took: 7.138 seconds
+07/31/21 19:05:22->results of run_id 33sent successfully
+07/31/21 19:05:22->sending ready signal to master
+07/31/21 19:05:22->received parameters (group id = 8, run id = 37), starting model run...
+
+07/31/21 19:05:28->received finished signal from run thread 
+
+07/31/21 19:05:29->run complete, sending results to master (group id = 8, run id = 37)...run took: 7.14 seconds
+07/31/21 19:05:29->results of run_id 37sent successfully
+07/31/21 19:05:29->sending ready signal to master
+07/31/21 19:05:29->received parameters (group id = 8, run id = 45), starting model run...
+
+07/31/21 19:05:36->received finished signal from run thread 
+
+07/31/21 19:05:37->run complete, sending results to master (group id = 8, run id = 45)...run took: 8.243 seconds
+07/31/21 19:05:37->results of run_id 45sent successfully
+07/31/21 19:05:37->sending ready signal to master
+07/31/21 19:05:37->received parameters (group id = 8, run id = 50), starting model run...
+
+07/31/21 19:05:43->received finished signal from run thread 
+
+07/31/21 19:05:44->run complete, sending results to master (group id = 8, run id = 50)...run took: 7.142 seconds
+07/31/21 19:05:44->results of run_id 50sent successfully
+07/31/21 19:05:44->sending ready signal to master
+07/31/21 19:05:45->received parameters (group id = 8, run id = 54), starting model run...
+
+07/31/21 19:05:52->received finished signal from run thread 
+
+07/31/21 19:05:53->run complete, sending results to master (group id = 8, run id = 54)...run took: 8.147 seconds
+07/31/21 19:05:53->results of run_id 54sent successfully
+07/31/21 19:05:53->sending ready signal to master
+07/31/21 19:05:53->received parameters (group id = 8, run id = 59), starting model run...
+
+07/31/21 19:05:59->received finished signal from run thread 
+
+07/31/21 19:06:00->run complete, sending results to master (group id = 8, run id = 59)...run took: 7.141 seconds
+07/31/21 19:06:00->results of run_id 59sent successfully
+07/31/21 19:06:00->sending ready signal to master
+07/31/21 19:06:00->received parameters (group id = 8, run id = 61), starting model run...
+
+07/31/21 19:06:06->received finished signal from run thread 
+
+07/31/21 19:06:07->run complete, sending results to master (group id = 8, run id = 61)...run took: 7.142 seconds
+07/31/21 19:06:07->results of run_id 61sent successfully
+07/31/21 19:06:07->sending ready signal to master
+07/31/21 19:06:07->received parameters (group id = 8, run id = 66), starting model run...
+
+07/31/21 19:06:13->received finished signal from run thread 
+
+07/31/21 19:06:14->run complete, sending results to master (group id = 8, run id = 66)...run took: 7.14 seconds
+07/31/21 19:06:14->results of run_id 66sent successfully
+07/31/21 19:06:14->sending ready signal to master
+07/31/21 19:06:15->received parameters (group id = 8, run id = 71), starting model run...
+
+07/31/21 19:06:22->received finished signal from run thread 
+
+07/31/21 19:06:23->run complete, sending results to master (group id = 8, run id = 71)...run took: 8.146 seconds
+07/31/21 19:06:23->results of run_id 71sent successfully
+07/31/21 19:06:23->sending ready signal to master
+07/31/21 19:06:23->received parameters (group id = 8, run id = 76), starting model run...
+
+07/31/21 19:06:30->received finished signal from run thread 
+
+07/31/21 19:06:31->run complete, sending results to master (group id = 8, run id = 76)...run took: 8.169 seconds
+07/31/21 19:06:31->results of run_id 76sent successfully
+07/31/21 19:06:31->sending ready signal to master
+07/31/21 19:06:31->received parameters (group id = 8, run id = 81), starting model run...
+
+07/31/21 19:06:38->received finished signal from run thread 
+
+07/31/21 19:06:39->run complete, sending results to master (group id = 8, run id = 81)...run took: 8.176 seconds
+07/31/21 19:06:39->results of run_id 81sent successfully
+07/31/21 19:06:39->sending ready signal to master
+07/31/21 19:06:39->received parameters (group id = 8, run id = 86), starting model run...
+
+07/31/21 19:06:45->received finished signal from run thread 
+
+07/31/21 19:06:47->run complete, sending results to master (group id = 8, run id = 86)...run took: 7.296 seconds
+07/31/21 19:06:47->results of run_id 86sent successfully
+07/31/21 19:06:47->sending ready signal to master
+07/31/21 19:06:47->received parameters (group id = 8, run id = 91), starting model run...
+
+07/31/21 19:06:53->received finished signal from run thread 
+
+07/31/21 19:06:54->run complete, sending results to master (group id = 8, run id = 91)...run took: 7.256 seconds
+07/31/21 19:06:54->results of run_id 91sent successfully
+07/31/21 19:06:54->sending ready signal to master
+07/31/21 19:06:54->received parameters (group id = 8, run id = 96), starting model run...
+
+07/31/21 19:07:01->received finished signal from run thread 
+
+07/31/21 19:07:02->run complete, sending results to master (group id = 8, run id = 96)...run took: 8.287 seconds
+07/31/21 19:07:02->results of run_id 96sent successfully
+07/31/21 19:07:02->sending ready signal to master
+07/31/21 19:07:02->received parameters (group id = 8, run id = 101), starting model run...
+
+07/31/21 19:07:10->received finished signal from run thread 
+
+07/31/21 19:07:11->run complete, sending results to master (group id = 8, run id = 101)...run took: 8.254 seconds
+07/31/21 19:07:11->results of run_id 101sent successfully
+07/31/21 19:07:11->sending ready signal to master
+07/31/21 19:07:11->received parameters (group id = 8, run id = 106), starting model run...
+
+07/31/21 19:07:18->received finished signal from run thread 
+
+07/31/21 19:07:19->run complete, sending results to master (group id = 8, run id = 106)...run took: 8.258 seconds
+07/31/21 19:07:19->results of run_id 106sent successfully
+07/31/21 19:07:19->sending ready signal to master
+07/31/21 19:07:19->received parameters (group id = 8, run id = 111), starting model run...
+
+07/31/21 19:07:25->received finished signal from run thread 
+
+07/31/21 19:07:26->run complete, sending results to master (group id = 8, run id = 111)...run took: 7.257 seconds
+07/31/21 19:07:26->results of run_id 111sent successfully
+07/31/21 19:07:26->sending ready signal to master
+07/31/21 19:07:27->received parameters (group id = 8, run id = 116), starting model run...
+
+07/31/21 19:07:33->received finished signal from run thread 
+
+07/31/21 19:07:34->run complete, sending results to master (group id = 8, run id = 116)...run took: 7.26 seconds
+07/31/21 19:07:34->results of run_id 116sent successfully
+07/31/21 19:07:34->sending ready signal to master
+07/31/21 19:07:34->received parameters (group id = 8, run id = 121), starting model run...
+
+07/31/21 19:07:40->received finished signal from run thread 
+
