@@ -1,16 +1,16 @@
-             pestpp-glm 5.0.6
+             pestpp-glm 5.0.11
 
     by The PEST++ Development Team
 
 
 
-version: 5.0.6
-binary compiled on Nov  5 2020 at 08:41:17
+version: 5.0.11
+binary compiled on Feb 24 2021 at 15:50:04
 
 using control file: "disolv.pst"
 
-in directory: "c:\Users\rui2h\Documents\GitHub\disolv\calib\pestpp_template"
-on host: "DESKTOP-E0R2JQ8"
+in directory: "d:\github\disolv\calib\pestpp_template"
+on host: "3R3V7B3"
 
 
 Note 'NOPTMAX' == 0, switching to forgiveness mode when checking inputs
@@ -83,6 +83,7 @@ check_tplins: 1
 fill_tpl_zeros: 0
 additional_ins_delimiters: 
 random_seed: 358183147
+num_tpl_ins_threads: 1
 panther_agent_restart_on_error: 0
 panther_agent_no_ping_timeout_secs: -1
 panther_debug_loop: 0
@@ -217,10 +218,10 @@ Model interface files:-
 
 Parameter group information
 NAME            INCREMENT TYPE     DERIVATIVE INCREMENT    INCREMENT LOWER BOUND  FORCE CENTRAL     INCREMENT MULTIPLIER
-diff                  RELATIVE                     0.01                        0         SWITCH                        2
 disp                  RELATIVE                     0.01                        0         SWITCH                        2
-out_flows             RELATIVE                     0.01                        0         SWITCH                        2
+diff                  RELATIVE                     0.01                        0         SWITCH                        2
 in_flows              RELATIVE                     0.01                        0         SWITCH                        2
+out_flows             RELATIVE                     0.01                        0         SWITCH                        2
 model                 RELATIVE                     0.01                        0         SWITCH                        2
 tot                   RELATIVE                     0.01                        0         SWITCH                        2
 

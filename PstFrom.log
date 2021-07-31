@@ -1,55 +1,55 @@
-2021-07-31 18:21:56.102112 starting: opening PstFrom.log for logging
-2021-07-31 18:21:56.103113 starting PstFrom process
-2021-07-31 18:21:56.104109 starting: setting up dirs
-2021-07-31 18:21:56.104109 starting: removing existing new_d 'calib\pestpp_template'
-2021-07-31 18:21:56.111772 finished: removing existing new_d 'calib\pestpp_template' took: 0:00:00.007663
-2021-07-31 18:21:56.111772 starting: copying original_d 'calib\model' to new_d 'calib\pestpp_template'
-2021-07-31 18:21:56.131688 finished: copying original_d 'calib\model' to new_d 'calib\pestpp_template' took: 0:00:00.019916
-2021-07-31 18:21:56.132686 finished: setting up dirs took: 0:00:00.028577
-2021-07-31 18:21:56.143692 starting: adding grid type direct style parameters for file(s) ['flows_frac.csv']
-2021-07-31 18:21:56.144651 starting: loading list calib\pestpp_template\flows_frac.csv
-2021-07-31 18:21:56.144651 starting: reading list calib\pestpp_template\flows_frac.csv
-2021-07-31 18:21:56.146647 finished: reading list calib\pestpp_template\flows_frac.csv took: 0:00:00.001996
-2021-07-31 18:21:56.146647 loaded list 'calib\pestpp_template\flows_frac.csv' of shape (264, 5)
-2021-07-31 18:21:56.149672 finished: loading list calib\pestpp_template\flows_frac.csv took: 0:00:00.005021
-2021-07-31 18:21:56.149672 starting: writing list-based template file 'calib\pestpp_template\flows_frac.csv.tpl'
-2021-07-31 18:21:56.178564 finished: writing list-based template file 'calib\pestpp_template\flows_frac.csv.tpl' took: 0:00:00.028892
-2021-07-31 18:21:56.186541 finished: adding grid type direct style parameters for file(s) ['flows_frac.csv'] took: 0:00:00.042849
-2021-07-31 18:21:56.186541 starting: adding constant type direct style parameters for file(s) ['total_flow.csv']
-2021-07-31 18:21:56.186541 starting: loading list calib\pestpp_template\total_flow.csv
-2021-07-31 18:21:56.187539 starting: reading list calib\pestpp_template\total_flow.csv
-2021-07-31 18:21:56.192525 finished: reading list calib\pestpp_template\total_flow.csv took: 0:00:00.004986
-2021-07-31 18:21:56.193527 loaded list 'calib\pestpp_template\total_flow.csv' of shape (1, 2)
-2021-07-31 18:21:56.193527 finished: loading list calib\pestpp_template\total_flow.csv took: 0:00:00.006986
-2021-07-31 18:21:56.194519 starting: writing list-based template file 'calib\pestpp_template\total_flow.csv.tpl'
-2021-07-31 18:21:56.207484 finished: writing list-based template file 'calib\pestpp_template\total_flow.csv.tpl' took: 0:00:00.012965
-2021-07-31 18:21:56.213468 finished: adding constant type direct style parameters for file(s) ['total_flow.csv'] took: 0:00:00.026927
-2021-07-31 18:21:56.213468 starting: adding grid type direct style parameters for file(s) ['in.csv']
-2021-07-31 18:21:56.214466 starting: loading list calib\pestpp_template\in.csv
-2021-07-31 18:21:56.214466 starting: reading list calib\pestpp_template\in.csv
-2021-07-31 18:21:56.220450 finished: reading list calib\pestpp_template\in.csv took: 0:00:00.005984
-2021-07-31 18:21:56.220450 loaded list 'calib\pestpp_template\in.csv' of shape (11, 2)
-2021-07-31 18:21:56.221448 finished: loading list calib\pestpp_template\in.csv took: 0:00:00.006982
-2021-07-31 18:21:56.221448 starting: writing list-based template file 'calib\pestpp_template\in.csv.tpl'
-2021-07-31 18:21:56.236407 finished: writing list-based template file 'calib\pestpp_template\in.csv.tpl' took: 0:00:00.014959
-2021-07-31 18:21:56.243389 finished: adding grid type direct style parameters for file(s) ['in.csv'] took: 0:00:00.029921
-2021-07-31 18:21:56.288269 starting: adding observations from output file profiles.csv
-2021-07-31 18:21:56.288269 starting: adding observations from tabular output file '['profiles.csv']'
-2021-07-31 18:21:56.289267 starting: reading list calib\pestpp_template\profiles.csv
-2021-07-31 18:21:56.296246 finished: reading list calib\pestpp_template\profiles.csv took: 0:00:00.006979
-2021-07-31 18:21:56.296246 starting: building insfile for tabular output file profiles.csv
-2021-07-31 18:21:56.305222 finished: building insfile for tabular output file profiles.csv took: 0:00:00.008976
-2021-07-31 18:21:56.305222 starting: adding observation from instruction file 'calib\pestpp_template\profiles.csv.ins'
-2021-07-31 18:21:56.314199 finished: adding observation from instruction file 'calib\pestpp_template\profiles.csv.ins' took: 0:00:00.008977
-2021-07-31 18:21:56.315196 finished: adding observations from tabular output file '['profiles.csv']' took: 0:00:00.026927
-2021-07-31 18:21:56.315196 starting: adding observations from output file flows.csv
-2021-07-31 18:21:56.316193 starting: adding observations from tabular output file '['flows.csv']'
-2021-07-31 18:21:56.316193 starting: reading list calib\pestpp_template\flows.csv
-2021-07-31 18:21:56.318188 finished: reading list calib\pestpp_template\flows.csv took: 0:00:00.001995
-2021-07-31 18:21:56.318188 starting: building insfile for tabular output file flows.csv
-2021-07-31 18:21:56.329159 finished: building insfile for tabular output file flows.csv took: 0:00:00.010971
-2021-07-31 18:21:56.330156 starting: adding observation from instruction file 'calib\pestpp_template\flows.csv.ins'
-2021-07-31 18:21:56.351147 finished: adding observation from instruction file 'calib\pestpp_template\flows.csv.ins' took: 0:00:00.020991
-2021-07-31 18:21:56.354091 finished: adding observations from tabular output file '['flows.csv']' took: 0:00:00.037898
-2021-07-31 18:21:56.493723 forward_run line:pyemu.os_utils.run(r'python run_model.py')
+2021-07-31 20:34:05.733452 starting: opening PstFrom.log for logging
+2021-07-31 20:34:05.733452 starting PstFrom process
+2021-07-31 20:34:05.733452 starting: setting up dirs
+2021-07-31 20:34:05.734447 starting: removing existing new_d 'calib\pestpp_template'
+2021-07-31 20:34:05.742432 finished: removing existing new_d 'calib\pestpp_template' took: 0:00:00.007985
+2021-07-31 20:34:05.742432 starting: copying original_d 'calib\model' to new_d 'calib\pestpp_template'
+2021-07-31 20:34:05.753396 finished: copying original_d 'calib\model' to new_d 'calib\pestpp_template' took: 0:00:00.010964
+2021-07-31 20:34:05.754393 finished: setting up dirs took: 0:00:00.020941
+2021-07-31 20:34:05.766361 starting: adding grid type direct style parameters for file(s) ['flows_frac.csv']
+2021-07-31 20:34:05.767359 starting: loading list calib\pestpp_template\flows_frac.csv
+2021-07-31 20:34:05.767359 starting: reading list calib\pestpp_template\flows_frac.csv
+2021-07-31 20:34:05.769354 finished: reading list calib\pestpp_template\flows_frac.csv took: 0:00:00.001995
+2021-07-31 20:34:05.769354 loaded list 'calib\pestpp_template\flows_frac.csv' of shape (264, 5)
+2021-07-31 20:34:05.772345 finished: loading list calib\pestpp_template\flows_frac.csv took: 0:00:00.004986
+2021-07-31 20:34:05.772345 starting: writing list-based template file 'calib\pestpp_template\flows_frac.csv.tpl'
+2021-07-31 20:34:05.795285 finished: writing list-based template file 'calib\pestpp_template\flows_frac.csv.tpl' took: 0:00:00.022940
+2021-07-31 20:34:05.801268 finished: adding grid type direct style parameters for file(s) ['flows_frac.csv'] took: 0:00:00.034907
+2021-07-31 20:34:05.801268 starting: adding constant type direct style parameters for file(s) ['total_flow.csv']
+2021-07-31 20:34:05.801268 starting: loading list calib\pestpp_template\total_flow.csv
+2021-07-31 20:34:05.802266 starting: reading list calib\pestpp_template\total_flow.csv
+2021-07-31 20:34:05.803263 finished: reading list calib\pestpp_template\total_flow.csv took: 0:00:00.000997
+2021-07-31 20:34:05.803263 loaded list 'calib\pestpp_template\total_flow.csv' of shape (1, 2)
+2021-07-31 20:34:05.804260 finished: loading list calib\pestpp_template\total_flow.csv took: 0:00:00.002992
+2021-07-31 20:34:05.804260 starting: writing list-based template file 'calib\pestpp_template\total_flow.csv.tpl'
+2021-07-31 20:34:05.814233 finished: writing list-based template file 'calib\pestpp_template\total_flow.csv.tpl' took: 0:00:00.009973
+2021-07-31 20:34:05.819219 finished: adding constant type direct style parameters for file(s) ['total_flow.csv'] took: 0:00:00.017951
+2021-07-31 20:34:05.819219 starting: adding grid type direct style parameters for file(s) ['in.csv']
+2021-07-31 20:34:05.819219 starting: loading list calib\pestpp_template\in.csv
+2021-07-31 20:34:05.819219 starting: reading list calib\pestpp_template\in.csv
+2021-07-31 20:34:05.821214 finished: reading list calib\pestpp_template\in.csv took: 0:00:00.001995
+2021-07-31 20:34:05.821214 loaded list 'calib\pestpp_template\in.csv' of shape (11, 2)
+2021-07-31 20:34:05.822211 finished: loading list calib\pestpp_template\in.csv took: 0:00:00.002992
+2021-07-31 20:34:05.822211 starting: writing list-based template file 'calib\pestpp_template\in.csv.tpl'
+2021-07-31 20:34:05.834179 finished: writing list-based template file 'calib\pestpp_template\in.csv.tpl' took: 0:00:00.011968
+2021-07-31 20:34:05.840163 finished: adding grid type direct style parameters for file(s) ['in.csv'] took: 0:00:00.020944
+2021-07-31 20:34:05.873075 starting: adding observations from output file profiles.csv
+2021-07-31 20:34:05.873075 starting: adding observations from tabular output file '['profiles.csv']'
+2021-07-31 20:34:05.874072 starting: reading list calib\pestpp_template\profiles.csv
+2021-07-31 20:34:05.875069 finished: reading list calib\pestpp_template\profiles.csv took: 0:00:00.000997
+2021-07-31 20:34:05.875069 starting: building insfile for tabular output file profiles.csv
+2021-07-31 20:34:05.882051 finished: building insfile for tabular output file profiles.csv took: 0:00:00.006982
+2021-07-31 20:34:05.883048 starting: adding observation from instruction file 'calib\pestpp_template\profiles.csv.ins'
+2021-07-31 20:34:05.889032 finished: adding observation from instruction file 'calib\pestpp_template\profiles.csv.ins' took: 0:00:00.005984
+2021-07-31 20:34:05.890029 finished: adding observations from tabular output file '['profiles.csv']' took: 0:00:00.016954
+2021-07-31 20:34:05.891027 starting: adding observations from output file flows.csv
+2021-07-31 20:34:05.891027 starting: adding observations from tabular output file '['flows.csv']'
+2021-07-31 20:34:05.891027 starting: reading list calib\pestpp_template\flows.csv
+2021-07-31 20:34:05.892024 finished: reading list calib\pestpp_template\flows.csv took: 0:00:00.000997
+2021-07-31 20:34:05.893021 starting: building insfile for tabular output file flows.csv
+2021-07-31 20:34:05.901000 finished: building insfile for tabular output file flows.csv took: 0:00:00.007979
+2021-07-31 20:34:05.901000 starting: adding observation from instruction file 'calib\pestpp_template\flows.csv.ins'
+2021-07-31 20:34:05.912968 finished: adding observation from instruction file 'calib\pestpp_template\flows.csv.ins' took: 0:00:00.011968
+2021-07-31 20:34:05.914962 finished: adding observations from tabular output file '['flows.csv']' took: 0:00:00.023935
+2021-07-31 20:34:06.010706 forward_run line:pyemu.os_utils.run(r'python run_model.py')
 
