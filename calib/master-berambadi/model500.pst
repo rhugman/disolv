@@ -1,0 +1,504 @@
+pcf
+* control data
+             restart          estimation
+        57       396         5         0        18
+         4         3              single               point
+   2.000000E+01  -3.000000E+00   3.000000E-01   1.000000E-02        -7
+   1.000000E+01   1.000000E+01   1.000000E-03
+   1.000000E-01
+         0   1.000000E-02         3         3   1.000000E-02         3
+         0         0         0
+* singular value decomposition
+         1
+  10000000    1.000000E-06
+1
+* parameter groups
+in_flows               relative              1.0000000000E-02      0.0 switch                2.0000000000E+00      parabolic             1.0000000000E-05      5.0000000000E-01      smaller              
+out_flows              relative              1.0000000000E-02      0.0 switch                2.0000000000E+00      parabolic             1.0000000000E-05      5.0000000000E-01      smaller              
+model                  relative              1.0000000000E-02      0.0 switch                2.0000000000E+00      parabolic             1.0000000000E-05      5.0000000000E-01      smaller              
+tot                    relative              1.0000000000E-02      0.0 switch                2.0000000000E+00      parabolic             1.0000000000E-05      5.0000000000E-01      smaller              
+exp                    relative              1.0000000000E-02      0.0 switch                2.0000000000E+00      parabolic             1.0000000000E-05      5.0000000000E-01      smaller              
+* parameter data
+                             in_inst:0_usecol:1_direct_idx0:18.75  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      in_flows              1.0000000000E+00      0.0000000000E+00      1          
+                            out_inst:0_usecol:2_direct_idx0:18.75  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      out_flows             1.0000000000E+00      0.0000000000E+00      1          
+                             in_inst:0_usecol:1_direct_idx0:21.25  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      in_flows              1.0000000000E+00      0.0000000000E+00      1          
+                            out_inst:0_usecol:2_direct_idx0:21.25  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      out_flows             1.0000000000E+00      0.0000000000E+00      1          
+                             in_inst:0_usecol:1_direct_idx0:23.75  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      in_flows              1.0000000000E+00      0.0000000000E+00      1          
+                            out_inst:0_usecol:2_direct_idx0:23.75  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      out_flows             1.0000000000E+00      0.0000000000E+00      1          
+                             in_inst:0_usecol:1_direct_idx0:26.25  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      in_flows              1.0000000000E+00      0.0000000000E+00      1          
+                            out_inst:0_usecol:2_direct_idx0:26.25  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      out_flows             1.0000000000E+00      0.0000000000E+00      1          
+                             in_inst:0_usecol:1_direct_idx0:28.75  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      in_flows              1.0000000000E+00      0.0000000000E+00      1          
+                            out_inst:0_usecol:2_direct_idx0:28.75  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      out_flows             1.0000000000E+00      0.0000000000E+00      1          
+                             in_inst:0_usecol:1_direct_idx0:31.25  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      in_flows              1.0000000000E+00      0.0000000000E+00      1          
+                            out_inst:0_usecol:2_direct_idx0:31.25  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      out_flows             1.0000000000E+00      0.0000000000E+00      1          
+                             in_inst:0_usecol:1_direct_idx0:33.75  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      in_flows              1.0000000000E+00      0.0000000000E+00      1          
+                            out_inst:0_usecol:2_direct_idx0:33.75  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      out_flows             1.0000000000E+00      0.0000000000E+00      1          
+                             in_inst:0_usecol:1_direct_idx0:36.25  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      in_flows              1.0000000000E+00      0.0000000000E+00      1          
+                            out_inst:0_usecol:2_direct_idx0:36.25  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      out_flows             1.0000000000E+00      0.0000000000E+00      1          
+                             in_inst:0_usecol:1_direct_idx0:38.75  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      in_flows              1.0000000000E+00      0.0000000000E+00      1          
+                            out_inst:0_usecol:2_direct_idx0:38.75  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      out_flows             1.0000000000E+00      0.0000000000E+00      1          
+                             in_inst:0_usecol:1_direct_idx0:41.25  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      in_flows              1.0000000000E+00      0.0000000000E+00      1          
+                            out_inst:0_usecol:2_direct_idx0:41.25  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      out_flows             1.0000000000E+00      0.0000000000E+00      1          
+                             in_inst:0_usecol:1_direct_idx0:43.75  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      in_flows              1.0000000000E+00      0.0000000000E+00      1          
+                            out_inst:0_usecol:2_direct_idx0:43.75  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      out_flows             1.0000000000E+00      0.0000000000E+00      1          
+                             in_inst:0_usecol:1_direct_idx0:46.25  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      in_flows              1.0000000000E+00      0.0000000000E+00      1          
+                            out_inst:0_usecol:2_direct_idx0:46.25  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      out_flows             1.0000000000E+00      0.0000000000E+00      1          
+                             in_inst:0_usecol:1_direct_idx0:48.75  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      in_flows              1.0000000000E+00      0.0000000000E+00      1          
+                            out_inst:0_usecol:2_direct_idx0:48.75  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      out_flows             1.0000000000E+00      0.0000000000E+00      1          
+                             in_inst:0_usecol:1_direct_idx0:51.25  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      in_flows              1.0000000000E+00      0.0000000000E+00      1          
+                            out_inst:0_usecol:2_direct_idx0:51.25  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      out_flows             1.0000000000E+00      0.0000000000E+00      1          
+                             in_inst:0_usecol:1_direct_idx0:53.75  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      in_flows              1.0000000000E+00      0.0000000000E+00      1          
+                            out_inst:0_usecol:2_direct_idx0:53.75  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      out_flows             1.0000000000E+00      0.0000000000E+00      1          
+                             in_inst:0_usecol:1_direct_idx0:56.25  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      in_flows              1.0000000000E+00      0.0000000000E+00      1          
+                            out_inst:0_usecol:2_direct_idx0:56.25  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      out_flows             1.0000000000E+00      0.0000000000E+00      1          
+                             in_inst:0_usecol:1_direct_idx0:58.75  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      in_flows              1.0000000000E+00      0.0000000000E+00      1          
+                            out_inst:0_usecol:2_direct_idx0:58.75  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      out_flows             1.0000000000E+00      0.0000000000E+00      1          
+                             in_inst:0_usecol:1_direct_idx0:61.25  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      in_flows              1.0000000000E+00      0.0000000000E+00      1          
+                            out_inst:0_usecol:2_direct_idx0:61.25  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      out_flows             1.0000000000E+00      0.0000000000E+00      1          
+                             in_inst:0_usecol:1_direct_idx0:63.75  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      in_flows              1.0000000000E+00      0.0000000000E+00      1          
+                            out_inst:0_usecol:2_direct_idx0:63.75  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      out_flows             1.0000000000E+00      0.0000000000E+00      1          
+                             in_inst:0_usecol:1_direct_idx0:66.25  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      in_flows              1.0000000000E+00      0.0000000000E+00      1          
+                            out_inst:0_usecol:2_direct_idx0:66.25  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      out_flows             1.0000000000E+00      0.0000000000E+00      1          
+                             in_inst:0_usecol:1_direct_idx0:68.75  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      in_flows              1.0000000000E+00      0.0000000000E+00      1          
+                            out_inst:0_usecol:2_direct_idx0:68.75  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      out_flows             1.0000000000E+00      0.0000000000E+00      1          
+                             in_inst:0_usecol:1_direct_idx0:71.25  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      in_flows              1.0000000000E+00      0.0000000000E+00      1          
+                            out_inst:0_usecol:2_direct_idx0:71.25  log                   factor                4.5454545455E-02      1.0000000000E-10      1.0000000000E+10      out_flows             1.0000000000E+00      0.0000000000E+00      1          
+                                       tot_inst:0_usecol:1_direct  log                   factor                4.0000000000E+00      1.0000000000E-03      1.0000000000E+03      tot                   1.0000000000E+00      0.0000000000E+00      1          
+                                       exp_inst:0_usecol:1_direct  none                  factor                -1.0000000000E+00     -1.0000000000E+01     1.0000000000E+01      exp                   1.0000000000E+00      0.0000000000E+00      1          
+                      p_inst:0_usecol:1_direct_idx0:Boreholedepth  fixed                 factor                7.1250000000E+01      -1.0000000000E+01     1.0000000000E+01      model                 1.0000000000E+00      0.0000000000E+00      1          
+        p_inst:0_usecol:1_direct_idx0:Spatialdiscretizationofgrid  fixed                 factor                2.5000000000E+00      -1.0000000000E+01     1.0000000000E+01      model                 1.0000000000E+00      0.0000000000E+00      1          
+p_inst:0_usecol:1_direct_idx0:Constantboreholecross-sectionalarea  fixed                 factor                3.1415927000E-02      -1.0000000000E+01     1.0000000000E+01      model                 1.0000000000E+00      0.0000000000E+00      1          
+                       p_inst:0_usecol:1_direct_idx0:Dispersivity  fixed                 factor                1.2500000000E+00      -1.0000000000E+01     1.0000000000E+01      model                 1.0000000000E+00      0.0000000000E+00      1          
+               p_inst:0_usecol:1_direct_idx0:Diffusioncoefficient  fixed                 factor                1.0000000000E-09      -1.0000000000E+01     1.0000000000E+01      model                 1.0000000000E+00      0.0000000000E+00      1          
+   p_inst:0_usecol:1_direct_idx0:Tracerconcentrationofwaterinflow  fixed                 factor                0.0000000000E+00      -1.0000000000E+01     1.0000000000E+01      model                 1.0000000000E+00      0.0000000000E+00      1          
+                   p_inst:0_usecol:1_direct_idx0:Watertemperature  fixed                 factor                2.8500000000E+01      -1.0000000000E+01     1.0000000000E+01      model                 1.0000000000E+00      0.0000000000E+00      1          
+                           p_inst:0_usecol:1_direct_idx0:AlphaMin  fixed                 factor                2.0000000000E-01      -1.0000000000E+01     1.0000000000E+01      model                 1.0000000000E+00      0.0000000000E+00      1          
+                           p_inst:0_usecol:1_direct_idx0:AlphaMax  fixed                 factor                1.5000000000E+00      -1.0000000000E+01     1.0000000000E+01      model                 1.0000000000E+00      0.0000000000E+00      1          
+                            p_inst:0_usecol:1_direct_idx0:FlowMin  fixed                 factor                0.0000000000E+00      -1.0000000000E+01     1.0000000000E+01      model                 1.0000000000E+00      0.0000000000E+00      1          
+                            p_inst:0_usecol:1_direct_idx0:FlowMax  fixed                 factor                2.0000000000E+00      -1.0000000000E+01     1.0000000000E+01      model                 1.0000000000E+00      0.0000000000E+00      1          
+* observation groups
+prof_0.02_d          
+prof_0.2_d           
+prof_0.5_d           
+prof_1.0_d           
+prof_1.5_d           
+prof_2.0_d           
+prof_3.0_d           
+prof_6.0_d           
+flow_in              
+flow_out             
+prof_0.02_td         
+prof_0.2_td          
+prof_0.5_td          
+prof_1.0_td          
+prof_1.5_td          
+prof_2.0_td          
+prof_3.0_td          
+prof_6.0_td          
+* observation data
+  dif_usecol:1_idx0:1e+30  1.0000000000E+30      1.0000000000E+00      prof_0.02_d          
+    dif_usecol:1_idx0:2.5  2.6622594000E+00      1.0000000000E+00      prof_0.02_d          
+ dif_usecol:1_idx0:2.5_10  1.6528158600E+01      1.0000000000E+00      prof_0.02_d          
+ dif_usecol:1_idx0:2.5_11  3.3141430000E+00      1.0000000000E+00      prof_0.02_d          
+ dif_usecol:1_idx0:2.5_12  5.5886600000E-01      1.0000000000E+00      prof_0.02_d          
+ dif_usecol:1_idx0:2.5_13  8.0979000000E-02      1.0000000000E+00      prof_0.02_d          
+ dif_usecol:1_idx0:2.5_14  1.2050800000E-02      1.0000000000E+00      prof_0.02_d          
+ dif_usecol:1_idx0:2.5_15  2.6400000024E-05      1.0000000000E+00      prof_0.02_d          
+ dif_usecol:1_idx0:2.5_16  0.0000000000E+00      1.0000000000E+00      prof_0.02_d          
+ dif_usecol:1_idx0:2.5_17  0.0000000000E+00      1.0000000000E+00      prof_0.02_d          
+ dif_usecol:1_idx0:2.5_18  0.0000000000E+00      1.0000000000E+00      prof_0.02_d          
+ dif_usecol:1_idx0:2.5_19  0.0000000000E+00      1.0000000000E+00      prof_0.02_d          
+  dif_usecol:1_idx0:2.5_2  2.6622594000E+00      1.0000000000E+00      prof_0.02_d          
+ dif_usecol:1_idx0:2.5_20  -6.9999999823E-06     1.0000000000E+00      prof_0.02_d          
+ dif_usecol:1_idx0:2.5_21  -6.9999999823E-06     1.0000000000E+00      prof_0.02_d          
+  dif_usecol:1_idx0:2.5_3  1.7296524000E+00      1.0000000000E+00      prof_0.02_d          
+  dif_usecol:1_idx0:2.5_4  1.4942157000E+00      1.0000000000E+00      prof_0.02_d          
+  dif_usecol:1_idx0:2.5_5  1.3985194000E+00      1.0000000000E+00      prof_0.02_d          
+  dif_usecol:1_idx0:2.5_6  1.1877857000E+00      1.0000000000E+00      prof_0.02_d          
+  dif_usecol:1_idx0:2.5_7  -2.4292398810E+02     1.0000000000E+00      prof_0.02_d          
+  dif_usecol:1_idx0:2.5_8  1.6117402180E+02      1.0000000000E+00      prof_0.02_d          
+  dif_usecol:1_idx0:2.5_9  6.2840767100E+01      1.0000000000E+00      prof_0.02_d          
+  dif_usecol:2_idx0:1e+30  1.0000000000E+30      1.0000000000E+00      prof_0.2_d           
+    dif_usecol:2_idx0:2.5  2.0730562400E+01      1.0000000000E+00      prof_0.2_d           
+ dif_usecol:2_idx0:2.5_10  1.6765727350E+01      1.0000000000E+00      prof_0.2_d           
+ dif_usecol:2_idx0:2.5_11  3.1005372010E+01      1.0000000000E+00      prof_0.2_d           
+ dif_usecol:2_idx0:2.5_12  4.6776910150E+01      1.0000000000E+00      prof_0.2_d           
+ dif_usecol:2_idx0:2.5_13  5.8372247300E+01      1.0000000000E+00      prof_0.2_d           
+ dif_usecol:2_idx0:2.5_14  2.8624032310E+02      1.0000000000E+00      prof_0.2_d           
+ dif_usecol:2_idx0:2.5_15  1.0672151800E+01      1.0000000000E+00      prof_0.2_d           
+ dif_usecol:2_idx0:2.5_16  2.4193870000E-01      1.0000000000E+00      prof_0.2_d           
+ dif_usecol:2_idx0:2.5_17  3.6652000000E-03      1.0000000000E+00      prof_0.2_d           
+ dif_usecol:2_idx0:2.5_18  3.7799999973E-05      1.0000000000E+00      prof_0.2_d           
+ dif_usecol:2_idx0:2.5_19  1.9999998813E-07      1.0000000000E+00      prof_0.2_d           
+  dif_usecol:2_idx0:2.5_2  2.0730562400E+01      1.0000000000E+00      prof_0.2_d           
+ dif_usecol:2_idx0:2.5_20  -6.9079999997E-04     1.0000000000E+00      prof_0.2_d           
+ dif_usecol:2_idx0:2.5_21  -6.9079999997E-04     1.0000000000E+00      prof_0.2_d           
+  dif_usecol:2_idx0:2.5_3  1.4929595300E+01      1.0000000000E+00      prof_0.2_d           
+  dif_usecol:2_idx0:2.5_4  1.3255129000E+01      1.0000000000E+00      prof_0.2_d           
+  dif_usecol:2_idx0:2.5_5  1.2739892700E+01      1.0000000000E+00      prof_0.2_d           
+  dif_usecol:2_idx0:2.5_6  8.9806161000E+00      1.0000000000E+00      prof_0.2_d           
+  dif_usecol:2_idx0:2.5_7  -4.3806690898E+02     1.0000000000E+00      prof_0.2_d           
+  dif_usecol:2_idx0:2.5_8  2.1920036600E+00      1.0000000000E+00      prof_0.2_d           
+  dif_usecol:2_idx0:2.5_9  7.0644570100E+00      1.0000000000E+00      prof_0.2_d           
+  dif_usecol:3_idx0:1e+30  1.0000000000E+30      1.0000000000E+00      prof_0.5_d           
+    dif_usecol:3_idx0:2.5  3.4299428500E+01      1.0000000000E+00      prof_0.5_d           
+ dif_usecol:3_idx0:2.5_10  3.0050619000E-01      1.0000000000E+00      prof_0.5_d           
+ dif_usecol:3_idx0:2.5_11  3.1815901000E-01      1.0000000000E+00      prof_0.5_d           
+ dif_usecol:3_idx0:2.5_12  3.6653615000E-01      1.0000000000E+00      prof_0.5_d           
+ dif_usecol:3_idx0:2.5_13  5.8566195000E-01      1.0000000000E+00      prof_0.5_d           
+ dif_usecol:3_idx0:2.5_14  3.7710751630E+02      1.0000000000E+00      prof_0.5_d           
+ dif_usecol:3_idx0:2.5_15  7.6270977000E+01      1.0000000000E+00      prof_0.5_d           
+ dif_usecol:3_idx0:2.5_16  7.1410488000E+00      1.0000000000E+00      prof_0.5_d           
+ dif_usecol:3_idx0:2.5_17  3.9492840000E-01      1.0000000000E+00      prof_0.5_d           
+ dif_usecol:3_idx0:2.5_18  1.3848700000E-02      1.0000000000E+00      prof_0.5_d           
+ dif_usecol:3_idx0:2.5_19  3.0590000000E-04      1.0000000000E+00      prof_0.5_d           
+  dif_usecol:3_idx0:2.5_2  3.4299428500E+01      1.0000000000E+00      prof_0.5_d           
+ dif_usecol:3_idx0:2.5_20  -4.2591000000E-03     1.0000000000E+00      prof_0.5_d           
+ dif_usecol:3_idx0:2.5_21  -4.2591000000E-03     1.0000000000E+00      prof_0.5_d           
+  dif_usecol:3_idx0:2.5_3  2.8151545900E+01      1.0000000000E+00      prof_0.5_d           
+  dif_usecol:3_idx0:2.5_4  2.6495558200E+01      1.0000000000E+00      prof_0.5_d           
+  dif_usecol:3_idx0:2.5_5  2.6616426200E+01      1.0000000000E+00      prof_0.5_d           
+  dif_usecol:3_idx0:2.5_6  2.1187317400E+01      1.0000000000E+00      prof_0.5_d           
+  dif_usecol:3_idx0:2.5_7  -4.0081667290E+02     1.0000000000E+00      prof_0.5_d           
+  dif_usecol:3_idx0:2.5_8  2.6006824000E-01      1.0000000000E+00      prof_0.5_d           
+  dif_usecol:3_idx0:2.5_9  2.8093136000E-01      1.0000000000E+00      prof_0.5_d           
+  dif_usecol:4_idx0:1e+30  1.0000000000E+30      1.0000000000E+00      prof_1.0_d           
+    dif_usecol:4_idx0:2.5  3.4857758600E+01      1.0000000000E+00      prof_1.0_d           
+ dif_usecol:4_idx0:2.5_10  3.6494038000E-01      1.0000000000E+00      prof_1.0_d           
+ dif_usecol:4_idx0:2.5_11  3.6942903000E-01      1.0000000000E+00      prof_1.0_d           
+ dif_usecol:4_idx0:2.5_12  3.7237050000E-01      1.0000000000E+00      prof_1.0_d           
+ dif_usecol:4_idx0:2.5_13  4.5304424000E-01      1.0000000000E+00      prof_1.0_d           
+ dif_usecol:4_idx0:2.5_14  2.8052780144E+02      1.0000000000E+00      prof_1.0_d           
+ dif_usecol:4_idx0:2.5_15  1.4727402700E+02      1.0000000000E+00      prof_1.0_d           
+ dif_usecol:4_idx0:2.5_16  3.4733871400E+01      1.0000000000E+00      prof_1.0_d           
+ dif_usecol:4_idx0:2.5_17  4.7173233000E+00      1.0000000000E+00      prof_1.0_d           
+ dif_usecol:4_idx0:2.5_18  3.9821480000E-01      1.0000000000E+00      prof_1.0_d           
+ dif_usecol:4_idx0:2.5_19  2.0931100000E-02      1.0000000000E+00      prof_1.0_d           
+  dif_usecol:4_idx0:2.5_2  3.4857758600E+01      1.0000000000E+00      prof_1.0_d           
+ dif_usecol:4_idx0:2.5_20  -1.6061500000E-02     1.0000000000E+00      prof_1.0_d           
+ dif_usecol:4_idx0:2.5_21  -1.6061500000E-02     1.0000000000E+00      prof_1.0_d           
+  dif_usecol:4_idx0:2.5_3  3.3124546000E+01      1.0000000000E+00      prof_1.0_d           
+  dif_usecol:4_idx0:2.5_4  3.4266683700E+01      1.0000000000E+00      prof_1.0_d           
+  dif_usecol:4_idx0:2.5_5  3.7072567600E+01      1.0000000000E+00      prof_1.0_d           
+  dif_usecol:4_idx0:2.5_6  3.4226447300E+01      1.0000000000E+00      prof_1.0_d           
+  dif_usecol:4_idx0:2.5_7  -3.2486906154E+02     1.0000000000E+00      prof_1.0_d           
+  dif_usecol:4_idx0:2.5_8  3.3073516000E-01      1.0000000000E+00      prof_1.0_d           
+  dif_usecol:4_idx0:2.5_9  3.4960819000E-01      1.0000000000E+00      prof_1.0_d           
+  dif_usecol:5_idx0:1e+30  1.0000000000E+30      1.0000000000E+00      prof_1.5_d           
+    dif_usecol:5_idx0:2.5  2.6911904700E+01      1.0000000000E+00      prof_1.5_d           
+ dif_usecol:5_idx0:2.5_10  3.6102827000E-01      1.0000000000E+00      prof_1.5_d           
+ dif_usecol:5_idx0:2.5_11  3.6751607000E-01      1.0000000000E+00      prof_1.5_d           
+ dif_usecol:5_idx0:2.5_12  3.7287219000E-01      1.0000000000E+00      prof_1.5_d           
+ dif_usecol:5_idx0:2.5_13  4.3476882000E-01      1.0000000000E+00      prof_1.5_d           
+ dif_usecol:5_idx0:2.5_14  2.1096767535E+02      1.0000000000E+00      prof_1.5_d           
+ dif_usecol:5_idx0:2.5_15  1.7815190700E+02      1.0000000000E+00      prof_1.5_d           
+ dif_usecol:5_idx0:2.5_16  6.8416190600E+01      1.0000000000E+00      prof_1.5_d           
+ dif_usecol:5_idx0:2.5_17  1.5131765700E+01      1.0000000000E+00      prof_1.5_d           
+ dif_usecol:5_idx0:2.5_18  2.0764700000E+00      1.0000000000E+00      prof_1.5_d           
+ dif_usecol:5_idx0:2.5_19  1.7712080000E-01      1.0000000000E+00      prof_1.5_d           
+  dif_usecol:5_idx0:2.5_2  2.6911904700E+01      1.0000000000E+00      prof_1.5_d           
+ dif_usecol:5_idx0:2.5_20  -2.8061100000E-02     1.0000000000E+00      prof_1.5_d           
+ dif_usecol:5_idx0:2.5_21  -2.8061100000E-02     1.0000000000E+00      prof_1.5_d           
+  dif_usecol:5_idx0:2.5_3  2.8085999100E+01      1.0000000000E+00      prof_1.5_d           
+  dif_usecol:5_idx0:2.5_4  3.1327003500E+01      1.0000000000E+00      prof_1.5_d           
+  dif_usecol:5_idx0:2.5_5  3.6206681000E+01      1.0000000000E+00      prof_1.5_d           
+  dif_usecol:5_idx0:2.5_6  3.6828758800E+01      1.0000000000E+00      prof_1.5_d           
+  dif_usecol:5_idx0:2.5_7  -2.4589737097E+02     1.0000000000E+00      prof_1.5_d           
+  dif_usecol:5_idx0:2.5_8  3.2925673000E-01      1.0000000000E+00      prof_1.5_d           
+  dif_usecol:5_idx0:2.5_9  3.4638304000E-01      1.0000000000E+00      prof_1.5_d           
+  dif_usecol:6_idx0:1e+30  1.0000000000E+30      1.0000000000E+00      prof_2.0_d           
+    dif_usecol:6_idx0:2.5  1.8689977540E+01      1.0000000000E+00      prof_2.0_d           
+ dif_usecol:6_idx0:2.5_10  3.0839312000E-01      1.0000000000E+00      prof_2.0_d           
+ dif_usecol:6_idx0:2.5_11  3.1530158000E-01      1.0000000000E+00      prof_2.0_d           
+ dif_usecol:6_idx0:2.5_12  3.2151587000E-01      1.0000000000E+00      prof_2.0_d           
+ dif_usecol:6_idx0:2.5_13  3.6993788000E-01      1.0000000000E+00      prof_2.0_d           
+ dif_usecol:6_idx0:2.5_14  1.6002928231E+02      1.0000000000E+00      prof_2.0_d           
+ dif_usecol:6_idx0:2.5_15  1.8508533110E+02      1.0000000000E+00      prof_2.0_d           
+ dif_usecol:6_idx0:2.5_16  9.9180181800E+01      1.0000000000E+00      prof_2.0_d           
+ dif_usecol:6_idx0:2.5_17  3.0730642300E+01      1.0000000000E+00      prof_2.0_d           
+ dif_usecol:6_idx0:2.5_18  5.9146279000E+00      1.0000000000E+00      prof_2.0_d           
+ dif_usecol:6_idx0:2.5_19  7.0794250000E-01      1.0000000000E+00      prof_2.0_d           
+  dif_usecol:6_idx0:2.5_2  1.8689977540E+01      1.0000000000E+00      prof_2.0_d           
+ dif_usecol:6_idx0:2.5_20  -1.5056800000E-02     1.0000000000E+00      prof_2.0_d           
+ dif_usecol:6_idx0:2.5_21  -1.5056800000E-02     1.0000000000E+00      prof_2.0_d           
+  dif_usecol:6_idx0:2.5_3  2.0760078160E+01      1.0000000000E+00      prof_2.0_d           
+  dif_usecol:6_idx0:2.5_4  2.4496049100E+01      1.0000000000E+00      prof_2.0_d           
+  dif_usecol:6_idx0:2.5_5  2.9876660900E+01      1.0000000000E+00      prof_2.0_d           
+  dif_usecol:6_idx0:2.5_6  3.2584484800E+01      1.0000000000E+00      prof_2.0_d           
+  dif_usecol:6_idx0:2.5_7  -1.7599723093E+02     1.0000000000E+00      prof_2.0_d           
+  dif_usecol:6_idx0:2.5_8  2.8141127000E-01      1.0000000000E+00      prof_2.0_d           
+  dif_usecol:6_idx0:2.5_9  2.9571520000E-01      1.0000000000E+00      prof_2.0_d           
+  dif_usecol:7_idx0:1e+30  1.0000000000E+30      1.0000000000E+00      prof_3.0_d           
+    dif_usecol:7_idx0:2.5  7.8552482200E+00      1.0000000000E+00      prof_3.0_d           
+ dif_usecol:7_idx0:2.5_10  1.7175783900E-01      1.0000000000E+00      prof_3.0_d           
+ dif_usecol:7_idx0:2.5_11  1.7660409500E-01      1.0000000000E+00      prof_3.0_d           
+ dif_usecol:7_idx0:2.5_12  1.8133183500E-01      1.0000000000E+00      prof_3.0_d           
+ dif_usecol:7_idx0:2.5_13  2.1087212400E-01      1.0000000000E+00      prof_3.0_d           
+ dif_usecol:7_idx0:2.5_14  9.3034602755E+01      1.0000000000E+00      prof_3.0_d           
+ dif_usecol:7_idx0:2.5_15  1.6404278930E+02      1.0000000000E+00      prof_3.0_d           
+ dif_usecol:7_idx0:2.5_16  1.3924899040E+02      1.0000000000E+00      prof_3.0_d           
+ dif_usecol:7_idx0:2.5_17  6.9106802500E+01      1.0000000000E+00      prof_3.0_d           
+ dif_usecol:7_idx0:2.5_18  2.1405455100E+01      1.0000000000E+00      prof_3.0_d           
+ dif_usecol:7_idx0:2.5_19  4.1350119000E+00      1.0000000000E+00      prof_3.0_d           
+  dif_usecol:7_idx0:2.5_2  7.8552482200E+00      1.0000000000E+00      prof_3.0_d           
+ dif_usecol:7_idx0:2.5_20  3.2489230000E-01      1.0000000000E+00      prof_3.0_d           
+ dif_usecol:7_idx0:2.5_21  3.2489230000E-01      1.0000000000E+00      prof_3.0_d           
+  dif_usecol:7_idx0:2.5_3  9.3740576900E+00      1.0000000000E+00      prof_3.0_d           
+  dif_usecol:7_idx0:2.5_4  1.1876238340E+01      1.0000000000E+00      prof_3.0_d           
+  dif_usecol:7_idx0:2.5_5  1.5593810830E+01      1.0000000000E+00      prof_3.0_d           
+  dif_usecol:7_idx0:2.5_6  1.8619861740E+01      1.0000000000E+00      prof_3.0_d           
+  dif_usecol:7_idx0:2.5_7  -7.9883884890E+01     1.0000000000E+00      prof_3.0_d           
+  dif_usecol:7_idx0:2.5_8  1.5634874700E-01      1.0000000000E+00      prof_3.0_d           
+  dif_usecol:7_idx0:2.5_9  1.6436334500E-01      1.0000000000E+00      prof_3.0_d           
+  dif_usecol:8_idx0:1e+30  1.0000000000E+30      1.0000000000E+00      prof_6.0_d           
+    dif_usecol:8_idx0:2.5  4.2261929500E-01      1.0000000000E+00      prof_6.0_d           
+ dif_usecol:8_idx0:2.5_10  1.2255780000E-02      1.0000000000E+00      prof_6.0_d           
+ dif_usecol:8_idx0:2.5_11  1.2673590000E-02      1.0000000000E+00      prof_6.0_d           
+ dif_usecol:8_idx0:2.5_12  1.3165365000E-02      1.0000000000E+00      prof_6.0_d           
+ dif_usecol:8_idx0:2.5_13  1.8837377000E-02      1.0000000000E+00      prof_6.0_d           
+ dif_usecol:8_idx0:2.5_14  1.7562476874E+01      1.0000000000E+00      prof_6.0_d           
+ dif_usecol:8_idx0:2.5_15  6.4660577350E+01      1.0000000000E+00      prof_6.0_d           
+ dif_usecol:8_idx0:2.5_16  1.2166988975E+02      1.0000000000E+00      prof_6.0_d           
+ dif_usecol:8_idx0:2.5_17  1.3788365960E+02      1.0000000000E+00      prof_6.0_d           
+ dif_usecol:8_idx0:2.5_18  9.9205882200E+01      1.0000000000E+00      prof_6.0_d           
+ dif_usecol:8_idx0:2.5_19  4.5050468900E+01      1.0000000000E+00      prof_6.0_d           
+  dif_usecol:8_idx0:2.5_2  4.2261929500E-01      1.0000000000E+00      prof_6.0_d           
+ dif_usecol:8_idx0:2.5_20  1.1509101900E+01      1.0000000000E+00      prof_6.0_d           
+ dif_usecol:8_idx0:2.5_21  1.1509101900E+01      1.0000000000E+00      prof_6.0_d           
+  dif_usecol:8_idx0:2.5_3  5.3546271400E-01      1.0000000000E+00      prof_6.0_d           
+  dif_usecol:8_idx0:2.5_4  7.2463976200E-01      1.0000000000E+00      prof_6.0_d           
+  dif_usecol:8_idx0:2.5_5  1.0262113200E+00      1.0000000000E+00      prof_6.0_d           
+  dif_usecol:8_idx0:2.5_6  1.3439781250E+00      1.0000000000E+00      prof_6.0_d           
+  dif_usecol:8_idx0:2.5_7  -4.7699331210E+00     1.0000000000E+00      prof_6.0_d           
+  dif_usecol:8_idx0:2.5_8  1.1103798000E-02      1.0000000000E+00      prof_6.0_d           
+  dif_usecol:8_idx0:2.5_9  1.1693662000E-02      1.0000000000E+00      prof_6.0_d           
+flow__usecol:1_idx0:18.75  1.0000000000E+00      1.0000000000E+00      flow_in              
+flow__usecol:1_idx0:21.25  1.0000000000E+00      1.0000000000E+00      flow_in              
+flow__usecol:1_idx0:23.75  1.0000000000E+00      1.0000000000E+00      flow_in              
+flow__usecol:1_idx0:26.25  1.0000000000E+00      1.0000000000E+00      flow_in              
+flow__usecol:1_idx0:28.75  1.0000000000E+00      1.0000000000E+00      flow_in              
+flow__usecol:1_idx0:31.25  1.0000000000E+00      1.0000000000E+00      flow_in              
+flow__usecol:1_idx0:33.75  1.0000000000E+00      1.0000000000E+00      flow_in              
+flow__usecol:1_idx0:36.25  1.0000000000E+00      1.0000000000E+00      flow_in              
+flow__usecol:1_idx0:38.75  1.0000000000E+00      1.0000000000E+00      flow_in              
+flow__usecol:1_idx0:41.25  1.0000000000E+00      1.0000000000E+00      flow_in              
+flow__usecol:1_idx0:43.75  1.0000000000E+00      1.0000000000E+00      flow_in              
+flow__usecol:1_idx0:46.25  1.0000000000E+00      1.0000000000E+00      flow_in              
+flow__usecol:1_idx0:48.75  1.0000000000E+00      1.0000000000E+00      flow_in              
+flow__usecol:1_idx0:51.25  1.0000000000E+00      1.0000000000E+00      flow_in              
+flow__usecol:1_idx0:53.75  1.0000000000E+00      1.0000000000E+00      flow_in              
+flow__usecol:1_idx0:56.25  1.0000000000E+00      1.0000000000E+00      flow_in              
+flow__usecol:1_idx0:58.75  1.0000000000E+00      1.0000000000E+00      flow_in              
+flow__usecol:1_idx0:61.25  1.0000000000E+00      1.0000000000E+00      flow_in              
+flow__usecol:1_idx0:63.75  1.0000000000E+00      1.0000000000E+00      flow_in              
+flow__usecol:1_idx0:66.25  1.0000000000E+00      1.0000000000E+00      flow_in              
+flow__usecol:1_idx0:68.75  1.0000000000E+00      1.0000000000E+00      flow_in              
+flow__usecol:1_idx0:71.25  1.0000000000E+00      1.0000000000E+00      flow_in              
+flow__usecol:2_idx0:18.75  -1.0000000000E+00     1.0000000000E+00      flow_out             
+flow__usecol:2_idx0:21.25  -1.0000000000E+00     1.0000000000E+00      flow_out             
+flow__usecol:2_idx0:23.75  -1.0000000000E+00     1.0000000000E+00      flow_out             
+flow__usecol:2_idx0:26.25  -1.0000000000E+00     1.0000000000E+00      flow_out             
+flow__usecol:2_idx0:28.75  -1.0000000000E+00     1.0000000000E+00      flow_out             
+flow__usecol:2_idx0:31.25  -1.0000000000E+00     1.0000000000E+00      flow_out             
+flow__usecol:2_idx0:33.75  -1.0000000000E+00     1.0000000000E+00      flow_out             
+flow__usecol:2_idx0:36.25  -1.0000000000E+00     1.0000000000E+00      flow_out             
+flow__usecol:2_idx0:38.75  -1.0000000000E+00     1.0000000000E+00      flow_out             
+flow__usecol:2_idx0:41.25  -1.0000000000E+00     1.0000000000E+00      flow_out             
+flow__usecol:2_idx0:43.75  -1.0000000000E+00     1.0000000000E+00      flow_out             
+flow__usecol:2_idx0:46.25  -1.0000000000E+00     1.0000000000E+00      flow_out             
+flow__usecol:2_idx0:48.75  -1.0000000000E+00     1.0000000000E+00      flow_out             
+flow__usecol:2_idx0:51.25  -1.0000000000E+00     1.0000000000E+00      flow_out             
+flow__usecol:2_idx0:53.75  -1.0000000000E+00     1.0000000000E+00      flow_out             
+flow__usecol:2_idx0:56.25  -1.0000000000E+00     1.0000000000E+00      flow_out             
+flow__usecol:2_idx0:58.75  -1.0000000000E+00     1.0000000000E+00      flow_out             
+flow__usecol:2_idx0:61.25  -1.0000000000E+00     1.0000000000E+00      flow_out             
+flow__usecol:2_idx0:63.75  -1.0000000000E+00     1.0000000000E+00      flow_out             
+flow__usecol:2_idx0:66.25  -1.0000000000E+00     1.0000000000E+00      flow_out             
+flow__usecol:2_idx0:68.75  -1.0000000000E+00     1.0000000000E+00      flow_out             
+flow__usecol:2_idx0:71.25  -1.0000000000E+00     1.0000000000E+00      flow_out             
+ tdif_usecol:1_idx0:18.75  1.0000000000E+30      1.0000000000E+00      prof_0.02_td         
+ tdif_usecol:1_idx0:21.25  1.0000000000E+30      1.0000000000E+00      prof_0.02_td         
+ tdif_usecol:1_idx0:23.75  1.0000000000E+30      1.0000000000E+00      prof_0.02_td         
+ tdif_usecol:1_idx0:26.25  1.0000000000E+30      1.0000000000E+00      prof_0.02_td         
+ tdif_usecol:1_idx0:28.75  1.0000000000E+30      1.0000000000E+00      prof_0.02_td         
+ tdif_usecol:1_idx0:31.25  1.0000000000E+30      1.0000000000E+00      prof_0.02_td         
+ tdif_usecol:1_idx0:33.75  1.0000000000E+30      1.0000000000E+00      prof_0.02_td         
+ tdif_usecol:1_idx0:36.25  1.0000000000E+30      1.0000000000E+00      prof_0.02_td         
+ tdif_usecol:1_idx0:38.75  1.0000000000E+30      1.0000000000E+00      prof_0.02_td         
+ tdif_usecol:1_idx0:41.25  1.0000000000E+30      1.0000000000E+00      prof_0.02_td         
+ tdif_usecol:1_idx0:43.75  1.0000000000E+30      1.0000000000E+00      prof_0.02_td         
+ tdif_usecol:1_idx0:46.25  1.0000000000E+30      1.0000000000E+00      prof_0.02_td         
+ tdif_usecol:1_idx0:48.75  1.0000000000E+30      1.0000000000E+00      prof_0.02_td         
+ tdif_usecol:1_idx0:51.25  1.0000000000E+30      1.0000000000E+00      prof_0.02_td         
+ tdif_usecol:1_idx0:53.75  1.0000000000E+30      1.0000000000E+00      prof_0.02_td         
+ tdif_usecol:1_idx0:56.25  1.0000000000E+30      1.0000000000E+00      prof_0.02_td         
+ tdif_usecol:1_idx0:58.75  1.0000000000E+30      1.0000000000E+00      prof_0.02_td         
+ tdif_usecol:1_idx0:61.25  1.0000000000E+30      1.0000000000E+00      prof_0.02_td         
+ tdif_usecol:1_idx0:63.75  1.0000000000E+30      1.0000000000E+00      prof_0.02_td         
+ tdif_usecol:1_idx0:66.25  1.0000000000E+30      1.0000000000E+00      prof_0.02_td         
+ tdif_usecol:1_idx0:68.75  1.0000000000E+30      1.0000000000E+00      prof_0.02_td         
+ tdif_usecol:1_idx0:71.25  1.0000000000E+30      1.0000000000E+00      prof_0.02_td         
+ tdif_usecol:2_idx0:18.75  -9.9914566700E+01     1.0000000000E+00      prof_0.2_td          
+ tdif_usecol:2_idx0:21.25  -8.1846263700E+01     1.0000000000E+00      prof_0.2_td          
+ tdif_usecol:2_idx0:23.75  -6.3777960700E+01     1.0000000000E+00      prof_0.2_td          
+ tdif_usecol:2_idx0:26.25  -5.0578017800E+01     1.0000000000E+00      prof_0.2_td          
+ tdif_usecol:2_idx0:28.75  -3.8817104500E+01     1.0000000000E+00      prof_0.2_td          
+ tdif_usecol:2_idx0:31.25  -2.7475731200E+01     1.0000000000E+00      prof_0.2_td          
+ tdif_usecol:2_idx0:33.75  -1.9682900800E+01     1.0000000000E+00      prof_0.2_td          
+ tdif_usecol:2_idx0:36.25  -2.1482582168E+02     1.0000000000E+00      prof_0.2_td          
+ tdif_usecol:2_idx0:38.75  -3.7380783982E+02     1.0000000000E+00      prof_0.2_td          
+ tdif_usecol:2_idx0:41.25  -4.2958414991E+02     1.0000000000E+00      prof_0.2_td          
+ tdif_usecol:2_idx0:43.75  -4.2934658116E+02     1.0000000000E+00      prof_0.2_td          
+ tdif_usecol:2_idx0:46.25  -4.0165535215E+02     1.0000000000E+00      prof_0.2_td          
+ tdif_usecol:2_idx0:48.75  -3.5543730800E+02     1.0000000000E+00      prof_0.2_td          
+ tdif_usecol:2_idx0:51.25  -2.9714603970E+02     1.0000000000E+00      prof_0.2_td          
+ tdif_usecol:2_idx0:53.75  -1.0917767400E+01     1.0000000000E+00      prof_0.2_td          
+ tdif_usecol:2_idx0:56.25  -2.4564200000E-01     1.0000000000E+00      prof_0.2_td          
+ tdif_usecol:2_idx0:58.75  -3.7033000000E-03     1.0000000000E+00      prof_0.2_td          
+ tdif_usecol:2_idx0:61.25  -3.8099999983E-05     1.0000000000E+00      prof_0.2_td          
+ tdif_usecol:2_idx0:63.75  -3.0000001061E-07     1.0000000000E+00      prof_0.2_td          
+ tdif_usecol:2_idx0:66.25  -1.0000002248E-07     1.0000000000E+00      prof_0.2_td          
+ tdif_usecol:2_idx0:68.75  -6.8390000001E-04     1.0000000000E+00      prof_0.2_td          
+ tdif_usecol:2_idx0:71.25  -1.3677000000E-03     1.0000000000E+00      prof_0.2_td          
+ tdif_usecol:3_idx0:18.75  2.6672647470E+02      1.0000000000E+00      prof_0.5_td          
+ tdif_usecol:3_idx0:21.25  3.0102590320E+02      1.0000000000E+00      prof_0.5_td          
+ tdif_usecol:3_idx0:23.75  3.3532533170E+02      1.0000000000E+00      prof_0.5_td          
+ tdif_usecol:3_idx0:26.25  3.6347687760E+02      1.0000000000E+00      prof_0.5_td          
+ tdif_usecol:3_idx0:28.75  3.8997243580E+02      1.0000000000E+00      prof_0.5_td          
+ tdif_usecol:3_idx0:31.25  4.1658886200E+02      1.0000000000E+00      prof_0.5_td          
+ tdif_usecol:3_idx0:33.75  4.3777617940E+02      1.0000000000E+00      prof_0.5_td          
+ tdif_usecol:3_idx0:36.25  3.6959506500E+01      1.0000000000E+00      prof_0.5_td          
+ tdif_usecol:3_idx0:38.75  3.7219574740E+01      1.0000000000E+00      prof_0.5_td          
+ tdif_usecol:3_idx0:41.25  3.7500506100E+01      1.0000000000E+00      prof_0.5_td          
+ tdif_usecol:3_idx0:43.75  3.7801012290E+01      1.0000000000E+00      prof_0.5_td          
+ tdif_usecol:3_idx0:46.25  3.8119171300E+01      1.0000000000E+00      prof_0.5_td          
+ tdif_usecol:3_idx0:48.75  3.8485707450E+01      1.0000000000E+00      prof_0.5_td          
+ tdif_usecol:3_idx0:51.25  3.9071369400E+01      1.0000000000E+00      prof_0.5_td          
+ tdif_usecol:3_idx0:53.75  4.1617888570E+02      1.0000000000E+00      prof_0.5_td          
+ tdif_usecol:3_idx0:56.25  4.9244986270E+02      1.0000000000E+00      prof_0.5_td          
+ tdif_usecol:3_idx0:58.75  4.9959091150E+02      1.0000000000E+00      prof_0.5_td          
+ tdif_usecol:3_idx0:61.25  4.9998583990E+02      1.0000000000E+00      prof_0.5_td          
+ tdif_usecol:3_idx0:63.75  4.9999968860E+02      1.0000000000E+00      prof_0.5_td          
+ tdif_usecol:3_idx0:66.25  4.9999999450E+02      1.0000000000E+00      prof_0.5_td          
+ tdif_usecol:3_idx0:68.75  4.9999573540E+02      1.0000000000E+00      prof_0.5_td          
+ tdif_usecol:3_idx0:71.25  4.9999147630E+02      1.0000000000E+00      prof_0.5_td          
+ tdif_usecol:4_idx0:18.75  1.4655034490E+02      1.0000000000E+00      prof_1.0_td          
+ tdif_usecol:4_idx0:21.25  1.8140810350E+02      1.0000000000E+00      prof_1.0_td          
+ tdif_usecol:4_idx0:23.75  2.1626586210E+02      1.0000000000E+00      prof_1.0_td          
+ tdif_usecol:4_idx0:26.25  2.4939040810E+02      1.0000000000E+00      prof_1.0_td          
+ tdif_usecol:4_idx0:28.75  2.8365709180E+02      1.0000000000E+00      prof_1.0_td          
+ tdif_usecol:4_idx0:31.25  3.2072965940E+02      1.0000000000E+00      prof_1.0_td          
+ tdif_usecol:4_idx0:33.75  3.5495610670E+02      1.0000000000E+00      prof_1.0_td          
+ tdif_usecol:4_idx0:36.25  3.0087045160E+01      1.0000000000E+00      prof_1.0_td          
+ tdif_usecol:4_idx0:38.75  3.0417780320E+01      1.0000000000E+00      prof_1.0_td          
+ tdif_usecol:4_idx0:41.25  3.0767388510E+01      1.0000000000E+00      prof_1.0_td          
+ tdif_usecol:4_idx0:43.75  3.1132328890E+01      1.0000000000E+00      prof_1.0_td          
+ tdif_usecol:4_idx0:46.25  3.1501757920E+01      1.0000000000E+00      prof_1.0_td          
+ tdif_usecol:4_idx0:48.75  3.1874128420E+01      1.0000000000E+00      prof_1.0_td          
+ tdif_usecol:4_idx0:51.25  3.2327172660E+01      1.0000000000E+00      prof_1.0_td          
+ tdif_usecol:4_idx0:53.75  3.1285497410E+02      1.0000000000E+00      prof_1.0_td          
+ tdif_usecol:4_idx0:56.25  4.6012900110E+02      1.0000000000E+00      prof_1.0_td          
+ tdif_usecol:4_idx0:58.75  4.9486287250E+02      1.0000000000E+00      prof_1.0_td          
+ tdif_usecol:4_idx0:61.25  4.9958019580E+02      1.0000000000E+00      prof_1.0_td          
+ tdif_usecol:4_idx0:63.75  4.9997841060E+02      1.0000000000E+00      prof_1.0_td          
+ tdif_usecol:4_idx0:66.25  4.9999934170E+02      1.0000000000E+00      prof_1.0_td          
+ tdif_usecol:4_idx0:68.75  4.9998328020E+02      1.0000000000E+00      prof_1.0_td          
+ tdif_usecol:4_idx0:71.25  4.9996721870E+02      1.0000000000E+00      prof_1.0_td          
+ tdif_usecol:5_idx0:18.75  8.2483192000E+01      1.0000000000E+00      prof_1.5_td          
+ tdif_usecol:5_idx0:21.25  1.0939509670E+02      1.0000000000E+00      prof_1.5_td          
+ tdif_usecol:5_idx0:23.75  1.3630700140E+02      1.0000000000E+00      prof_1.5_td          
+ tdif_usecol:5_idx0:26.25  1.6439300050E+02      1.0000000000E+00      prof_1.5_td          
+ tdif_usecol:5_idx0:28.75  1.9572000400E+02      1.0000000000E+00      prof_1.5_td          
+ tdif_usecol:5_idx0:31.25  2.3192668500E+02      1.0000000000E+00      prof_1.5_td          
+ tdif_usecol:5_idx0:33.75  2.6875544380E+02      1.0000000000E+00      prof_1.5_td          
+ tdif_usecol:5_idx0:36.25  2.2858072830E+01      1.0000000000E+00      prof_1.5_td          
+ tdif_usecol:5_idx0:38.75  2.3187329560E+01      1.0000000000E+00      prof_1.5_td          
+ tdif_usecol:5_idx0:41.25  2.3533712600E+01      1.0000000000E+00      prof_1.5_td          
+ tdif_usecol:5_idx0:43.75  2.3894740870E+01      1.0000000000E+00      prof_1.5_td          
+ tdif_usecol:5_idx0:46.25  2.4262256940E+01      1.0000000000E+00      prof_1.5_td          
+ tdif_usecol:5_idx0:48.75  2.4635129130E+01      1.0000000000E+00      prof_1.5_td          
+ tdif_usecol:5_idx0:51.25  2.5069897950E+01      1.0000000000E+00      prof_1.5_td          
+ tdif_usecol:5_idx0:53.75  2.3603757330E+02      1.0000000000E+00      prof_1.5_td          
+ tdif_usecol:5_idx0:56.25  4.1418948030E+02      1.0000000000E+00      prof_1.5_td          
+ tdif_usecol:5_idx0:58.75  4.8260567090E+02      1.0000000000E+00      prof_1.5_td          
+ tdif_usecol:5_idx0:61.25  4.9773743660E+02      1.0000000000E+00      prof_1.5_td          
+ tdif_usecol:5_idx0:63.75  4.9981390660E+02      1.0000000000E+00      prof_1.5_td          
+ tdif_usecol:5_idx0:66.25  4.9999102740E+02      1.0000000000E+00      prof_1.5_td          
+ tdif_usecol:5_idx0:68.75  4.9996296630E+02      1.0000000000E+00      prof_1.5_td          
+ tdif_usecol:5_idx0:71.25  4.9993490520E+02      1.0000000000E+00      prof_1.5_td          
+ tdif_usecol:6_idx0:18.75  4.7309076160E+01      1.0000000000E+00      prof_2.0_td          
+ tdif_usecol:6_idx0:21.25  6.5999053700E+01      1.0000000000E+00      prof_2.0_td          
+ tdif_usecol:6_idx0:23.75  8.4689031240E+01      1.0000000000E+00      prof_2.0_td          
+ tdif_usecol:6_idx0:26.25  1.0544910940E+02      1.0000000000E+00      prof_2.0_td          
+ tdif_usecol:6_idx0:28.75  1.2994515850E+02      1.0000000000E+00      prof_2.0_td          
+ tdif_usecol:6_idx0:31.25  1.5982181940E+02      1.0000000000E+00      prof_2.0_td          
+ tdif_usecol:6_idx0:33.75  1.9240630420E+02      1.0000000000E+00      prof_2.0_td          
+ tdif_usecol:6_idx0:36.25  1.6409073270E+01      1.0000000000E+00      prof_2.0_td          
+ tdif_usecol:6_idx0:38.75  1.6690484540E+01      1.0000000000E+00      prof_2.0_td          
+ tdif_usecol:6_idx0:41.25  1.6986199740E+01      1.0000000000E+00      prof_2.0_td          
+ tdif_usecol:6_idx0:43.75  1.7294592860E+01      1.0000000000E+00      prof_2.0_td          
+ tdif_usecol:6_idx0:46.25  1.7609894440E+01      1.0000000000E+00      prof_2.0_td          
+ tdif_usecol:6_idx0:48.75  1.7931410310E+01      1.0000000000E+00      prof_2.0_td          
+ tdif_usecol:6_idx0:51.25  1.8301348190E+01      1.0000000000E+00      prof_2.0_td          
+ tdif_usecol:6_idx0:53.75  1.7833063050E+02      1.0000000000E+00      prof_2.0_td          
+ tdif_usecol:6_idx0:56.25  3.6341596160E+02      1.0000000000E+00      prof_2.0_td          
+ tdif_usecol:6_idx0:58.75  4.6259614340E+02      1.0000000000E+00      prof_2.0_td          
+ tdif_usecol:6_idx0:61.25  4.9332678570E+02      1.0000000000E+00      prof_2.0_td          
+ tdif_usecol:6_idx0:63.75  4.9924141360E+02      1.0000000000E+00      prof_2.0_td          
+ tdif_usecol:6_idx0:66.25  4.9994935610E+02      1.0000000000E+00      prof_2.0_td          
+ tdif_usecol:6_idx0:68.75  4.9993429930E+02      1.0000000000E+00      prof_2.0_td          
+ tdif_usecol:6_idx0:71.25  4.9991924250E+02      1.0000000000E+00      prof_2.0_td          
+ tdif_usecol:7_idx0:18.75  1.6187636910E+01      1.0000000000E+00      prof_3.0_td          
+ tdif_usecol:7_idx0:21.25  2.4042885130E+01      1.0000000000E+00      prof_3.0_td          
+ tdif_usecol:7_idx0:23.75  3.1898133350E+01      1.0000000000E+00      prof_3.0_td          
+ tdif_usecol:7_idx0:26.25  4.1272191040E+01      1.0000000000E+00      prof_3.0_td          
+ tdif_usecol:7_idx0:28.75  5.3148429380E+01      1.0000000000E+00      prof_3.0_td          
+ tdif_usecol:7_idx0:31.25  6.8742240210E+01      1.0000000000E+00      prof_3.0_td          
+ tdif_usecol:7_idx0:33.75  8.7362101950E+01      1.0000000000E+00      prof_3.0_td          
+ tdif_usecol:7_idx0:36.25  7.4782170600E+00      1.0000000000E+00      prof_3.0_td          
+ tdif_usecol:7_idx0:38.75  7.6345658070E+00      1.0000000000E+00      prof_3.0_td          
+ tdif_usecol:7_idx0:41.25  7.7989291520E+00      1.0000000000E+00      prof_3.0_td          
+ tdif_usecol:7_idx0:43.75  7.9706869910E+00      1.0000000000E+00      prof_3.0_td          
+ tdif_usecol:7_idx0:46.25  8.1472910860E+00      1.0000000000E+00      prof_3.0_td          
+ tdif_usecol:7_idx0:48.75  8.3286229210E+00      1.0000000000E+00      prof_3.0_td          
+ tdif_usecol:7_idx0:51.25  8.5394950450E+00      1.0000000000E+00      prof_3.0_td          
+ tdif_usecol:7_idx0:53.75  1.0157409780E+02      1.0000000000E+00      prof_3.0_td          
+ tdif_usecol:7_idx0:56.25  2.6561688710E+02      1.0000000000E+00      prof_3.0_td          
+ tdif_usecol:7_idx0:58.75  4.0486587750E+02      1.0000000000E+00      prof_3.0_td          
+ tdif_usecol:7_idx0:61.25  4.7397268000E+02      1.0000000000E+00      prof_3.0_td          
+ tdif_usecol:7_idx0:63.75  4.9537813510E+02      1.0000000000E+00      prof_3.0_td          
+ tdif_usecol:7_idx0:66.25  4.9951314700E+02      1.0000000000E+00      prof_3.0_td          
+ tdif_usecol:7_idx0:68.75  4.9983803930E+02      1.0000000000E+00      prof_3.0_td          
+ tdif_usecol:7_idx0:71.25  5.0016293160E+02      1.0000000000E+00      prof_3.0_td          
+ tdif_usecol:8_idx0:18.75  7.4278516400E-01      1.0000000000E+00      prof_6.0_td          
+ tdif_usecol:8_idx0:21.25  1.1654044590E+00      1.0000000000E+00      prof_6.0_td          
+ tdif_usecol:8_idx0:23.75  1.5880237540E+00      1.0000000000E+00      prof_6.0_td          
+ tdif_usecol:8_idx0:26.25  2.1234864680E+00      1.0000000000E+00      prof_6.0_td          
+ tdif_usecol:8_idx0:28.75  2.8481262300E+00      1.0000000000E+00      prof_6.0_td          
+ tdif_usecol:8_idx0:31.25  3.8743375500E+00      1.0000000000E+00      prof_6.0_td          
+ tdif_usecol:8_idx0:33.75  5.2183156750E+00      1.0000000000E+00      prof_6.0_td          
+ tdif_usecol:8_idx0:36.25  4.4838255400E-01      1.0000000000E+00      prof_6.0_td          
+ tdif_usecol:8_idx0:38.75  4.5948635200E-01      1.0000000000E+00      prof_6.0_td          
+ tdif_usecol:8_idx0:41.25  4.7118001400E-01      1.0000000000E+00      prof_6.0_td          
+ tdif_usecol:8_idx0:43.75  4.8343579400E-01      1.0000000000E+00      prof_6.0_td          
+ tdif_usecol:8_idx0:46.25  4.9610938400E-01      1.0000000000E+00      prof_6.0_td          
+ tdif_usecol:8_idx0:48.75  5.0927474900E-01      1.0000000000E+00      prof_6.0_td          
+ tdif_usecol:8_idx0:51.25  5.2811212600E-01      1.0000000000E+00      prof_6.0_td          
+ tdif_usecol:8_idx0:53.75  1.8090589000E+01      1.0000000000E+00      prof_6.0_td          
+ tdif_usecol:8_idx0:56.25  8.2751166350E+01      1.0000000000E+00      prof_6.0_td          
+ tdif_usecol:8_idx0:58.75  2.0442105610E+02      1.0000000000E+00      prof_6.0_td          
+ tdif_usecol:8_idx0:61.25  3.4230471570E+02      1.0000000000E+00      prof_6.0_td          
+ tdif_usecol:8_idx0:63.75  4.4151059790E+02      1.0000000000E+00      prof_6.0_td          
+ tdif_usecol:8_idx0:66.25  4.8656106680E+02      1.0000000000E+00      prof_6.0_td          
+ tdif_usecol:8_idx0:68.75  4.9807016870E+02      1.0000000000E+00      prof_6.0_td          
+ tdif_usecol:8_idx0:71.25  5.0957927060E+02      1.0000000000E+00      prof_6.0_td          
+* model command line
+python forward_run.py
+* model input/output
+flows_frac.csv.tpl org\flows_frac.csv
+total_flow.csv.tpl org\total_flow.csv
+exp_function.csv.tpl org\exp_function.csv
+in.csv.tpl org\in.csv
+profiles-diff.csv.ins profiles-diff.csv
+profiles-tdiff.csv.ins profiles-tdiff.csv
+flows.csv.ins flows.csv

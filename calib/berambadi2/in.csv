@@ -1,0 +1,12 @@
+Depth to groundwater level [L],40.0
+Borehole depth [L],94.0
+Spatial discretization of grid [L],0.5
+Constant borehole cross-sectional area [L^2],0.0182
+Dispersivity [L^-1],0.25
+Diffusion coefficient [L^2/T],1e-09
+Tracer concentration of water inflow [M/L^3],1.129
+Water temperature [Celsius] (only read if above is FEC),25.0
+AlphaMin,0.05
+AlphaMax,0.3
+FlowMin,1e-05
+FlowMax,1000.0

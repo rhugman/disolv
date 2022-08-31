@@ -1,0 +1,411 @@
+
+PANTHER master listening on socket:0.0.0.0:4004 (IPv4)
+running model 3 times
+08/04/21 17:41:31->waiting for agents to appear
+
+08/04/21 17:41:33->new connection from: 3R3V7B3.isd.ad.flinders.edu.au:64446
+08/04/21 17:41:33->initializing new agent connection from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_0:3R3V7B3.isd.ad.flinders.edu.au:64446, number of agents: 1
+08/04/21 17:41:33->new connection from: 3R3V7B3.isd.ad.flinders.edu.au:64447
+08/04/21 17:41:33->initializing new agent connection from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_1:3R3V7B3.isd.ad.flinders.edu.au:64447, number of agents: 2
+08/04/21 17:41:33->new connection from: 3R3V7B3.isd.ad.flinders.edu.au:64448
+08/04/21 17:41:33->initializing new agent connection from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_2:3R3V7B3.isd.ad.flinders.edu.au:64448, number of agents: 3
+08/04/21 17:41:33->new connection from: 3R3V7B3.isd.ad.flinders.edu.au:64449
+08/04/21 17:41:33->initializing new agent connection from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_3:3R3V7B3.isd.ad.flinders.edu.au:64449, number of agents: 4
+08/04/21 17:41:33->new connection from: 3R3V7B3.isd.ad.flinders.edu.au:64450
+08/04/21 17:41:33->initializing new agent connection from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_4:3R3V7B3.isd.ad.flinders.edu.au:64450, number of agents: 5
+08/04/21 17:41:33->new connection from: 3R3V7B3.isd.ad.flinders.edu.au:64451
+08/04/21 17:41:33->initializing new agent connection from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_5:3R3V7B3.isd.ad.flinders.edu.au:64451, number of agents: 6
+08/04/21 17:41:33->new connection from: 3R3V7B3.isd.ad.flinders.edu.au:64452
+08/04/21 17:41:33->initializing new agent connection from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_6:3R3V7B3.isd.ad.flinders.edu.au:64452, number of agents: 7
+08/04/21 17:41:33->new connection from: 3R3V7B3.isd.ad.flinders.edu.au:64453
+08/04/21 17:41:33->initializing new agent connection from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_7:3R3V7B3.isd.ad.flinders.edu.au:64453, number of agents: 8
+08/04/21 17:41:33->new connection from: 3R3V7B3.isd.ad.flinders.edu.au:64454
+08/04/21 17:41:33->initializing new agent connection from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_8:3R3V7B3.isd.ad.flinders.edu.au:64454, number of agents: 9
+08/04/21 17:41:33->new connection from: 3R3V7B3.isd.ad.flinders.edu.au:64455
+08/04/21 17:41:33->initializing new agent connection from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_9:3R3V7B3.isd.ad.flinders.edu.au:64455, number of agents: 10
+08/04/21 17:41:33->new agent ready: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_0:3R3V7B3.isd.ad.flinders.edu.au:64446
+08/04/21 17:41:33->Sending run 0 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_0  (group id:2, run id:0, concurrent runs:1)
+08/04/21 17:41:33->new agent ready: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_1:3R3V7B3.isd.ad.flinders.edu.au:64447
+08/04/21 17:41:33->Sending run 1 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_1  (group id:2, run id:1, concurrent runs:1)
+08/04/21 17:41:33->new agent ready: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_2:3R3V7B3.isd.ad.flinders.edu.au:64448
+08/04/21 17:41:33->Sending run 2 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_2  (group id:2, run id:2, concurrent runs:1)
+08/04/21 17:41:33->new agent ready: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_3:3R3V7B3.isd.ad.flinders.edu.au:64449
+08/04/21 17:41:33->new agent ready: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_4:3R3V7B3.isd.ad.flinders.edu.au:64450
+08/04/21 17:41:34->new agent ready: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_5:3R3V7B3.isd.ad.flinders.edu.au:64451
+08/04/21 17:41:34->new agent ready: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_6:3R3V7B3.isd.ad.flinders.edu.au:64452
+08/04/21 17:41:34->new agent ready: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_7:3R3V7B3.isd.ad.flinders.edu.au:64453
+08/04/21 17:41:34->new agent ready: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_8:3R3V7B3.isd.ad.flinders.edu.au:64454
+08/04/21 17:41:34->new agent ready: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_9:3R3V7B3.isd.ad.flinders.edu.au:64455
+08/04/21 17:41:39->run 0 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_0  (run time:0.08885 min, avg run time:0.08885 min, group id:2, run id: 0 concurrent:1)
+08/04/21 17:41:39->run 0 processed
+08/04/21 17:41:39->run 1 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_1  (run time:0.0888167 min, avg run time:0.0888333 min, group id:2, run id: 1 concurrent:1)
+08/04/21 17:41:39->run 1 processed
+08/04/21 17:41:39->run 2 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_2  (run time:0.0888167 min, avg run time:0.0888278 min, group id:2, run id: 2 concurrent:1)
+08/04/21 17:41:39->run 2 processed
+
+---------------------
+   3 runs complete :  0 runs failed
+
+
+08/04/21 17:41:39->Started idle ping thread.
+08/04/21 17:41:39->Panther idle ping thread resumed.
+08/04/21 17:41:40->Panther idle ping thread paused prior to scheduling runs.
+running model 21 times
+08/04/21 17:41:40->
+    10 agents ready
+
+08/04/21 17:41:40->Sending run 1 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_0  (group id:3, run id:1, concurrent runs:1)
+08/04/21 17:41:40->Sending run 2 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_1  (group id:3, run id:2, concurrent runs:1)
+08/04/21 17:41:40->Sending run 3 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_2  (group id:3, run id:3, concurrent runs:1)
+08/04/21 17:41:40->Sending run 4 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_3  (group id:3, run id:4, concurrent runs:1)
+08/04/21 17:41:40->Sending run 5 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_4  (group id:3, run id:5, concurrent runs:1)
+08/04/21 17:41:40->Sending run 6 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_5  (group id:3, run id:6, concurrent runs:1)
+08/04/21 17:41:40->Sending run 7 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_6  (group id:3, run id:7, concurrent runs:1)
+08/04/21 17:41:40->Sending run 8 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_7  (group id:3, run id:8, concurrent runs:1)
+08/04/21 17:41:40->Sending run 9 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_8  (group id:3, run id:9, concurrent runs:1)
+08/04/21 17:41:40->Sending run 10 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_9  (group id:3, run id:10, concurrent runs:1)
+08/04/21 17:41:46->run 8 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_7  (run time:0.1039 min, avg run time:0.1039 min, group id:3, run id: 8 concurrent:1)
+08/04/21 17:41:46->run 8 processed
+08/04/21 17:41:46->run 1 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_0  (run time:0.103917 min, avg run time:0.103908 min, group id:3, run id: 1 concurrent:1)
+08/04/21 17:41:46->run 1 processed
+08/04/21 17:41:46->run 3 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_2  (run time:0.103917 min, avg run time:0.103911 min, group id:3, run id: 3 concurrent:1)
+08/04/21 17:41:46->run 3 processed
+08/04/21 17:41:46->run 7 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_6  (run time:0.103917 min, avg run time:0.103913 min, group id:3, run id: 7 concurrent:1)
+08/04/21 17:41:46->run 7 processed
+08/04/21 17:41:46->run 2 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_1  (run time:0.103933 min, avg run time:0.103917 min, group id:3, run id: 2 concurrent:1)
+08/04/21 17:41:46->run 2 processed
+08/04/21 17:41:46->run 4 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_3  (run time:0.103933 min, avg run time:0.103919 min, group id:3, run id: 4 concurrent:1)
+08/04/21 17:41:46->run 4 processed
+08/04/21 17:41:46->run 6 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_5  (run time:0.103933 min, avg run time:0.103921 min, group id:3, run id: 6 concurrent:1)
+08/04/21 17:41:46->run 6 processed
+08/04/21 17:41:46->Sending run 11 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_7  (group id:3, run id:11, concurrent runs:1)
+08/04/21 17:41:46->run 10 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_9  (run time:0.103933 min, avg run time:0.103923 min, group id:3, run id: 10 concurrent:1)
+08/04/21 17:41:46->run 10 processed
+08/04/21 17:41:46->run 5 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_4  (run time:0.10395 min, avg run time:0.103926 min, group id:3, run id: 5 concurrent:1)
+08/04/21 17:41:46->run 5 processed
+08/04/21 17:41:46->run 9 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_8  (run time:0.10395 min, avg run time:0.103928 min, group id:3, run id: 9 concurrent:1)
+08/04/21 17:41:46->run 9 processed
+08/04/21 17:41:46->Sending run 12 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_0  (group id:3, run id:12, concurrent runs:1)
+08/04/21 17:41:46->Sending run 13 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_1  (group id:3, run id:13, concurrent runs:1)
+08/04/21 17:41:46->Sending run 14 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_2  (group id:3, run id:14, concurrent runs:1)
+08/04/21 17:41:46->Sending run 15 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_3  (group id:3, run id:15, concurrent runs:1)
+08/04/21 17:41:46->Sending run 16 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_5  (group id:3, run id:16, concurrent runs:1)
+08/04/21 17:41:46->Sending run 17 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_6  (group id:3, run id:17, concurrent runs:1)
+08/04/21 17:41:46->Sending run 18 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_4  (group id:3, run id:18, concurrent runs:1)
+08/04/21 17:41:46->Sending run 19 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_8  (group id:3, run id:19, concurrent runs:1)
+08/04/21 17:41:46->Sending run 20 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_9  (group id:3, run id:20, concurrent runs:1)
+08/04/21 17:41:52->run 19 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_8  (run time:0.104767 min, avg run time:0.10401 min, group id:3, run id: 19 concurrent:1)
+08/04/21 17:41:52->run 19 processed
+08/04/21 17:41:52->run 12 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_0  (run time:0.10475 min, avg run time:0.104093 min, group id:3, run id: 12 concurrent:1)
+08/04/21 17:41:52->run 12 processed
+08/04/21 17:41:52->run 14 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_2  (run time:0.104767 min, avg run time:0.104178 min, group id:3, run id: 14 concurrent:1)
+08/04/21 17:41:52->run 14 processed
+08/04/21 17:41:52->run 11 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_7  (run time:0.104767 min, avg run time:0.104265 min, group id:3, run id: 11 concurrent:1)
+08/04/21 17:41:52->run 11 processed
+08/04/21 17:41:52->run 20 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_9  (run time:0.104767 min, avg run time:0.104348 min, group id:3, run id: 20 concurrent:1)
+08/04/21 17:41:52->run 20 processed
+08/04/21 17:41:52->run 17 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_6  (run time:0.104767 min, avg run time:0.104433 min, group id:3, run id: 17 concurrent:1)
+08/04/21 17:41:52->run 17 processed
+08/04/21 17:41:52->run 13 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_1  (run time:0.104767 min, avg run time:0.104517 min, group id:3, run id: 13 concurrent:1)
+08/04/21 17:41:52->run 13 processed
+08/04/21 17:41:52->run 15 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_3  (run time:0.104783 min, avg run time:0.104602 min, group id:3, run id: 15 concurrent:1)
+08/04/21 17:41:52->run 15 processed
+08/04/21 17:41:52->run 18 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_4  (run time:0.104783 min, avg run time:0.104685 min, group id:3, run id: 18 concurrent:1)
+08/04/21 17:41:52->run 18 processed
+08/04/21 17:41:52->run 16 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_5  (run time:0.104783 min, avg run time:0.10477 min, group id:3, run id: 16 concurrent:1)
+08/04/21 17:41:52->run 16 processed
+08/04/21 17:41:52->Sending run 21 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_8  (group id:3, run id:21, concurrent runs:1)
+08/04/21 17:41:58->run 21 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_8  (run time:0.0967667 min, avg run time:0.10397 min, group id:3, run id: 21 concurrent:1)
+08/04/21 17:41:58->run 21 processed
+
+---------------------
+   21 runs complete :  0 runs failed
+
+
+08/04/21 17:41:58->Panther idle ping thread resumed.
+08/04/21 17:41:58->Panther idle ping thread paused prior to scheduling runs.
+running model 2 times
+08/04/21 17:41:58->
+    10 agents ready
+
+08/04/21 17:41:58->Sending run 1 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_0  (group id:4, run id:1, concurrent runs:1)
+08/04/21 17:41:58->Sending run 2 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_1  (group id:4, run id:2, concurrent runs:1)
+08/04/21 17:42:03->run 1 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_0  (run time:0.0871167 min, avg run time:0.0871167 min, group id:4, run id: 1 concurrent:1)
+08/04/21 17:42:03->run 1 processed
+08/04/21 17:42:03->run 2 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_1  (run time:0.0871167 min, avg run time:0.0871167 min, group id:4, run id: 2 concurrent:1)
+08/04/21 17:42:03->run 2 processed
+
+---------------------
+   2 runs complete :  0 runs failed
+
+
+08/04/21 17:42:03->Panther idle ping thread resumed.
+08/04/21 17:42:03->Panther idle ping thread paused prior to scheduling runs.
+running model 21 times
+08/04/21 17:42:03->
+    10 agents ready
+
+08/04/21 17:42:03->Sending run 1 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_0  (group id:5, run id:1, concurrent runs:1)
+08/04/21 17:42:03->Sending run 2 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_2  (group id:5, run id:2, concurrent runs:1)
+08/04/21 17:42:03->Sending run 3 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_3  (group id:5, run id:3, concurrent runs:1)
+08/04/21 17:42:03->Sending run 4 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_4  (group id:5, run id:4, concurrent runs:1)
+08/04/21 17:42:03->Sending run 5 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_5  (group id:5, run id:5, concurrent runs:1)
+08/04/21 17:42:03->Sending run 6 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_6  (group id:5, run id:6, concurrent runs:1)
+08/04/21 17:42:03->Sending run 7 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_7  (group id:5, run id:7, concurrent runs:1)
+08/04/21 17:42:03->Sending run 8 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_8  (group id:5, run id:8, concurrent runs:1)
+08/04/21 17:42:03->Sending run 9 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_9  (group id:5, run id:9, concurrent runs:1)
+08/04/21 17:42:03->Sending run 10 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_1  (group id:5, run id:10, concurrent runs:1)
+08/04/21 17:42:09->run 5 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_5  (run time:0.103883 min, avg run time:0.103883 min, group id:5, run id: 5 concurrent:1)
+08/04/21 17:42:09->run 5 processed
+08/04/21 17:42:09->run 2 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_2  (run time:0.1039 min, avg run time:0.103892 min, group id:5, run id: 2 concurrent:1)
+08/04/21 17:42:09->run 2 processed
+08/04/21 17:42:09->run 6 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_6  (run time:0.1039 min, avg run time:0.103894 min, group id:5, run id: 6 concurrent:1)
+08/04/21 17:42:09->run 6 processed
+08/04/21 17:42:09->run 3 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_3  (run time:0.1039 min, avg run time:0.103896 min, group id:5, run id: 3 concurrent:1)
+08/04/21 17:42:09->run 3 processed
+08/04/21 17:42:09->run 4 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_4  (run time:0.1039 min, avg run time:0.103897 min, group id:5, run id: 4 concurrent:1)
+08/04/21 17:42:09->run 4 processed
+08/04/21 17:42:09->Sending run 11 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_5  (group id:5, run id:11, concurrent runs:1)
+08/04/21 17:42:09->run 7 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_7  (run time:0.1039 min, avg run time:0.103897 min, group id:5, run id: 7 concurrent:1)
+08/04/21 17:42:09->run 7 processed
+08/04/21 17:42:09->run 9 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_9  (run time:0.103917 min, avg run time:0.1039 min, group id:5, run id: 9 concurrent:1)
+08/04/21 17:42:09->run 9 processed
+08/04/21 17:42:09->run 8 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_8  (run time:0.103917 min, avg run time:0.103902 min, group id:5, run id: 8 concurrent:1)
+08/04/21 17:42:09->run 8 processed
+08/04/21 17:42:09->Sending run 12 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_2  (group id:5, run id:12, concurrent runs:1)
+08/04/21 17:42:09->Sending run 13 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_3  (group id:5, run id:13, concurrent runs:1)
+08/04/21 17:42:09->Sending run 14 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_4  (group id:5, run id:14, concurrent runs:1)
+08/04/21 17:42:09->Sending run 15 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_6  (group id:5, run id:15, concurrent runs:1)
+08/04/21 17:42:09->Sending run 16 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_7  (group id:5, run id:16, concurrent runs:1)
+08/04/21 17:42:09->Sending run 17 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_8  (group id:5, run id:17, concurrent runs:1)
+08/04/21 17:42:09->Sending run 18 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_9  (group id:5, run id:18, concurrent runs:1)
+08/04/21 17:42:09->run 1 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_0  (run time:0.104833 min, avg run time:0.104006 min, group id:5, run id: 1 concurrent:1)
+08/04/21 17:42:09->run 1 processed
+08/04/21 17:42:09->run 10 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_1  (run time:0.104817 min, avg run time:0.104087 min, group id:5, run id: 10 concurrent:1)
+08/04/21 17:42:09->run 10 processed
+08/04/21 17:42:09->Sending run 19 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_0  (group id:5, run id:19, concurrent runs:1)
+08/04/21 17:42:09->Sending run 20 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_1  (group id:5, run id:20, concurrent runs:1)
+08/04/21 17:42:15->run 15 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_6  (run time:0.104717 min, avg run time:0.104168 min, group id:5, run id: 15 concurrent:1)
+08/04/21 17:42:15->run 15 processed
+08/04/21 17:42:15->run 12 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_2  (run time:0.104717 min, avg run time:0.10425 min, group id:5, run id: 12 concurrent:1)
+08/04/21 17:42:15->run 12 processed
+08/04/21 17:42:15->run 13 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_3  (run time:0.104717 min, avg run time:0.104332 min, group id:5, run id: 13 concurrent:1)
+08/04/21 17:42:15->run 13 processed
+08/04/21 17:42:15->run 14 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_4  (run time:0.104733 min, avg run time:0.104415 min, group id:5, run id: 14 concurrent:1)
+08/04/21 17:42:15->run 14 processed
+08/04/21 17:42:15->run 11 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_5  (run time:0.104733 min, avg run time:0.1045 min, group id:5, run id: 11 concurrent:1)
+08/04/21 17:42:15->run 11 processed
+08/04/21 17:42:15->Sending run 21 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_6  (group id:5, run id:21, concurrent runs:1)
+08/04/21 17:42:15->run 16 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_7  (run time:0.104733 min, avg run time:0.104583 min, group id:5, run id: 16 concurrent:1)
+08/04/21 17:42:15->run 16 processed
+08/04/21 17:42:15->run 18 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_9  (run time:0.104733 min, avg run time:0.104665 min, group id:5, run id: 18 concurrent:1)
+08/04/21 17:42:15->run 18 processed
+08/04/21 17:42:15->run 17 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_8  (run time:0.104733 min, avg run time:0.104747 min, group id:5, run id: 17 concurrent:1)
+08/04/21 17:42:15->run 17 processed
+08/04/21 17:42:15->run 19 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_0  (run time:0.1052 min, avg run time:0.104783 min, group id:5, run id: 19 concurrent:1)
+08/04/21 17:42:15->run 19 processed
+08/04/21 17:42:15->run 20 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_1  (run time:0.105183 min, avg run time:0.10482 min, group id:5, run id: 20 concurrent:1)
+08/04/21 17:42:15->run 20 processed
+08/04/21 17:42:21->run 21 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_6  (run time:0.09675 min, avg run time:0.104023 min, group id:5, run id: 21 concurrent:1)
+08/04/21 17:42:21->run 21 processed
+
+---------------------
+   21 runs complete :  0 runs failed
+
+
+08/04/21 17:42:21->Panther idle ping thread resumed.
+08/04/21 17:42:21->Panther idle ping thread paused prior to scheduling runs.
+running model 4 times
+08/04/21 17:42:21->
+    10 agents ready
+
+08/04/21 17:42:21->Sending run 1 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_0  (group id:6, run id:1, concurrent runs:1)
+08/04/21 17:42:21->Sending run 2 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_1  (group id:6, run id:2, concurrent runs:1)
+08/04/21 17:42:21->Sending run 3 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_2  (group id:6, run id:3, concurrent runs:1)
+08/04/21 17:42:21->Sending run 4 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_3  (group id:6, run id:4, concurrent runs:1)
+08/04/21 17:42:26->run 1 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_0  (run time:0.0871333 min, avg run time:0.0871333 min, group id:6, run id: 1 concurrent:1)
+08/04/21 17:42:26->run 1 processed
+08/04/21 17:42:26->run 3 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_2  (run time:0.0871333 min, avg run time:0.0871333 min, group id:6, run id: 3 concurrent:1)
+08/04/21 17:42:26->run 3 processed
+08/04/21 17:42:26->run 2 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_1  (run time:0.08715 min, avg run time:0.0871389 min, group id:6, run id: 2 concurrent:1)
+08/04/21 17:42:26->run 2 processed
+08/04/21 17:42:26->run 4 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_3  (run time:0.08715 min, avg run time:0.0871417 min, group id:6, run id: 4 concurrent:1)
+08/04/21 17:42:26->run 4 processed
+
+---------------------
+   4 runs complete :  0 runs failed
+
+
+08/04/21 17:42:26->Panther idle ping thread resumed.
+08/04/21 17:42:26->Panther idle ping thread paused prior to scheduling runs.
+running model 21 times
+08/04/21 17:42:26->
+    10 agents ready
+
+08/04/21 17:42:26->Sending run 1 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_0  (group id:7, run id:1, concurrent runs:1)
+08/04/21 17:42:26->Sending run 2 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_4  (group id:7, run id:2, concurrent runs:1)
+08/04/21 17:42:26->Sending run 3 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_5  (group id:7, run id:3, concurrent runs:1)
+08/04/21 17:42:26->Sending run 4 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_6  (group id:7, run id:4, concurrent runs:1)
+08/04/21 17:42:26->Sending run 5 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_7  (group id:7, run id:5, concurrent runs:1)
+08/04/21 17:42:26->Sending run 6 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_8  (group id:7, run id:6, concurrent runs:1)
+08/04/21 17:42:26->Sending run 7 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_9  (group id:7, run id:7, concurrent runs:1)
+08/04/21 17:42:26->Sending run 8 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_1  (group id:7, run id:8, concurrent runs:1)
+08/04/21 17:42:26->Sending run 9 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_2  (group id:7, run id:9, concurrent runs:1)
+08/04/21 17:42:26->Sending run 10 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_3  (group id:7, run id:10, concurrent runs:1)
+08/04/21 17:42:32->run 5 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_7  (run time:0.103983 min, avg run time:0.103983 min, group id:7, run id: 5 concurrent:1)
+08/04/21 17:42:32->run 5 processed
+08/04/21 17:42:32->run 7 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_9  (run time:0.103983 min, avg run time:0.103983 min, group id:7, run id: 7 concurrent:1)
+08/04/21 17:42:32->run 7 processed
+08/04/21 17:42:32->run 4 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_6  (run time:0.103983 min, avg run time:0.103983 min, group id:7, run id: 4 concurrent:1)
+08/04/21 17:42:32->run 4 processed
+08/04/21 17:42:32->run 2 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_4  (run time:0.104 min, avg run time:0.103987 min, group id:7, run id: 2 concurrent:1)
+08/04/21 17:42:32->run 2 processed
+08/04/21 17:42:32->run 3 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_5  (run time:0.104 min, avg run time:0.10399 min, group id:7, run id: 3 concurrent:1)
+08/04/21 17:42:32->run 3 processed
+08/04/21 17:42:32->run 6 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_8  (run time:0.104 min, avg run time:0.103992 min, group id:7, run id: 6 concurrent:1)
+08/04/21 17:42:32->run 6 processed
+08/04/21 17:42:32->Sending run 11 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_7  (group id:7, run id:11, concurrent runs:1)
+08/04/21 17:42:32->Sending run 12 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_4  (group id:7, run id:12, concurrent runs:1)
+08/04/21 17:42:32->Sending run 13 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_5  (group id:7, run id:13, concurrent runs:1)
+08/04/21 17:42:32->Sending run 14 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_6  (group id:7, run id:14, concurrent runs:1)
+08/04/21 17:42:32->Sending run 15 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_8  (group id:7, run id:15, concurrent runs:1)
+08/04/21 17:42:32->Sending run 16 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_9  (group id:7, run id:16, concurrent runs:1)
+08/04/21 17:42:32->run 1 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_0  (run time:0.10485 min, avg run time:0.104114 min, group id:7, run id: 1 concurrent:1)
+08/04/21 17:42:32->run 1 processed
+08/04/21 17:42:32->run 8 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_1  (run time:0.10485 min, avg run time:0.104206 min, group id:7, run id: 8 concurrent:1)
+08/04/21 17:42:32->run 8 processed
+08/04/21 17:42:32->Sending run 17 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_0  (group id:7, run id:17, concurrent runs:1)
+08/04/21 17:42:32->Sending run 18 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_1  (group id:7, run id:18, concurrent runs:1)
+08/04/21 17:42:32->run 9 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_2  (run time:0.10485 min, avg run time:0.104278 min, group id:7, run id: 9 concurrent:1)
+08/04/21 17:42:32->run 9 processed
+08/04/21 17:42:32->run 10 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_3  (run time:0.104867 min, avg run time:0.104337 min, group id:7, run id: 10 concurrent:1)
+08/04/21 17:42:32->run 10 processed
+08/04/21 17:42:32->Sending run 19 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_2  (group id:7, run id:19, concurrent runs:1)
+08/04/21 17:42:32->Sending run 20 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_3  (group id:7, run id:20, concurrent runs:1)
+08/04/21 17:42:39->run 15 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_8  (run time:0.104783 min, avg run time:0.104415 min, group id:7, run id: 15 concurrent:1)
+08/04/21 17:42:39->run 15 processed
+08/04/21 17:42:39->run 11 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_7  (run time:0.104767 min, avg run time:0.104493 min, group id:7, run id: 11 concurrent:1)
+08/04/21 17:42:39->run 11 processed
+08/04/21 17:42:39->run 16 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_9  (run time:0.104767 min, avg run time:0.104572 min, group id:7, run id: 16 concurrent:1)
+08/04/21 17:42:39->run 16 processed
+08/04/21 17:42:39->run 14 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_6  (run time:0.104783 min, avg run time:0.104652 min, group id:7, run id: 14 concurrent:1)
+08/04/21 17:42:39->run 14 processed
+08/04/21 17:42:39->run 12 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_4  (run time:0.104783 min, avg run time:0.10473 min, group id:7, run id: 12 concurrent:1)
+08/04/21 17:42:39->run 12 processed
+08/04/21 17:42:39->run 13 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_5  (run time:0.104783 min, avg run time:0.104808 min, group id:7, run id: 13 concurrent:1)
+08/04/21 17:42:39->run 13 processed
+08/04/21 17:42:39->Sending run 21 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_8  (group id:7, run id:21, concurrent runs:1)
+08/04/21 17:42:39->run 17 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_0  (run time:0.105233 min, avg run time:0.104847 min, group id:7, run id: 17 concurrent:1)
+08/04/21 17:42:39->run 17 processed
+08/04/21 17:42:39->run 18 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_1  (run time:0.105233 min, avg run time:0.104885 min, group id:7, run id: 18 concurrent:1)
+08/04/21 17:42:39->run 18 processed
+08/04/21 17:42:39->run 20 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_3  (run time:0.105233 min, avg run time:0.104922 min, group id:7, run id: 20 concurrent:1)
+08/04/21 17:42:39->run 20 processed
+08/04/21 17:42:39->run 19 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_2  (run time:0.105233 min, avg run time:0.10496 min, group id:7, run id: 19 concurrent:1)
+08/04/21 17:42:39->run 19 processed
+08/04/21 17:42:44->run 21 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_8  (run time:0.0967667 min, avg run time:0.104158 min, group id:7, run id: 21 concurrent:1)
+08/04/21 17:42:44->run 21 processed
+
+---------------------
+   21 runs complete :  0 runs failed
+
+
+08/04/21 17:42:44->Panther idle ping thread resumed.
+08/04/21 17:42:44->Panther idle ping thread paused prior to scheduling runs.
+running model 4 times
+08/04/21 17:42:44->
+    10 agents ready
+
+08/04/21 17:42:44->Sending run 1 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_0  (group id:8, run id:1, concurrent runs:1)
+08/04/21 17:42:44->Sending run 2 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_1  (group id:8, run id:2, concurrent runs:1)
+08/04/21 17:42:44->Sending run 3 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_2  (group id:8, run id:3, concurrent runs:1)
+08/04/21 17:42:44->Sending run 4 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_3  (group id:8, run id:4, concurrent runs:1)
+08/04/21 17:42:49->run 1 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_0  (run time:0.0871167 min, avg run time:0.0871167 min, group id:8, run id: 1 concurrent:1)
+08/04/21 17:42:49->run 1 processed
+08/04/21 17:42:49->run 3 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_2  (run time:0.0871333 min, avg run time:0.087125 min, group id:8, run id: 3 concurrent:1)
+08/04/21 17:42:49->run 3 processed
+08/04/21 17:42:49->run 2 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_1  (run time:0.0871333 min, avg run time:0.0871278 min, group id:8, run id: 2 concurrent:1)
+08/04/21 17:42:49->run 2 processed
+08/04/21 17:42:49->run 4 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_3  (run time:0.0871333 min, avg run time:0.0871292 min, group id:8, run id: 4 concurrent:1)
+08/04/21 17:42:49->run 4 processed
+
+---------------------
+   4 runs complete :  0 runs failed
+
+
+08/04/21 17:42:49->Panther idle ping thread resumed.
+08/04/21 17:42:49->Panther idle ping thread paused prior to scheduling runs.
+running model 21 times
+08/04/21 17:42:49->
+    10 agents ready
+
+08/04/21 17:42:49->Sending run 1 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_0  (group id:9, run id:1, concurrent runs:1)
+08/04/21 17:42:49->Sending run 2 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_2  (group id:9, run id:2, concurrent runs:1)
+08/04/21 17:42:49->Sending run 3 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_4  (group id:9, run id:3, concurrent runs:1)
+08/04/21 17:42:49->Sending run 4 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_5  (group id:9, run id:4, concurrent runs:1)
+08/04/21 17:42:49->Sending run 5 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_6  (group id:9, run id:5, concurrent runs:1)
+08/04/21 17:42:49->Sending run 6 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_7  (group id:9, run id:6, concurrent runs:1)
+08/04/21 17:42:49->Sending run 7 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_8  (group id:9, run id:7, concurrent runs:1)
+08/04/21 17:42:49->Sending run 8 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_9  (group id:9, run id:8, concurrent runs:1)
+08/04/21 17:42:49->Sending run 9 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_1  (group id:9, run id:9, concurrent runs:1)
+08/04/21 17:42:49->Sending run 10 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_3  (group id:9, run id:10, concurrent runs:1)
+08/04/21 17:42:56->run 4 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_5  (run time:0.10385 min, avg run time:0.10385 min, group id:9, run id: 4 concurrent:1)
+08/04/21 17:42:56->run 4 processed
+08/04/21 17:42:56->run 5 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_6  (run time:0.10385 min, avg run time:0.10385 min, group id:9, run id: 5 concurrent:1)
+08/04/21 17:42:56->run 5 processed
+08/04/21 17:42:56->run 3 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_4  (run time:0.103867 min, avg run time:0.103856 min, group id:9, run id: 3 concurrent:1)
+08/04/21 17:42:56->run 3 processed
+08/04/21 17:42:56->Sending run 11 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_5  (group id:9, run id:11, concurrent runs:1)
+08/04/21 17:42:56->Sending run 12 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_4  (group id:9, run id:12, concurrent runs:1)
+08/04/21 17:42:56->Sending run 13 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_6  (group id:9, run id:13, concurrent runs:1)
+08/04/21 17:42:56->run 8 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_9  (run time:0.103883 min, avg run time:0.103862 min, group id:9, run id: 8 concurrent:1)
+08/04/21 17:42:56->run 8 processed
+08/04/21 17:42:56->run 6 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_7  (run time:0.103883 min, avg run time:0.103867 min, group id:9, run id: 6 concurrent:1)
+08/04/21 17:42:56->run 6 processed
+08/04/21 17:42:56->run 7 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_8  (run time:0.103883 min, avg run time:0.103869 min, group id:9, run id: 7 concurrent:1)
+08/04/21 17:42:56->run 7 processed
+08/04/21 17:42:56->Sending run 14 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_9  (group id:9, run id:14, concurrent runs:1)
+08/04/21 17:42:56->Sending run 15 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_7  (group id:9, run id:15, concurrent runs:1)
+08/04/21 17:42:56->Sending run 16 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_8  (group id:9, run id:16, concurrent runs:1)
+08/04/21 17:42:56->run 1 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_0  (run time:0.10485 min, avg run time:0.10401 min, group id:9, run id: 1 concurrent:1)
+08/04/21 17:42:56->run 1 processed
+08/04/21 17:42:56->run 9 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_1  (run time:0.104833 min, avg run time:0.104112 min, group id:9, run id: 9 concurrent:1)
+08/04/21 17:42:56->run 9 processed
+08/04/21 17:42:56->Sending run 17 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_0  (group id:9, run id:17, concurrent runs:1)
+08/04/21 17:42:56->run 10 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_3  (run time:0.10485 min, avg run time:0.104194 min, group id:9, run id: 10 concurrent:1)
+08/04/21 17:42:56->run 10 processed
+08/04/21 17:42:56->Sending run 18 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_1  (group id:9, run id:18, concurrent runs:1)
+08/04/21 17:42:56->run 2 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_2  (run time:0.104867 min, avg run time:0.104262 min, group id:9, run id: 2 concurrent:1)
+08/04/21 17:42:56->run 2 processed
+08/04/21 17:42:56->Sending run 19 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_3  (group id:9, run id:19, concurrent runs:1)
+08/04/21 17:42:56->Sending run 20 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_2  (group id:9, run id:20, concurrent runs:1)
+08/04/21 17:43:02->run 13 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_6  (run time:0.1047 min, avg run time:0.104347 min, group id:9, run id: 13 concurrent:1)
+08/04/21 17:43:02->run 13 processed
+08/04/21 17:43:02->run 12 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_4  (run time:0.104717 min, avg run time:0.104432 min, group id:9, run id: 12 concurrent:1)
+08/04/21 17:43:02->run 12 processed
+08/04/21 17:43:02->run 11 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_5  (run time:0.104717 min, avg run time:0.104518 min, group id:9, run id: 11 concurrent:1)
+08/04/21 17:43:02->run 11 processed
+08/04/21 17:43:02->Sending run 21 to: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_6  (group id:9, run id:21, concurrent runs:1)
+08/04/21 17:43:02->run 14 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_9  (run time:0.104717 min, avg run time:0.104602 min, group id:9, run id: 14 concurrent:1)
+08/04/21 17:43:02->run 14 processed
+08/04/21 17:43:02->run 16 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_8  (run time:0.104733 min, avg run time:0.104687 min, group id:9, run id: 16 concurrent:1)
+08/04/21 17:43:02->run 16 processed
+08/04/21 17:43:02->run 15 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_7  (run time:0.104733 min, avg run time:0.104772 min, group id:9, run id: 15 concurrent:1)
+08/04/21 17:43:02->run 15 processed
+08/04/21 17:43:02->run 17 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_0  (run time:0.105217 min, avg run time:0.104808 min, group id:9, run id: 17 concurrent:1)
+08/04/21 17:43:02->run 17 processed
+08/04/21 17:43:02->run 18 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_1  (run time:0.105217 min, avg run time:0.104847 min, group id:9, run id: 18 concurrent:1)
+08/04/21 17:43:02->run 18 processed
+08/04/21 17:43:02->run 20 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_2  (run time:0.105233 min, avg run time:0.104883 min, group id:9, run id: 20 concurrent:1)
+08/04/21 17:43:02->run 20 processed
+08/04/21 17:43:02->run 19 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_3  (run time:0.105233 min, avg run time:0.104922 min, group id:9, run id: 19 concurrent:1)
+08/04/21 17:43:02->run 19 processed
+08/04/21 17:43:07->run 21 received from: 3R3V7B3.isd.ad.flinders.edu.au$R:\Temp\worker_6  (run time:0.0967333 min, avg run time:0.104125 min, group id:9, run id: 21 concurrent:1)
+08/04/21 17:43:07->run 21 processed
+
+---------------------
+   21 runs complete :  0 runs failed
+
+
+08/04/21 17:43:07->Panther idle ping thread resumed.
+08/04/21 17:43:08->Stopped idle ping thread, as Panther manager is shutting down.

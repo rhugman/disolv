@@ -1,2 +1,2 @@
-iteration,model_runs_completed,total_phi,measurement_phi,regularization_phi,flow_in,flow_out,prof_0.02,prof_0.2,prof_0.5,prof_1.0,prof_1.5,prof_2.0,prof_3.0,prof_6.0,reg_in_flows,reg_out_flows
-0,1,5.09028,5.09028,0,0,0,0.524554,0.108871,0.160302,0.134388,0.0671905,0.0376463,0.0243703,0.017494,3.63509,0.380379
+iteration,model_runs_completed,total_phi,measurement_phi,regularization_phi,flow_in,flow_out,prof_0.0,prof_0.08,prof_0.12,prof_0.8,prof_1.92,prof_2.83
+0,1,250.678,250.678,0,0,0,100,35.1679,35.7341,54.2875,14.6531,10.8356
